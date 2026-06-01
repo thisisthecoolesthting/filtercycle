@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "shortName": "FilterCycle",
+    "fullName": "FilterCycle",
+    "taglineShort": "Change filters on schedule \u2014 not on marketing.",
+    "identity": {
+      "palette": {
+        "primary": "#0F4C5C",
+        "accent": "#E9C46A",
+        "cream": "#FAF5EF",
+        "ink": "#0F172A",
+        "secondary": "#2A9D8F",
+        "surface": "#F4F7F8"
+      },
+      "fonts": {
+        "display": "Fraunces",
+        "body": "Source Sans 3",
+        "mono": "IBM Plex Mono"
+      },
+      "mark": {
+        "svgPath": "brand/filtercycle-mark.svg",
+        "svgPublicPath": "/brand/filtercycle-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "FILTER REPLACEMENT WATCHDOG",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "practical"
+  },
+  "editorial": {
+    "authorSlug": "jordan-reed-filtercycle",
+    "author_slug": "jordan-reed-filtercycle",
+    "methodology": [
+      "We log static pressure drop (in. w.c.) at the filter slot monthly on three test homes: dusty rural, suburban pets, and urban apartment.",
+      "Replacement intervals are validated against manufacturer claims only when particle capture still meets the home's stated goal (allergies = MERV 11+ equivalent).",
+      "Subscription reorder cadence is tracked for 90 days before we recommend or warn against any auto-ship program.",
+      "We do not accept sponsorship from Filtrete, Honeywell, Lennox, or other OEM filter lines; affiliate revenue only on third-party equivalents we install.",
+      "Every interval claim cites climate, pet load, and runtime hours; if we cannot source it, we publish a range instead of a single number.",
+      "Reader corrections are answered within 72 hours and folded into the calendar or rebutted with dated test notes."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The FilterCycle weekly",
+    "subtitle": "Practical picks and straight answers from FilterCycle, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@filtercycle.org",
+  "defaultAuthorSlug": "jordan-reed",
+  "defaultMetaDescription": "We track MERV ratings, fridge filter part numbers, and whole-house cartridge pricing \u2014 then map honest change intervals for allergies, pets, and dusty climates so you stop over-buying and under-changi",
+  "homepage": {
+    "eyebrow": "Filter replacement watchdog",
+    "h1": "Your filters have a real replacement cycle. Retailers want you to ignore it.",
+    "subhead": "We track MERV ratings, fridge filter part numbers, and whole-house cartridge pricing \u2014 then map honest change intervals for allergies, pets, and dusty climates so you stop over-buying and under-changing.",
+    "ctaPrimaryLabel": "See the replacement calendar",
+    "ctaPrimaryHref": "/pillars/replacement-calendar",
+    "ctaSecondaryLabel": "MERV explained",
+    "ctaSecondaryHref": "/pillars/merv-guide",
+    "trustLine": "No pay-to-play from filter brands. Affiliate links only on picks we would install in our own homes.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1585779034823-f203b4e3f1e2?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why FilterCycle exists",
+    "body": "We built FilterCycle after a stack of \"replace every 30 days\" emails that did not match how dusty the house actually was \u2014 or what the pressure gauge on the furnace said. We publish interval math, part-number crosswalks, and subscription comparisons so you spend less on filters and breathe better air."
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "distribution": {
+    "ads": {
+      "provider": "none",
+      "site_id": "",
+      "slot_ids": {
+        "hero": "",
+        "content_mid": "",
+        "footer": ""
+      }
+    },
+    "email_capture": {
+      "provider": "none",
+      "form_action": "",
+      "list_id": ""
+    },
+    "phone_case_promo": {
+      "enabled": true,
+      "store_url": "https://phonecasesforall.com",
+      "headline": "Custom phone cases, free shipping",
+      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
+      "cta": "Browse cases \u2192",
+      "utm_campaign": "filtercycle.org"
+    }
+  },
+  "analytics": {
+    "ga_measurement_id": "pending",
+    "ga_property_id": "pending",
+    "search_console_property": "https://filtercycle.org/"
+  }
+}
