@@ -8,7 +8,7 @@ interface Props {
   heading?: string;
 }
 
-const associateTag = Astro.props.associateTag ?? import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'filtercycle-20';
+const associateTag = Astro.props.associateTag ?? import.meta.env.PUBLIC_ASSOCIATE_TAG ?? '__ASSOCIATE_TAG__';
 const { products, heading = 'Top Picks' } = Astro.props;
 const picks = products.filter((p) => p.data.asin && !p.data.imageFlagged).slice(0, 5);
 if (picks.length === 0) return;
