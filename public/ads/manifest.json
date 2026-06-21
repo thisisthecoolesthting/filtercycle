@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updated": "2026-06-21T14:31:56Z",
+  "updated": "2026-06-21T21:20:00Z",
   "advertisers": {
     "phonecasesforall": {
       "slug": "phonecasesforall",
@@ -10,7 +10,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15ALL",
       "cta": "Shop the looks",
-      "badge": "\ud83d\udcf1 Top-rated designs",
+      "badge": "📱 Top-rated designs",
       "accent": "#4350e8",
       "accentLight": "#eef0fd",
       "accentDark": "#2e3ab5",
@@ -35,7 +35,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15GAL",
       "cta": "Shop Galaxy",
-      "badge": "\ud83d\udd37 Samsung specialist",
+      "badge": "🔷 Samsung specialist",
       "accent": "#0284c7",
       "accentLight": "#e0f2fe",
       "accentDark": "#015f8f",
@@ -59,7 +59,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15GIFT",
       "cta": "Send a gift",
-      "badge": "\ud83c\udf81 Gift-ready",
+      "badge": "🎁 Gift-ready",
       "accent": "#d97706",
       "accentLight": "#fef3c7",
       "accentDark": "#b45309",
@@ -82,7 +82,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15TIT",
       "cta": "Shop iPhone",
-      "badge": "\ud83c\udf4e iPhone specialist",
+      "badge": "🍎 iPhone specialist",
       "accent": "#374151",
       "accentLight": "#f3f4f6",
       "accentDark": "#1f2937",
@@ -105,7 +105,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15HER",
       "cta": "Shop the look",
-      "badge": "\ud83c\udf38 Feminine & aesthetic",
+      "badge": "🌸 Feminine & aesthetic",
       "accent": "#c94f7b",
       "accentLight": "#fdf0f5",
       "accentDark": "#9d3560",
@@ -119,6 +119,38 @@
       "imageBaseUrl": "https://phonecasesforher.com/hero-cases/",
       "campaigns": {
         "primary": "15off"
+      }
+    },
+    "storyfawn": {
+      "slug": "storyfawn",
+      "name": "StoryFawn",
+      "domain": "storyfawn.com",
+      "tagline": "A storybook starring your child.",
+      "offer": "10% off your first book",
+      "code": "STORYFAWN10",
+      "cta": "Make their book",
+      "badge": "📖 Personalized keepsake",
+      "barBody": "A one-of-a-kind illustrated storybook starring your child · ages 1–8",
+      "accent": "#8b7fe0",
+      "accentLight": "#efeafc",
+      "accentDark": "#15122b",
+      "creativeType": "html5",
+      "bannerBaseUrl": "https://storyfawn.com/ads/storyfawn/banners/",
+      "banners": {
+        "728x90": "728x90.html",
+        "300x250": "300x250.html",
+        "160x600": "160x600.html",
+        "300x600": "300x600.html",
+        "320x50": "320x50.html"
+      },
+      "images": [
+        "printed-grandparent.jpg",
+        "printed-open.jpg",
+        "cover-fairytale.jpg"
+      ],
+      "imageBaseUrl": "https://storyfawn.com/samples/",
+      "campaigns": {
+        "primary": "storyfawn10"
       }
     }
   },
@@ -168,7 +200,8 @@
         "titancase": 2.0,
         "galaxycaseco": 1.5,
         "phonecasesforher": 1.0,
-        "phonecasegift": 0.8
+        "phonecasegift": 0.8,
+        "storyfawn": 2.5
       }
     },
     "birdledger": {
@@ -178,7 +211,8 @@
         "titancase": 1.5,
         "galaxycaseco": 1.5,
         "phonecasesforher": 1.0,
-        "phonecasegift": 0.8
+        "phonecasegift": 0.8,
+        "storyfawn": 2.0
       }
     },
     "kitchenwise": {
@@ -188,7 +222,8 @@
         "phonecasesforher": 2.0,
         "phonecasegift": 1.5,
         "galaxycaseco": 1.0,
-        "titancase": 1.0
+        "titancase": 1.0,
+        "storyfawn": 2.5
       }
     },
     "inkledger": {
@@ -198,7 +233,8 @@
         "titancase": 2.5,
         "galaxycaseco": 1.5,
         "phonecasesforher": 1.0,
-        "phonecasegift": 1.0
+        "phonecasegift": 1.0,
+        "storyfawn": 1.8
       }
     },
     "gymledger": {
@@ -208,7 +244,8 @@
         "phonecasesforall": 2.0,
         "galaxycaseco": 1.5,
         "phonecasegift": 0.8,
-        "phonecasesforher": 0.5
+        "phonecasesforher": 0.5,
+        "storyfawn": 1.8
       }
     },
     "secondspringclub": {
@@ -218,7 +255,8 @@
         "phonecasegift": 2.5,
         "phonecasesforall": 1.5,
         "galaxycaseco": 1.0,
-        "titancase": 0.8
+        "titancase": 0.8,
+        "storyfawn": 3.0
       }
     },
     "campdeck": {
@@ -228,7 +266,8 @@
         "titancase": 2.0,
         "galaxycaseco": 1.5,
         "phonecasegift": 1.0,
-        "phonecasesforher": 0.8
+        "phonecasesforher": 0.8,
+        "storyfawn": 2.0
       }
     },
     "tinkerbench": {
@@ -238,7 +277,8 @@
         "phonecasesforall": 2.0,
         "galaxycaseco": 1.5,
         "phonecasegift": 1.0,
-        "phonecasesforher": 0.5
+        "phonecasesforher": 0.5,
+        "storyfawn": 1.8
       }
     }
   },
@@ -247,6 +287,7 @@
     "titancase": 1.5,
     "galaxycaseco": 1.5,
     "phonecasesforher": 1.5,
-    "phonecasegift": 1.5
+    "phonecasegift": 1.5,
+    "storyfawn": 2.0
   }
 }

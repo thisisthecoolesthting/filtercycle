@@ -122,7 +122,7 @@
       + '<a href="' + resolvedHref + '" target="_blank" rel="noopener sponsored" class="adn-leader-link">'
       + '<span class="adn-leader-name">' + escHtml(adv.name) + '</span>'
       + '<span class="adn-leader-sep" aria-hidden="true">&mdash;</span>'
-      + '<span class="adn-leader-body">50,000+ designs &middot; ships in 2&nbsp;days &mdash; '
+      + '<span class="adn-leader-body">' + (adv.barBody || '50,000+ designs &middot; ships in 2&nbsp;days') + ' &mdash; '
       + escHtml(adv.offer) + '&nbsp;code&nbsp;<span class="adn-leader-code">' + escHtml(adv.code) + '</span>'
       + '</span>'
       + '<span class="adn-leader-cta"> &rarr;</span>'
@@ -189,6 +189,34 @@
       .replace(/"/g, '&quot;');
   }
 
+  // html5 animated banner (sandboxed iframe + click overlay)
+  function bannerSizeForSlot(adv, slotMeta) {
+    var b = adv.banners || {};
+    var s = slotMeta.size;
+    if (b[s]) return s;
+    if (slotMeta.layout === 'bar' && b['320x50']) return '320x50';
+    if (s === 'leaderboard' && b['728x90']) return '728x90';
+    return null;
+  }
+  function renderHtml5Slot(el, adv, slotMeta, size) {
+    var clickUrl  = buildUrl(adv, slotMeta, '');
+    var bannerUrl = (adv.bannerBaseUrl || '') + adv.banners[size];
+    var dims = size.split('x');
+    var w = dims[0], h = dims[1] || '250';
+    el.innerHTML =
+      '<p class="adn-eyebrow">Sponsored &middot; From our family of brands</p>'
+      + '<div class="adn-h5" style="position:relative;width:' + w + 'px;max-width:100%;'
+      +   'aspect-ratio:' + w + ' / ' + h + ';margin:0 auto;border-radius:14px;overflow:hidden;'
+      +   'box-shadow:0 2px 12px rgba(0,0,0,.12)">'
+      + '<iframe src="' + bannerUrl + '" title="' + escHtml(adv.name) + ' ad" loading="lazy" scrolling="no"'
+      +   ' sandbox="" aria-hidden="true"'
+      +   ' style="position:absolute;inset:0;width:100%;height:100%;border:0;display:block;pointer-events:none"></iframe>'
+      + '<a href="' + clickUrl + '" target="_blank" rel="noopener sponsored"'
+      +   ' aria-label="' + escHtml(adv.name + ' — ' + adv.offer) + '"'
+      +   ' style="position:absolute;inset:0;z-index:2"></a>'
+      + '</div>';
+  }
+
   // ── 7. Render a single slot ───────────────────────────────────────────────
   function renderSlot(el, manifest, usedSlugs) {
     var slotId   = el.getAttribute('data-ad-slot');
@@ -202,6 +230,16 @@
 
     if (!advertiser) return;
     usedSlugs[advertiser.slug || advertiser.name] = true;
+
+    if (advertiser.creativeType === 'html5' && advertiser.banners) {
+      var h5size = bannerSizeForSlot(advertiser, slotMeta);
+      if (h5size) {
+        renderHtml5Slot(el, advertiser, slotMeta, h5size);
+        el.removeAttribute('data-ad-pending');
+        el.setAttribute('data-ad-filled', slotId);
+        return;
+      }
+    }
 
     if (slotMeta.layout === 'bar') {
       renderLeaderBar(el, advertiser, slotMeta);
