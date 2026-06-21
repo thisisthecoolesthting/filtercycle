@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 3,
+  "updated": "2026-06-21T00:00:00Z",
+  "advertisers": {
+    "phonecasesforall": {
+      "slug": "phonecasesforall",
+      "name": "Phone Cases For All",
+      "domain": "phonecasesforall.com",
+      "tagline": "Cases that match your energy.",
+      "offer": "15% off your first case",
+      "code": "FIRST15ALL",
+      "cta": "Shop the looks",
+      "badge": "📱 Top-rated designs",
+      "accent": "#4350e8",
+      "accentLight": "#eef0fd",
+      "accentDark": "#2e3ab5",
+      "iphoneDomain": "titancase.shop",
+      "samsungDomain": "galaxycaseco.com",
+      "images": [
+        "hero_04_CGP-FLORAL-0102.png",
+        "best_CGP-FLORAL-0013.png",
+        "best_CGP-FLORAL-0036.png"
+      ],
+      "imageBaseUrl": "https://phonecasesforall.com/hero-cases/",
+      "campaigns": {
+        "primary": "15off",
+        "kids": "kidspicks"
+      }
+    },
+    "galaxycaseco": {
+      "slug": "galaxycaseco",
+      "name": "Galaxy Case Co.",
+      "domain": "galaxycaseco.com",
+      "tagline": "Built for Galaxy. Ready for impact.",
+      "offer": "15% off your first case",
+      "code": "FIRST15GAL",
+      "cta": "Shop Galaxy",
+      "badge": "🔷 Samsung specialist",
+      "accent": "#0284c7",
+      "accentLight": "#e0f2fe",
+      "accentDark": "#015f8f",
+      "iphoneDomain": "titancase.shop",
+      "samsungDomain": "galaxycaseco.com",
+      "images": [
+        "flat_CGP-ASTROL-0008.jpg",
+        "flat_CGP-ASTROL-0034.jpg",
+        "vivid_CGP-FLORAL-0026.png"
+      ],
+      "imageBaseUrl": "https://galaxycaseco.com/hero-cases/",
+      "campaigns": {
+        "primary": "15off"
+      }
+    },
+    "phonecasegift": {
+      "slug": "phonecasegift",
+      "name": "Phone Case Gift",
+      "domain": "phonecasegift.shop",
+      "tagline": "Fun finds for every vibe.",
+      "offer": "15% off your first case",
+      "code": "FIRST15GIFT",
+      "cta": "Send a gift",
+      "badge": "🎁 Gift-ready",
+      "accent": "#d97706",
+      "accentLight": "#fef3c7",
+      "accentDark": "#b45309",
+      "iphoneDomain": "titancase.shop",
+      "samsungDomain": "galaxycaseco.com",
+      "images": [
+        "gift_CGP-FLORAL-0001.png",
+        "gift_CGP-FLORAL-0002.png"
+      ],
+      "imageBaseUrl": "https://phonecasegift.shop/hero-cases/",
+      "campaigns": {
+        "primary": "15off"
+      }
+    },
+    "titancase": {
+      "slug": "titancase",
+      "name": "Titan Case",
+      "domain": "titancase.shop",
+      "tagline": "Engineered restraint for iPhone.",
+      "offer": "15% off your first case",
+      "code": "FIRST15TIT",
+      "cta": "Shop iPhone",
+      "badge": "🍎 iPhone specialist",
+      "accent": "#374151",
+      "accentLight": "#f3f4f6",
+      "accentDark": "#1f2937",
+      "iphoneDomain": "titancase.shop",
+      "samsungDomain": "galaxycaseco.com",
+      "images": [
+        "titan_CGP-MINIMAL-0001.png",
+        "titan_CGP-MINIMAL-0002.png"
+      ],
+      "imageBaseUrl": "https://titancase.shop/hero-cases/",
+      "campaigns": {
+        "primary": "15off"
+      }
+    },
+    "phonecasesforher": {
+      "slug": "phonecasesforher",
+      "name": "Phone Cases For Her",
+      "domain": "phonecasesforher.com",
+      "tagline": "Cases with personal polish.",
+      "offer": "15% off your first case",
+      "code": "FIRST15HER",
+      "cta": "Shop the look",
+      "badge": "🌸 Feminine & aesthetic",
+      "accent": "#c94f7b",
+      "accentLight": "#fdf0f5",
+      "accentDark": "#9d3560",
+      "iphoneDomain": "titancase.shop",
+      "samsungDomain": "galaxycaseco.com",
+      "images": [
+        "pcfh_27217.png",
+        "pcfh_25396.png",
+        "pcfh_33644.png"
+      ],
+      "imageBaseUrl": "https://phonecasesforher.com/hero-cases/",
+      "campaigns": {
+        "primary": "15off"
+      }
+    }
+  },
+  "slots": {
+    "home-hero":       { "size": "728x90",  "medium": "leaderboard",      "minHeight": 90  },
+    "in-article-mid":  { "size": "300x250", "medium": "banner",           "minHeight": 250 },
+    "in-article-text": { "size": "text",    "medium": "cross_promo_text", "minHeight": 0   },
+    "article-end":     { "size": "300x250", "medium": "banner",           "minHeight": 250 },
+    "footer-family":   { "size": "text",    "medium": "cross_promo_text", "minHeight": 0   },
+    "sidebar":         { "size": "160x600", "medium": "skyscraper",       "minHeight": 600 }
+  },
+  "targeting": {
+    "filtercycle": {
+      "motif": "light",
+      "weights": {
+        "phonecasesforall": 2.5,
+        "titancase": 2.0,
+        "galaxycaseco": 1.5,
+        "phonecasesforher": 1.0,
+        "phonecasegift": 0.8
+      }
+    },
+    "birdledger": {
+      "motif": "light",
+      "weights": {
+        "phonecasesforall": 2.5,
+        "titancase": 1.5,
+        "galaxycaseco": 1.5,
+        "phonecasesforher": 1.0,
+        "phonecasegift": 0.8
+      }
+    },
+    "kitchenwise": {
+      "motif": "light",
+      "weights": {
+        "phonecasesforall": 2.5,
+        "phonecasesforher": 2.0,
+        "phonecasegift": 1.5,
+        "galaxycaseco": 1.0,
+        "titancase": 1.0
+      }
+    },
+    "inkledger": {
+      "motif": "dark",
+      "weights": {
+        "phonecasesforall": 3.0,
+        "titancase": 2.5,
+        "galaxycaseco": 1.5,
+        "phonecasesforher": 1.0,
+        "phonecasegift": 1.0
+      }
+    },
+    "gymledger": {
+      "motif": "dark",
+      "weights": {
+        "titancase": 2.5,
+        "phonecasesforall": 2.0,
+        "galaxycaseco": 1.5,
+        "phonecasegift": 0.8,
+        "phonecasesforher": 0.5
+      }
+    },
+    "secondspringclub": {
+      "motif": "light",
+      "weights": {
+        "phonecasesforher": 3.0,
+        "phonecasegift": 2.5,
+        "phonecasesforall": 1.5,
+        "galaxycaseco": 1.0,
+        "titancase": 0.8
+      }
+    },
+    "campdeck": {
+      "motif": "light",
+      "weights": {
+        "phonecasesforall": 2.5,
+        "titancase": 2.0,
+        "galaxycaseco": 1.5,
+        "phonecasegift": 1.0,
+        "phonecasesforher": 0.8
+      }
+    },
+    "tinkerbench": {
+      "motif": "dark",
+      "weights": {
+        "titancase": 2.5,
+        "phonecasesforall": 2.0,
+        "galaxycaseco": 1.5,
+        "phonecasegift": 1.0,
+        "phonecasesforher": 0.5
+      }
+    }
+  },
+  "defaultWeights": {
+    "phonecasesforall": 2.0,
+    "titancase": 1.5,
+    "galaxycaseco": 1.5,
+    "phonecasesforher": 1.5,
+    "phonecasegift": 1.5
+  }
+}

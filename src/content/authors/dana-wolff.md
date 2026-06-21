@@ -1,14 +1,17 @@
 ---
 name: "Dana Wolff"
-role: "Editorial Lead, RefillWatch"
-credentials: "Consumer-pricing reporter, household economics"
-photoUrl: "/authors/dana-wolff.jpg"
-shortBio: "Tracks shrinkflation and creeping retailer prices on household staples. Built RefillWatch after one too many quiet 12% bumps on bulk water and laundry pods."
-joinedAt: 2026-04-24
+role: "Editor, RefillWatch"
+credentials: "A decade covering retail pricing and private-label strategy"
+photoUrl: "/authors/dana-wolff.svg"
+shortBio: "Watches the dollar amounts behind shrinkflation, creeping subscriptions, and private-label price walls. Names the brands. Finds the cheaper alternative."
+joinedAt: 2026-01-01
 location: ""
-socials: {}
 ---
 
-Dana Wolff covers consumer pricing the way a beat reporter covers city hall: with a spreadsheet, a stack of receipts, and a polite refusal to let press releases go unchecked. She started RefillWatch after noticing that the household subscriptions she had set up in 2020 had quietly doubled in price by 2024, with no email and no announcement.
+Dana Wolff is the editor of RefillWatch. She spent a decade covering retail pricing, private-label strategy, and category management for the analyst side of the grocery and household-goods industry before getting tired of watching retailers quietly raise prices on routine purchases while nobody named the numbers out loud.
 
-RefillWatch tracks unit pricing across at least three retailers per consumable, weekly, with screenshots filed in a public pricing log. Dana does not accept sponsorship from the retailers or brands the site covers; affiliate revenue comes only from the refillable and reusable alternatives RefillWatch recommends.
+RefillWatch is her attempt to name them. Every pricing alert tracks the specific dollar amount, the specific retailer, and the specific date of the hike. Every refill or bulk alternative is something she&rsquo;d switch to herself &mdash; and in most cases, she already has.
+
+Dana reads the quarterly earnings calls, watches the SKU-level price changes, and talks to former category managers who know which hikes are designed to be unnoticeable. The writing is dry on purpose: consumer-pricing journalism works when it&rsquo;s specific, not when it&rsquo;s outraged.
+
+RefillWatch takes no sponsored placements from the retailers or brands it covers. Partner links go to neutral third parties or refill / bulk suppliers who aren&rsquo;t the same companies raising the prices. The full disclosure is on the <a href="/methodology/">methodology page</a>.

@@ -41,7 +41,7 @@ export async function getRelatedProductsFromBody(
 // constructed URL from the ASIN + associate tag.
 export function amazonAffiliateUrl(
   product: CollectionEntry<'products'>,
-  associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG || 'filtercycle-20',
+  associateTag = 'filtercycle-20',
 ): string {
   if (product.data.affiliateUrl && product.data.affiliateUrl.startsWith('http')) {
     return product.data.affiliateUrl;

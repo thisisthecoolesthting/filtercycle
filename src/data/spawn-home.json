@@ -2,24 +2,22 @@
   "brand": {
     "shortName": "FilterCycle",
     "fullName": "FilterCycle",
-    "taglineShort": "Change filters on schedule \u2014 not on marketing.",
+    "taglineShort": "HVAC, fridge, and water filters — tracked by replacement cost.",
     "identity": {
       "palette": {
-        "primary": "#0F4C5C",
-        "accent": "#E9C46A",
-        "cream": "#FAF5EF",
-        "ink": "#0F172A",
-        "secondary": "#2A9D8F",
-        "surface": "#F4F7F8"
+        "primary": "#0D9488",
+        "accent": "#0F172A",
+        "cream": "#F0FDFA",
+        "ink": "#042F2E"
       },
       "fonts": {
-        "display": "Fraunces",
+        "display": "Work Sans",
         "body": "Source Sans 3",
-        "mono": "IBM Plex Mono"
+        "mono": "JetBrains Mono"
       },
       "mark": {
         "svgPath": "brand/filtercycle-mark.svg",
-        "svgPublicPath": "/brand/filtercycle-mark.svg",
+        "svgPublicPath": "/brand/filtercycle-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -29,49 +27,40 @@
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "FILTER REPLACEMENT WATCHDOG",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
+      "eyebrowText": "FILTER REPLACEMENT WATCH",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=Work+Sans:wght@500;600;700&display=swap"
     }
   },
-  "persona": {
-    "ymyl": false,
-    "tone": "practical"
+  "homepage": {
+    "eyebrow": "Filter replacement watch",
+    "h1": "Know when filters are due — and when prices creep",
+    "subhead": "We track HVAC, fridge, pitcher, and whole-home filters on true replacement cost — not just sticker price — and flag bulk swaps that beat convenience-store singles.",
+    "ctaPrimaryLabel": "Browse filter guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we track cycles",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial · No brand sponsorships · We name the filter, we name the cheaper cycle",
+    "heroImageUrl": "/hero/filtercycle-hero.jpg",
+    "heroVideoUrl": "/hero/filtercycle-hero.mp4"
   },
-  "editorial": {
-    "authorSlug": "jordan-reed-filtercycle",
-    "author_slug": "jordan-reed-filtercycle",
-    "methodology": [
-      "We log static pressure drop (in. w.c.) at the filter slot monthly on three test homes: dusty rural, suburban pets, and urban apartment.",
-      "Replacement intervals are validated against manufacturer claims only when particle capture still meets the home's stated goal (allergies = MERV 11+ equivalent).",
-      "Subscription reorder cadence is tracked for 90 days before we recommend or warn against any auto-ship program.",
-      "We do not accept sponsorship from Filtrete, Honeywell, Lennox, or other OEM filter lines; affiliate revenue only on third-party equivalents we install.",
-      "Every interval claim cites climate, pet load, and runtime hours; if we cannot source it, we publish a range instead of a single number.",
-      "Reader corrections are answered within 72 hours and folded into the calendar or rebutted with dated test notes."
-    ],
-    "ymyl": false
+  "palette": {
+    "primary": "#0D9488",
+    "secondary": "#5EEAD4",
+    "accent": "#0F172A",
+    "surface": "#F0FDFA",
+    "ink": "#042F2E"
   },
   "newsletter": {
-    "title": "The FilterCycle weekly",
-    "subtitle": "Practical picks and straight answers from FilterCycle, once a week. No spam.",
-    "kicker": "Stay in the loop"
+    "title": "FilterCycle weekly",
+    "subtitle": "One filter alert, one smarter swap, one replacement check — every week. No spam."
   },
-  "supportEmail": "hello@filtercycle.org",
-  "defaultAuthorSlug": "jordan-reed",
-  "defaultMetaDescription": "We track MERV ratings, fridge filter part numbers, and whole-house cartridge pricing \u2014 then map honest change intervals for allergies, pets, and dusty climates so you stop over-buying and under-changi",
-  "homepage": {
-    "eyebrow": "Filter replacement watchdog",
-    "h1": "Your filters have a real replacement cycle. Retailers want you to ignore it.",
-    "subhead": "We track MERV ratings, fridge filter part numbers, and whole-house cartridge pricing \u2014 then map honest change intervals for allergies, pets, and dusty climates so you stop over-buying and under-changing.",
-    "ctaPrimaryLabel": "See the replacement calendar",
-    "ctaPrimaryHref": "/pillars/replacement-calendar",
-    "ctaSecondaryLabel": "MERV explained",
-    "ctaSecondaryHref": "/pillars/merv-guide",
-    "trustLine": "No pay-to-play from filter brands. Affiliate links only on picks we would install in our own homes.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1585779034823-f203b4e3f1e2?w=1600&q=85"
+  "analytics": {
+    "ga_measurement_id": "G-W2WHE10F4S",
+    "ga_property_id": "536827156"
   },
-  "about": {
-    "headline": "Why FilterCycle exists",
-    "body": "We built FilterCycle after a stack of \"replace every 30 days\" emails that did not match how dusty the house actually was \u2014 or what the pressure gauge on the furnace said. We publish interval math, part-number crosswalks, and subscription comparisons so you spend less on filters and breathe better air."
+  "defaultAuthorSlug": "dana-wolff",
+  "editorial": {
+    "author_slug": "dana-wolff"
   },
   "navigation": [
     {
@@ -95,33 +84,19 @@
       "label": "About"
     }
   ],
-  "distribution": {
-    "ads": {
-      "provider": "none",
-      "site_id": "",
-      "slot_ids": {
-        "hero": "",
-        "content_mid": "",
-        "footer": ""
-      }
-    },
-    "email_capture": {
-      "provider": "none",
-      "form_action": "",
-      "list_id": ""
-    },
-    "phone_case_promo": {
-      "enabled": true,
-      "store_url": "https://phonecasesforall.com",
-      "headline": "Custom phone cases, free shipping",
-      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
-      "cta": "Browse cases \u2192",
-      "utm_campaign": "filtercycle.org"
+  "supportEmail": "hello@filtercycle.org",
+  "monetization": {
+    "default_topic": "cleaning",
+    "amazon_associate_tag": "filtercycle-20",
+    "pinterest": {
+      "pin_templates": [
+        "routine-card",
+        "ingredient-spotlight",
+        "before-after",
+        "product-strip"
+      ],
+      "rotate_by": "article_slug"
     }
   },
-  "analytics": {
-    "ga_measurement_id": "pending",
-    "ga_property_id": "pending",
-    "search_console_property": "https://filtercycle.org/"
-  }
+  "disablePhonePromos": true
 }
