@@ -9,11 +9,15 @@
 [data-ad-slot="home-hero"]       { min-height: 90px;  display: block; }
 [data-ad-slot="sidebar"]         { min-height: 600px; display: block; }
 
+/* home-top: short-wide leaderboard — NEVER a square.
+   Fixed min-height prevents layout shift when inject.js swaps the SSR fallback. */
+[data-ad-slot="home-top"]        { min-height: 56px;  display: block; }
+
 /* Text units: no layout reservation needed */
 [data-ad-slot="in-article-text"],
 [data-ad-slot="footer-family"]   { min-height: 0; display: block; }
 
-/* Pending state indicator (optional: subtle skeleton background) */
+/* Pending state indicator */
 [data-ad-pending] {
   background: transparent;
 }
@@ -74,6 +78,51 @@
 .adn-card--300-250 { flex-direction: row; }
 .adn-card--728-90  { flex-direction: row; align-items: center; padding: 0 12px; height: 82px; }
 .adn-card--160-600 { flex-direction: column; max-width: 300px; }
+
+/* home-top leaderboard: horizontal single-line layout */
+.adn-leader-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 8px;
+  padding: 6px 10px 7px;
+  border-radius: 8px;
+  background: #f9f5f0;
+  border: 1px solid rgba(0,0,0,0.07);
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  box-sizing: border-box;
+}
+.adn-leader-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 6px;
+  text-decoration: none;
+  color: inherit;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  flex: 1;
+}
+.adn-leader-link:hover .adn-leader-name { text-decoration: underline; }
+.adn-leader-name  { font-weight: 700; color: #111827; }
+.adn-leader-sep   { color: #9ca3af; }
+.adn-leader-body  { color: #374151; }
+.adn-leader-code  {
+  font-family: 'Courier New', monospace;
+  font-size: 0.76rem;
+  background: rgba(0,0,0,0.07);
+  padding: 1px 5px;
+  border-radius: 3px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+}
+.adn-leader-cta   { color: #4350e8; font-weight: 600; white-space: nowrap; }
+
+@media (max-width: 480px) {
+  .adn-leader-sep { display: none; }
+  .adn-leader-bar { gap: 2px 4px; }
+}
 
 .adn-card-img {
   width: 120px;

@@ -224,7 +224,8 @@ const trustItems = [
             <div class={`relative aspect-[2/3] overflow-hidden ${a.data.heroImage ? '' : pinThumbVariants[i % pinThumbVariants.length]}`}>
               {a.data.heroImage ? (
                 <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
-                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
+                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500"
+                     onerror="this.onerror=null;this.src='/hero/filtercycle-hero.jpg'" />
               ) : (
                 <div class={`absolute inset-0 p-6 flex flex-col justify-between ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
                   <span class={`font-mono text-[10.5px] tracking-[0.16em] uppercase ${i === 4 ? 'text-terracotta-400' : 'text-terracotta-600'}`}>

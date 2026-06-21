@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updated": "2026-06-21T00:00:00Z",
+  "updated": "2026-06-21T14:31:56Z",
   "advertisers": {
     "phonecasesforall": {
       "slug": "phonecasesforall",
@@ -10,7 +10,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15ALL",
       "cta": "Shop the looks",
-      "badge": "📱 Top-rated designs",
+      "badge": "\ud83d\udcf1 Top-rated designs",
       "accent": "#4350e8",
       "accentLight": "#eef0fd",
       "accentDark": "#2e3ab5",
@@ -35,7 +35,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15GAL",
       "cta": "Shop Galaxy",
-      "badge": "🔷 Samsung specialist",
+      "badge": "\ud83d\udd37 Samsung specialist",
       "accent": "#0284c7",
       "accentLight": "#e0f2fe",
       "accentDark": "#015f8f",
@@ -59,7 +59,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15GIFT",
       "cta": "Send a gift",
-      "badge": "🎁 Gift-ready",
+      "badge": "\ud83c\udf81 Gift-ready",
       "accent": "#d97706",
       "accentLight": "#fef3c7",
       "accentDark": "#b45309",
@@ -82,7 +82,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15TIT",
       "cta": "Shop iPhone",
-      "badge": "🍎 iPhone specialist",
+      "badge": "\ud83c\udf4e iPhone specialist",
       "accent": "#374151",
       "accentLight": "#f3f4f6",
       "accentDark": "#1f2937",
@@ -105,7 +105,7 @@
       "offer": "15% off your first case",
       "code": "FIRST15HER",
       "cta": "Shop the look",
-      "badge": "🌸 Feminine & aesthetic",
+      "badge": "\ud83c\udf38 Feminine & aesthetic",
       "accent": "#c94f7b",
       "accentLight": "#fdf0f5",
       "accentDark": "#9d3560",
@@ -123,12 +123,42 @@
     }
   },
   "slots": {
-    "home-hero":       { "size": "728x90",  "medium": "leaderboard",      "minHeight": 90  },
-    "in-article-mid":  { "size": "300x250", "medium": "banner",           "minHeight": 250 },
-    "in-article-text": { "size": "text",    "medium": "cross_promo_text", "minHeight": 0   },
-    "article-end":     { "size": "300x250", "medium": "banner",           "minHeight": 250 },
-    "footer-family":   { "size": "text",    "medium": "cross_promo_text", "minHeight": 0   },
-    "sidebar":         { "size": "160x600", "medium": "skyscraper",       "minHeight": 600 }
+    "home-hero": {
+      "size": "728x90",
+      "medium": "leaderboard",
+      "minHeight": 90
+    },
+    "in-article-mid": {
+      "size": "300x250",
+      "medium": "banner",
+      "minHeight": 250
+    },
+    "in-article-text": {
+      "size": "text",
+      "medium": "cross_promo_text",
+      "minHeight": 0
+    },
+    "article-end": {
+      "size": "300x250",
+      "medium": "banner",
+      "minHeight": 250
+    },
+    "footer-family": {
+      "size": "text",
+      "medium": "cross_promo_text",
+      "minHeight": 0
+    },
+    "sidebar": {
+      "size": "160x600",
+      "medium": "skyscraper",
+      "minHeight": 600
+    },
+    "home-top": {
+      "size": "leaderboard",
+      "medium": "leaderboard",
+      "minHeight": 56,
+      "layout": "bar"
+    }
   },
   "targeting": {
     "filtercycle": {

@@ -108,6 +108,28 @@
   }
 
   // ── 6. Render functions ───────────────────────────────────────────────────
+
+  function renderLeaderBar(el, adv, slotMeta) {
+    var href = buildUrl(adv, slotMeta, '');
+    var ua   = navigator.userAgent || '';
+    var resolvedHref = /iPhone|iPad|iPod/.test(ua) ? buildUrl(adv, slotMeta, '_iph')
+                     : /Samsung|SM-[A-Za-z]/.test(ua) ? buildUrl(adv, slotMeta, '_sam')
+                     : href;
+
+    el.innerHTML =
+      '<div class="adn-leader-bar">'
+      + '<p class="adn-eyebrow" style="margin:0 8px 0 0;align-self:center;white-space:nowrap">Sponsored</p>'
+      + '<a href="' + resolvedHref + '" target="_blank" rel="noopener sponsored" class="adn-leader-link">'
+      + '<span class="adn-leader-name">' + escHtml(adv.name) + '</span>'
+      + '<span class="adn-leader-sep" aria-hidden="true">&mdash;</span>'
+      + '<span class="adn-leader-body">50,000+ designs &middot; ships in 2&nbsp;days &mdash; '
+      + escHtml(adv.offer) + '&nbsp;code&nbsp;<span class="adn-leader-code">' + escHtml(adv.code) + '</span>'
+      + '</span>'
+      + '<span class="adn-leader-cta"> &rarr;</span>'
+      + '</a>'
+      + '</div>';
+  }
+
   function renderTextSlot(el, adv, slotMeta) {
     var href = buildUrl(adv, slotMeta, '');
     el.innerHTML =
@@ -181,7 +203,9 @@
     if (!advertiser) return;
     usedSlugs[advertiser.slug || advertiser.name] = true;
 
-    if (slotMeta.size === 'text') {
+    if (slotMeta.layout === 'bar') {
+      renderLeaderBar(el, advertiser, slotMeta);
+    } else if (slotMeta.size === 'text') {
       renderTextSlot(el, advertiser, slotMeta);
     } else {
       renderImageSlot(el, advertiser, slotMeta);
