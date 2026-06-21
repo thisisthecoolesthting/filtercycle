@@ -9,7 +9,7 @@ excerpt: >-
   the spreadsheet for a typical pet household.
 pillarSlug: replacement-calendar
 targetKeyword: furnace filter subscription vs bulk
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80
+heroImage: /images/hero/filter-subscription-vs-bulk.jpg
 status: published
 tags:
   - subscriptions
@@ -51,3 +51,4 @@ Fridge cartridges often push **6-month** subs while light-use homes run **9 mont
 3. Switch to bulk for HVAC; keep one spare fridge cartridge on shelf.
 
 Calendar: [Replacement calendar](/pillars/replacement-calendar).
+

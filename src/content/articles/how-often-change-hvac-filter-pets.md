@@ -9,7 +9,7 @@ excerpt: >-
   change intervals for MERV 11 and MERV 13.
 pillarSlug: replacement-calendar
 targetKeyword: how often change hvac filter with pets
-heroImage: https://images.unsplash.com/photo-1450778869185-41d0601e03e5?w=1200&q=80
+heroImage: /images/hero/how-often-change-hvac-filter-pets.jpg
 status: published
 tags:
   - pets
@@ -48,3 +48,4 @@ Daily brushing and keeping bedroom doors closed can push a MERV 11 change toward
 A 30-day auto-ship on MERV 11 16×25×1 filters costs roughly **$180–220/year** for four packs you may not need. Buying a **6-pack** when pressure or the calendar says so usually lands **$90–130/year** for the same home.
 
 See product picks in our [replacement calendar](/pillars/replacement-calendar).
+

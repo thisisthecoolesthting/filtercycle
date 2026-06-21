@@ -9,7 +9,7 @@ excerpt: >-
   to see when the upgrade helps — and when it hurts.
 pillarSlug: merv-guide
 targetKeyword: merv 11 vs merv 13 allergies
-heroImage: https://images.unsplash.com/photo-1584308664894-6d0a5f055946?w=1200&q=80
+heroImage: /images/hero/merv-11-vs-13-allergies.jpg
 status: published
 tags:
   - merv
@@ -57,3 +57,4 @@ MERV 13 won on symptoms **only when** we replaced earlier. Running MERV 13 on a 
 - Pets only (dander) without pollen triggers
 
 Product notes: see our [Filtrete MERV 11 pick](/products/b00dkflp4g-filtrete-16x25-merv-11) and [MERV 13 option](/products/b0002ynf8k-filtrete-merv-13-allergen).
+
