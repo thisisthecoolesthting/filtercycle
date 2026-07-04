@@ -90,6 +90,17 @@
   // utm_source is never in the manifest. This function is the only place
   // it is assembled, and it always reads from siteSlug (= window.__AD_SITE_SLUG__).
   function buildUrl(advertiser, slotMeta, deviceSuffix) {
+    var content = slotMeta.size + '_' + (advertiser.slug || advertiser.name.toLowerCase());
+    if (advertiser.affiliateUrl) {
+      var base = String(advertiser.affiliateUrl);
+      var sep = base.indexOf('?') >= 0 ? '&' : '?';
+      var campaign = (advertiser.campaigns && advertiser.campaigns.primary) || 'partner';
+      return base + sep
+        + 'utm_source='   + encodeURIComponent(siteSlug)
+        + '&utm_medium='   + encodeURIComponent(slotMeta.medium || 'cross_promo')
+        + '&utm_campaign=' + encodeURIComponent(campaign)
+        + '&utm_content='  + encodeURIComponent(content);
+    }
     var domain;
     if (deviceSuffix === '_iph') {
       domain = advertiser.iphoneDomain || advertiser.domain;
@@ -99,7 +110,6 @@
       domain = advertiser.domain;
     }
     var campaign = (advertiser.campaigns && advertiser.campaigns.primary) || '15off';
-    var content  = slotMeta.size + '_' + (advertiser.slug || advertiser.name.toLowerCase());
     return 'https://' + domain + '/'
       + '?utm_source='   + encodeURIComponent(siteSlug)
       + '&utm_medium='   + encodeURIComponent(slotMeta.medium)
@@ -116,9 +126,10 @@
                      : /Samsung|SM-[A-Za-z]/.test(ua) ? buildUrl(adv, slotMeta, '_sam')
                      : href;
 
+    var eyebrow = adv.affiliatePartner ? 'Print-on-demand &middot; Sponsored' : 'Sponsored';
     el.innerHTML =
       '<div class="adn-leader-bar">'
-      + '<p class="adn-eyebrow" style="margin:0 8px 0 0;align-self:center;white-space:nowrap">Sponsored</p>'
+      + '<p class="adn-eyebrow" style="margin:0 8px 0 0;align-self:center;white-space:nowrap">' + eyebrow + '</p>'
       + '<a href="' + resolvedHref + '" target="_blank" rel="noopener sponsored" class="adn-leader-link">'
       + '<span class="adn-leader-name">' + escHtml(adv.name) + '</span>'
       + '<span class="adn-leader-sep" aria-hidden="true">&mdash;</span>'
@@ -132,8 +143,11 @@
 
   function renderTextSlot(el, adv, slotMeta) {
     var href = buildUrl(adv, slotMeta, '');
+    var textEyebrow = adv.affiliatePartner
+      ? ('Print-on-demand &middot; Sponsored &middot; ' + escHtml(adv.offer))
+      : ('Phone cases &middot; Sponsored &middot; ' + escHtml(adv.offer));
     el.innerHTML =
-      '<p class="adn-eyebrow">Phone cases &middot; Sponsored &middot; ' + escHtml(adv.offer) + '</p>'
+      '<p class="adn-eyebrow">' + textEyebrow + '</p>'
       + '<a href="' + href + '" target="_blank" rel="noopener sponsored" class="adn-text-link">'
       + '<span class="adn-text-name">' + escHtml(adv.name) + '</span>'
       + ' &mdash; <span class="adn-text-tag">' + escHtml(adv.tagline)
@@ -148,7 +162,8 @@
 
     // Device-detect for direct link
     var ua = navigator.userAgent || '';
-    var resolvedHref = /iPhone|iPad|iPod/.test(ua) ? iphoneUrl
+    var resolvedHref = adv.affiliatePartner ? href
+                     : /iPhone|iPad|iPod/.test(ua) ? iphoneUrl
                      : /Samsung|SM-[A-Za-z]/.test(ua) ? samsungUrl
                      : href;
 
@@ -160,8 +175,11 @@
     el.style.setProperty('--adn-accent-light',  adv.accentLight || '#eef0fd');
     el.style.setProperty('--adn-accent-dark',   adv.accentDark  || '#2e3ab5');
 
+    var imgEyebrow = adv.affiliatePartner
+      ? ('Sponsored &middot; Partner offer')
+      : 'Sponsored &middot; From our family of brands';
     el.innerHTML =
-      '<p class="adn-eyebrow">Sponsored &middot; From our family of brands</p>'
+      '<p class="adn-eyebrow">' + imgEyebrow + '</p>'
       + '<a href="' + resolvedHref + '" target="_blank" rel="noopener sponsored"'
       + '   data-href-iphone="' + iphoneUrl + '" data-href-samsung="' + samsungUrl + '"'
       + '   class="adn-card adn-card--' + slotMeta.size.replace('x', '-') + '">'
@@ -203,8 +221,11 @@
     var bannerUrl = (adv.bannerBaseUrl || '') + adv.banners[size];
     var dims = size.split('x');
     var w = dims[0], h = dims[1] || '250';
+    var imgEyebrow = adv.affiliatePartner
+      ? ('Sponsored &middot; Partner offer')
+      : 'Sponsored &middot; From our family of brands';
     el.innerHTML =
-      '<p class="adn-eyebrow">Sponsored &middot; From our family of brands</p>'
+      '<p class="adn-eyebrow">' + imgEyebrow + '</p>'
       + '<div class="adn-h5" style="position:relative;width:' + w + 'px;max-width:100%;'
       +   'aspect-ratio:' + w + ' / ' + h + ';margin:0 auto;border-radius:14px;overflow:hidden;'
       +   'box-shadow:0 2px 12px rgba(0,0,0,.12)">'

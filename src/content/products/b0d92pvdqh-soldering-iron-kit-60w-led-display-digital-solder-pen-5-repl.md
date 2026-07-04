@@ -1,24 +1,32 @@
 ---
 asin: B0D92PVDQH
-title: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo
-seoTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo — review
-metaDescription: Hands-on notes on Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo.
+title: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips,
+  21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics
+  Repair Hobby DIY 120V US Plug from Plusivo
+seoTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips,
+  21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics
+  Repair Hobby DIY 120V US Plug from Plusivo — review
+metaDescription: Hands-on notes on Soldering Iron Kit, 60W LED Display Digital Solder
+  Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering
+  Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo.
 category: irons
 price: null
 rating: 4.7
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/511L4yygJdL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0D92PVDQH?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/511L4yygJdL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0D92PVDQH?tag=filtercycle-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl
-cardTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i
+cardTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips,
+  21-i
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview

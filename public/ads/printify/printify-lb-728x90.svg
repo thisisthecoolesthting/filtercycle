@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="728" height="90" viewBox="0 0 728 90" role="img" aria-label="Printify print-on-demand">
+  <rect width="728" height="90" rx="10" fill="#111827"/>
+  <rect x="8" y="8" width="712" height="74" rx="8" fill="#39B54A" opacity="0.12"/>
+  <text x="20" y="34" fill="#39B54A" font-family="system-ui,sans-serif" font-size="10" font-weight="700" letter-spacing="2">SPONSORED · PRINT-ON-DEMAND</text>
+  <text x="20" y="58" fill="#fff" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Printify — launch a store with zero inventory</text>
+  <text x="20" y="76" fill="#9ca3af" font-family="system-ui,sans-serif" font-size="12">Phone cases, apparel &amp; more · we print &amp; ship worldwide</text>
+  <rect x="590" y="28" width="118" height="34" rx="8" fill="#39B54A"/>
+  <text x="649" y="50" fill="#fff" font-family="system-ui,sans-serif" font-size="12" font-weight="700" text-anchor="middle">Try free →</text>
+</svg>

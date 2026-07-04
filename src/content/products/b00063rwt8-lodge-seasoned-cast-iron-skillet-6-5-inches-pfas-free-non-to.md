@@ -1,24 +1,31 @@
 ---
 asin: B00063RWT8
-title: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe
-seoTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe — review
-metaDescription: Hands-on notes on Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe.
+title: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware
+  - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe
+seoTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware
+  - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe
+  — review
+metaDescription: Hands-on notes on Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free,
+  Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick
+  & Oven Safe.
 category: skillets
 price: 12.95
 rating: 4.7
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41WCQ-X4ztL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00063RWT8?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/41WCQ-X4ztL.jpg
+affiliateUrl: https://www.amazon.com/dp/B00063RWT8?tag=filtercycle-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to
-cardTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us
+cardTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware
+  - Us
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview

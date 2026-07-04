@@ -1,24 +1,32 @@
 ---
 asin: B082Y7X9H5
-title: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack
-seoTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack — review
-metaDescription: Hands-on notes on E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack.
+title: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson
+  Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan,
+  1 Magenta, 1 Yellow) 4 Pack
+seoTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for
+  Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black,
+  1 Cyan, 1 Magenta, 1 Yellow) 4 Pack — review
+metaDescription: Hands-on notes on E-Z Ink Remanufactured Ink Cartridge Replacement
+  for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620
+  WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack.
 category: inkjet-ink-cartridges
 price: 25.99
 rating: 4.2
 bsr: 1434
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B082Y7X9H5?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg
+affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=filtercycle-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c
-cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson 
+cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for
+  Epson
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview

@@ -2,23 +2,25 @@
 asin: B074ND5RDT
 title: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet
 seoTitle: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet — review
-metaDescription: Hands-on notes on Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet.
+metaDescription: Hands-on notes on Backcountry Iron 12 Inch Round Large Pre-Seasoned
+  Cast Iron Skillet.
 category: skillets
 price: 49.99
 rating: 4.6
 bsr: 113
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41nbDb8lo4L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B074ND5RDT?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/41nbDb8lo4L.jpg
+affiliateUrl: https://www.amazon.com/dp/B074ND5RDT?tag=filtercycle-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-
 cardTitle: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview
