@@ -14,7 +14,7 @@ reviewCount: 89210
 bsr: 3
 commissionPerSale: 0.0
 score: 88.0
-imageUrl: https://m.media-amazon.com/images/I/51OpfxMruwL.jpg
+imageUrl: /images/products/B07QR6Z1JB.jpg
 affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=filtercycle-20&linkCode=ll1&language=en_US
 isPrime: true
 status: published
@@ -24,7 +24,6 @@ tags:
 - laundry
 - household
 - price-tracking
-imageFlagged: true
 ---
 
 # Tide PODS 112-Count — When to Buy (and When to Wait)

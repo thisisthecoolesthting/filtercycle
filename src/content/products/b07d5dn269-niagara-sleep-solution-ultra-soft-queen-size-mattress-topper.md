@@ -15,7 +15,7 @@ rating: 4.4
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41GKJsjRluL.jpg
+imageUrl: /images/products/b07d5dn269.jpg
 affiliateUrl: https://www.amazon.com/dp/B07D5DN269?tag=filtercycle-20
 isPrime: false
 status: published
@@ -26,7 +26,6 @@ cardTitle: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon 
   fro
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

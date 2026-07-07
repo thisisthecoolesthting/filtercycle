@@ -13,7 +13,7 @@ rating: 4.6
 bsr: 4
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41XdOMoREFL.jpg
+imageUrl: /images/products/B08PZBPXLZ.jpg
 affiliateUrl: https://www.amazon.com/dp/B08PZBPXLZ?tag=filtercycle-20
 isPrime: false
 status: draft
@@ -24,7 +24,6 @@ cardTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustab
   Temperat
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

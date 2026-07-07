@@ -15,7 +15,7 @@ rating: 4.4
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/413q2dbvTeL.jpg
+imageUrl: /images/products/b07f97mpyt.jpg
 affiliateUrl: https://www.amazon.com/dp/B07F97MPYT?tag=filtercycle-20
 isPrime: false
 status: published
@@ -26,7 +26,6 @@ cardTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - 
   Luxur
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

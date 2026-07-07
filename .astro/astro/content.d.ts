@@ -141,142 +141,240 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"articles": {
-"amazon-prime-subscription-cost-increase.md": {
-	id: "amazon-prime-subscription-cost-increase.md";
-  slug: "amazon-prime-subscription-cost-increase";
+"6-best-air-purifiers-for-smoke-removal-clear-the-air-in-minutes.md": {
+	id: "6-best-air-purifiers-for-smoke-removal-clear-the-air-in-minutes.md";
+  slug: "6-best-air-purifiers-for-smoke-removal-clear-the-air-in-minutes";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"amazon-prime-subscription-increase-analysis.md": {
-	id: "amazon-prime-subscription-increase-analysis.md";
-  slug: "amazon-prime-subscription-increase-analysis";
+"a-beginner-s-guide-to-improving-air-quality-in-every-room.md": {
+	id: "a-beginner-s-guide-to-improving-air-quality-in-every-room.md";
+  slug: "a-beginner-s-guide-to-improving-air-quality-in-every-room";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-body-lotions-without-plastic-pump-bottles.md": {
-	id: "best-refillable-body-lotions-without-plastic-pump-bottles.md";
-  slug: "best-refillable-body-lotions-without-plastic-pump-bottles";
+"a-homeowner-s-guide-to-hvac-air-filter-types-pleated-fiberglass-and-more.md": {
+	id: "a-homeowner-s-guide-to-hvac-air-filter-types-pleated-fiberglass-and-more.md";
+  slug: "a-homeowner-s-guide-to-hvac-air-filter-types-pleated-fiberglass-and-more";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-cleaning-products-for-hard-water-areas.md": {
-	id: "best-refillable-cleaning-products-for-hard-water-areas.md";
-  slug: "best-refillable-cleaning-products-for-hard-water-areas";
+"air-filter-materials-explained-which-one-is-right-for-you.md": {
+	id: "air-filter-materials-explained-which-one-is-right-for-you.md";
+  slug: "air-filter-materials-explained-which-one-is-right-for-you";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-cleaning-products-for-pet-owners.md": {
-	id: "best-refillable-cleaning-products-for-pet-owners.md";
-  slug: "best-refillable-cleaning-products-for-pet-owners";
+"are-all-air-filters-created-equal-a-deep-dive-into-quality.md": {
+	id: "are-all-air-filters-created-equal-a-deep-dive-into-quality.md";
+  slug: "are-all-air-filters-created-equal-a-deep-dive-into-quality";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-cleaning-tools-for-plastic-reduction-at-home.md": {
-	id: "best-refillable-cleaning-tools-for-plastic-reduction-at-home.md";
-  slug: "best-refillable-cleaning-tools-for-plastic-reduction-at-home";
+"are-washable-air-filters-worth-it-pros-and-cons-explored.md": {
+	id: "are-washable-air-filters-worth-it-pros-and-cons-explored.md";
+  slug: "are-washable-air-filters-worth-it-pros-and-cons-explored";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-conditioner-options-for-curly-hair-types.md": {
-	id: "best-refillable-conditioner-options-for-curly-hair-types.md";
-  slug: "best-refillable-conditioner-options-for-curly-hair-types";
+"best-air-filters-for-homes-with-fireplaces-and-wood-stoves.md": {
+	id: "best-air-filters-for-homes-with-fireplaces-and-wood-stoves.md";
+  slug: "best-air-filters-for-homes-with-fireplaces-and-wood-stoves";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-deodorant-brands-for-sensitive-skin-reviewed.md": {
-	id: "best-refillable-deodorant-brands-for-sensitive-skin-reviewed.md";
-  slug: "best-refillable-deodorant-brands-for-sensitive-skin-reviewed";
+"best-air-filters-for-odor-removal-fresh-air-guaranteed.md": {
+	id: "best-air-filters-for-odor-removal-fresh-air-guaranteed.md";
+  slug: "best-air-filters-for-odor-removal-fresh-air-guaranteed";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-dish-soap-brands-for-zero-waste-kitchens.md": {
-	id: "best-refillable-dish-soap-brands-for-zero-waste-kitchens.md";
-  slug: "best-refillable-dish-soap-brands-for-zero-waste-kitchens";
+"best-air-filters-for-preventing-hvac-system-damage.md": {
+	id: "best-air-filters-for-preventing-hvac-system-damage.md";
+  slug: "best-air-filters-for-preventing-hvac-system-damage";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens.md": {
-	id: "best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens.md";
-  slug: "best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens";
+"best-air-purifiers-for-babies-and-children-ensuring-a-healthy-start.md": {
+	id: "best-air-purifiers-for-babies-and-children-ensuring-a-healthy-start.md";
+  slug: "best-air-purifiers-for-babies-and-children-ensuring-a-healthy-start";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-fabric-softener-options-without-plastic-bottles.md": {
-	id: "best-refillable-fabric-softener-options-without-plastic-bottles.md";
-  slug: "best-refillable-fabric-softener-options-without-plastic-bottles";
+"best-air-purifiers-for-bedrooms-sleep-soundly-with-clean-air.md": {
+	id: "best-air-purifiers-for-bedrooms-sleep-soundly-with-clean-air.md";
+  slug: "best-air-purifiers-for-bedrooms-sleep-soundly-with-clean-air";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-face-washes-for-oily-and-dry-skin-types.md": {
-	id: "best-refillable-face-washes-for-oily-and-dry-skin-types.md";
-  slug: "best-refillable-face-washes-for-oily-and-dry-skin-types";
+"best-air-purifiers-for-classrooms-and-daycares-protecting-our-kids.md": {
+	id: "best-air-purifiers-for-classrooms-and-daycares-protecting-our-kids.md";
+  slug: "best-air-purifiers-for-classrooms-and-daycares-protecting-our-kids";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-glass-spray-bottles-for-homemade-cleaners.md": {
-	id: "best-refillable-glass-spray-bottles-for-homemade-cleaners.md";
-  slug: "best-refillable-glass-spray-bottles-for-homemade-cleaners";
+"best-air-purifiers-for-data-centers-and-server-rooms-protecting-equipment.md": {
+	id: "best-air-purifiers-for-data-centers-and-server-rooms-protecting-equipment.md";
+  slug: "best-air-purifiers-for-data-centers-and-server-rooms-protecting-equipment";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-household-cleaners-for-sensitive-skin-types.md": {
-	id: "best-refillable-household-cleaners-for-sensitive-skin-types.md";
-  slug: "best-refillable-household-cleaners-for-sensitive-skin-types";
+"best-air-purifiers-for-dust-mites-a-complete-guide.md": {
+	id: "best-air-purifiers-for-dust-mites-a-complete-guide.md";
+  slug: "best-air-purifiers-for-dust-mites-a-complete-guide";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-household-products-for-allergy-friendly-cleaning.md": {
-	id: "best-refillable-household-products-for-allergy-friendly-cleaning.md";
-  slug: "best-refillable-household-products-for-allergy-friendly-cleaning";
+"best-air-purifiers-for-gyms-and-fitness-studios-fresh-air-for-workouts.md": {
+	id: "best-air-purifiers-for-gyms-and-fitness-studios-fresh-air-for-workouts.md";
+  slug: "best-air-purifiers-for-gyms-and-fitness-studios-fresh-air-for-workouts";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-shampoo-bars-compared-to-liquid-refills.md": {
-	id: "best-refillable-shampoo-bars-compared-to-liquid-refills.md";
-  slug: "best-refillable-shampoo-bars-compared-to-liquid-refills";
+"best-air-purifiers-for-hair-salons-and-spas-fresh-air-for-clients-and-staff.md": {
+	id: "best-air-purifiers-for-hair-salons-and-spas-fresh-air-for-clients-and-staff.md";
+  slug: "best-air-purifiers-for-hair-salons-and-spas-fresh-air-for-clients-and-staff";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-sunscreens-for-eco-conscious-consumers.md": {
-	id: "best-refillable-sunscreens-for-eco-conscious-consumers.md";
-  slug: "best-refillable-sunscreens-for-eco-conscious-consumers";
+"best-air-purifiers-for-hotels-and-resorts-enhancing-guest-experience.md": {
+	id: "best-air-purifiers-for-hotels-and-resorts-enhancing-guest-experience.md";
+  slug: "best-air-purifiers-for-hotels-and-resorts-enhancing-guest-experience";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-toothbrushes-for-plastic-reduction-goals.md": {
-	id: "best-refillable-toothbrushes-for-plastic-reduction-goals.md";
-  slug: "best-refillable-toothbrushes-for-plastic-reduction-goals";
+"best-air-purifiers-for-indoor-farming-and-grow-rooms-optimal-conditions.md": {
+	id: "best-air-purifiers-for-indoor-farming-and-grow-rooms-optimal-conditions.md";
+  slug: "best-air-purifiers-for-indoor-farming-and-grow-rooms-optimal-conditions";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-refillable-toothpaste-tablets-for-travel-and-plastic-reduction.md": {
-	id: "best-refillable-toothpaste-tablets-for-travel-and-plastic-reduction.md";
-  slug: "best-refillable-toothpaste-tablets-for-travel-and-plastic-reduction";
+"best-air-purifiers-for-kitchen-odors-banish-cooking-smells.md": {
+	id: "best-air-purifiers-for-kitchen-odors-banish-cooking-smells.md";
+  slug: "best-air-purifiers-for-kitchen-odors-banish-cooking-smells";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-reusable-water-bottles-for-savings.md": {
-	id: "best-reusable-water-bottles-for-savings.md";
-  slug: "best-reusable-water-bottles-for-savings";
+"best-air-purifiers-for-large-rooms-coverage-you-can-count-on.md": {
+	id: "best-air-purifiers-for-large-rooms-coverage-you-can-count-on.md";
+  slug: "best-air-purifiers-for-large-rooms-coverage-you-can-count-on";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-mold-spores-protecting-your-family-s-health.md": {
+	id: "best-air-purifiers-for-mold-spores-protecting-your-family-s-health.md";
+  slug: "best-air-purifiers-for-mold-spores-protecting-your-family-s-health";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-offices-and-workspaces-improve-productivity.md": {
+	id: "best-air-purifiers-for-offices-and-workspaces-improve-productivity.md";
+  slug: "best-air-purifiers-for-offices-and-workspaces-improve-productivity";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-pet-allergies-say-goodbye-to-sneezing.md": {
+	id: "best-air-purifiers-for-pet-allergies-say-goodbye-to-sneezing.md";
+  slug: "best-air-purifiers-for-pet-allergies-say-goodbye-to-sneezing";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-restaurants-and-commercial-kitchens-food-safety-air-.md": {
+	id: "best-air-purifiers-for-restaurants-and-commercial-kitchens-food-safety-air-.md";
+  slug: "best-air-purifiers-for-restaurants-and-commercial-kitchens-food-safety-air-";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-retail-stores-a-breath-of-fresh-air-for-shoppers.md": {
+	id: "best-air-purifiers-for-retail-stores-a-breath-of-fresh-air-for-shoppers.md";
+  slug: "best-air-purifiers-for-retail-stores-a-breath-of-fresh-air-for-shoppers";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-schools-and-universities-a-healthy-learning-environm.md": {
+	id: "best-air-purifiers-for-schools-and-universities-a-healthy-learning-environm.md";
+  slug: "best-air-purifiers-for-schools-and-universities-a-healthy-learning-environm";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-seasonal-allergies-find-relief-year-round.md": {
+	id: "best-air-purifiers-for-seasonal-allergies-find-relief-year-round.md";
+  slug: "best-air-purifiers-for-seasonal-allergies-find-relief-year-round";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-travel-compact-solutions-for-clean-air-anywhere.md": {
+	id: "best-air-purifiers-for-travel-compact-solutions-for-clean-air-anywhere.md";
+  slug: "best-air-purifiers-for-travel-compact-solutions-for-clean-air-anywhere";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-for-workshops-and-garages-tackling-tough-air.md": {
+	id: "best-air-purifiers-for-workshops-and-garages-tackling-tough-air.md";
+  slug: "best-air-purifiers-for-workshops-and-garages-tackling-tough-air";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-with-activated-carbon-filters-for-chemical-removal.md": {
+	id: "best-air-purifiers-with-activated-carbon-filters-for-chemical-removal.md";
+  slug: "best-air-purifiers-with-activated-carbon-filters-for-chemical-removal";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifiers-with-true-hepa-filters-the-gold-standard.md": {
+	id: "best-air-purifiers-with-true-hepa-filters-the-gold-standard.md";
+  slug: "best-air-purifiers-with-true-hepa-filters-the-gold-standard";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-medical-grade-air-purifiers-for-the-most-sensitive-individuals.md": {
+	id: "best-medical-grade-air-purifiers-for-the-most-sensitive-individuals.md";
+  slug: "best-medical-grade-air-purifiers-for-the-most-sensitive-individuals";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-personal-air-purifiers-for-travel-and-small-spaces.md": {
+	id: "best-personal-air-purifiers-for-travel-and-small-spaces.md";
+  slug: "best-personal-air-purifiers-for-travel-and-small-spaces";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-portable-air-purifiers-for-on-the-go-clean-air.md": {
+	id: "best-portable-air-purifiers-for-on-the-go-clean-air.md";
+  slug: "best-portable-air-purifiers-for-on-the-go-clean-air";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -288,44 +386,37 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"best-reusable-water-bottles-to-save-money.md": {
-	id: "best-reusable-water-bottles-to-save-money.md";
-  slug: "best-reusable-water-bottles-to-save-money";
+"best-uv-c-air-purifiers-are-they-safe-and-effective.md": {
+	id: "best-uv-c-air-purifiers-are-they-safe-and-effective.md";
+  slug: "best-uv-c-air-purifiers-are-they-safe-and-effective";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"brand-comparison-refillable-vs-disposable-cleaning-product-effectiveness.md": {
-	id: "brand-comparison-refillable-vs-disposable-cleaning-product-effectiveness.md";
-  slug: "brand-comparison-refillable-vs-disposable-cleaning-product-effectiveness";
+"best-whole-house-air-purifiers-of-2024-a-comprehensive-review.md": {
+	id: "best-whole-house-air-purifiers-of-2024-a-comprehensive-review.md";
+  slug: "best-whole-house-air-purifiers-of-2024-a-comprehensive-review";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"bulk-cleaning-supplies-guide.md": {
-	id: "bulk-cleaning-supplies-guide.md";
-  slug: "bulk-cleaning-supplies-guide";
+"beyond-the-basics-advanced-air-filtration-techniques-for-a-healthier-home.md": {
+	id: "beyond-the-basics-advanced-air-filtration-techniques-for-a-healthier-home.md";
+  slug: "beyond-the-basics-advanced-air-filtration-techniques-for-a-healthier-home";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"bulk-laundry-detergent-guide.md": {
-	id: "bulk-laundry-detergent-guide.md";
-  slug: "bulk-laundry-detergent-guide";
+"buying-guide-air-purifier-features-you-can-t-live-without.md": {
+	id: "buying-guide-air-purifier-features-you-can-t-live-without.md";
+  slug: "buying-guide-air-purifier-features-you-can-t-live-without";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"bulk-pet-food-savings-guide.md": {
-	id: "bulk-pet-food-savings-guide.md";
-  slug: "bulk-pet-food-savings-guide";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"cancel-unnecessary-subscriptions.md": {
-	id: "cancel-unnecessary-subscriptions.md";
-  slug: "cancel-unnecessary-subscriptions";
+"buying-guide-how-to-choose-the-right-merv-rating-for-your-home.md": {
+	id: "buying-guide-how-to-choose-the-right-merv-rating-for-your-home.md";
+  slug: "buying-guide-how-to-choose-the-right-merv-rating-for-your-home";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -337,44 +428,23 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"cancel-unwanted-subscriptions-save-money.md": {
-	id: "cancel-unwanted-subscriptions-save-money.md";
-  slug: "cancel-unwanted-subscriptions-save-money";
+"choosing-the-best-air-filter-for-asthma-sufferers-a-practical-guide.md": {
+	id: "choosing-the-best-air-filter-for-asthma-sufferers-a-practical-guide.md";
+  slug: "choosing-the-best-air-filter-for-asthma-sufferers-a-practical-guide";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"cheaper-laundry-detergent-alternatives.md": {
-	id: "cheaper-laundry-detergent-alternatives.md";
-  slug: "cheaper-laundry-detergent-alternatives";
+"common-air-filter-myths-debunked-get-the-facts.md": {
+	id: "common-air-filter-myths-debunked-get-the-facts.md";
+  slug: "common-air-filter-myths-debunked-get-the-facts";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"coffee-bean-price-watch-2024.md": {
-	id: "coffee-bean-price-watch-2024.md";
-  slug: "coffee-bean-price-watch-2024";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"comparing-best-refillable-personal-care-brands-for-plastic-reduction.md": {
-	id: "comparing-best-refillable-personal-care-brands-for-plastic-reduction.md";
-  slug: "comparing-best-refillable-personal-care-brands-for-plastic-reduction";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"comparing-plastic-reduction-efforts-across-leading-refillable-brands.md": {
-	id: "comparing-plastic-reduction-efforts-across-leading-refillable-brands.md";
-  slug: "comparing-plastic-reduction-efforts-across-leading-refillable-brands";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"concentrated-detergents-vs-traditional-environmental-impact-reviewed.md": {
-	id: "concentrated-detergents-vs-traditional-environmental-impact-reviewed.md";
-  slug: "concentrated-detergents-vs-traditional-environmental-impact-reviewed";
+"comparing-air-purifier-technologies-hepa-activated-carbon-and-more.md": {
+	id: "comparing-air-purifier-technologies-hepa-activated-carbon-and-more.md";
+  slug: "comparing-air-purifier-technologies-hepa-activated-carbon-and-more";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -386,9 +456,9 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"detergent-dilemma-price-watch.md": {
-	id: "detergent-dilemma-price-watch.md";
-  slug: "detergent-dilemma-price-watch";
+"decoding-air-filter-terminology-a-glossary-for-homeowners.md": {
+	id: "decoding-air-filter-terminology-a-glossary-for-homeowners.md";
+  slug: "decoding-air-filter-terminology-a-glossary-for-homeowners";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -400,30 +470,9 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"detergent-inflation-alert.md": {
-	id: "detergent-inflation-alert.md";
-  slug: "detergent-inflation-alert";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"detergent-price-creep-how-to-fight-back.md": {
-	id: "detergent-price-creep-how-to-fight-back.md";
-  slug: "detergent-price-creep-how-to-fight-back";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"detergent-price-creep-target-vs-costco.md": {
-	id: "detergent-price-creep-target-vs-costco.md";
-  slug: "detergent-price-creep-target-vs-costco";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"diy-cleaning-supplies-bulk-refill-guide.md": {
-	id: "diy-cleaning-supplies-bulk-refill-guide.md";
-  slug: "diy-cleaning-supplies-bulk-refill-guide";
+"diy-air-quality-testing-simple-ways-to-monitor-your-home-s-air.md": {
+	id: "diy-air-quality-testing-simple-ways-to-monitor-your-home-s-air.md";
+  slug: "diy-air-quality-testing-simple-ways-to-monitor-your-home-s-air";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -435,65 +484,37 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"diy-cleaning-supplies-save-money.md": {
-	id: "diy-cleaning-supplies-save-money.md";
-  slug: "diy-cleaning-supplies-save-money";
+"diy-furnace-filter-replacement-a-step-by-step-guide-for-beginners.md": {
+	id: "diy-furnace-filter-replacement-a-step-by-step-guide-for-beginners.md";
+  slug: "diy-furnace-filter-replacement-a-step-by-step-guide-for-beginners";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"diy-laundry-detergent-refills.md": {
-	id: "diy-laundry-detergent-refills.md";
-  slug: "diy-laundry-detergent-refills";
+"electrostatic-air-filters-do-they-really-work.md": {
+	id: "electrostatic-air-filters-do-they-really-work.md";
+  slug: "electrostatic-air-filters-do-they-really-work";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"eco-friendly-concentrates-saving-space-and-reducing-plastic-packaging.md": {
-	id: "eco-friendly-concentrates-saving-space-and-reducing-plastic-packaging.md";
-  slug: "eco-friendly-concentrates-saving-space-and-reducing-plastic-packaging";
+"from-dust-to-dander-the-science-behind-air-filtration.md": {
+	id: "from-dust-to-dander-the-science-behind-air-filtration.md";
+  slug: "from-dust-to-dander-the-science-behind-air-filtration";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"eco-friendly-laundry-refills-worth-it.md": {
-	id: "eco-friendly-laundry-refills-worth-it.md";
-  slug: "eco-friendly-laundry-refills-worth-it";
+"hepa-vs-merv-understanding-the-differences-for-optimal-air-quality.md": {
+	id: "hepa-vs-merv-understanding-the-differences-for-optimal-air-quality.md";
+  slug: "hepa-vs-merv-understanding-the-differences-for-optimal-air-quality";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"eco-friendly-laundry-refills.md": {
-	id: "eco-friendly-laundry-refills.md";
-  slug: "eco-friendly-laundry-refills";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"filter-subscription-vs-bulk.md": {
-	id: "filter-subscription-vs-bulk.md";
-  slug: "filter-subscription-vs-bulk";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"food-staples-price-tracking-apps.md": {
-	id: "food-staples-price-tracking-apps.md";
-  slug: "food-staples-price-tracking-apps";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"food-staples-price-watch-inflation.md": {
-	id: "food-staples-price-watch-inflation.md";
-  slug: "food-staples-price-watch-inflation";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-concentrated-cleaning-products-help-cut-plastic-waste-effectively.md": {
-	id: "how-concentrated-cleaning-products-help-cut-plastic-waste-effectively.md";
-  slug: "how-concentrated-cleaning-products-help-cut-plastic-waste-effectively";
+"how-air-filters-impact-your-hvac-system-s-efficiency.md": {
+	id: "how-air-filters-impact-your-hvac-system-s-efficiency.md";
+  slug: "how-air-filters-impact-your-hvac-system-s-efficiency";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -505,58 +526,156 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-choose-refillable-deodorants-that-actually-work.md": {
-	id: "how-to-choose-refillable-deodorants-that-actually-work.md";
-  slug: "how-to-choose-refillable-deodorants-that-actually-work";
+"how-often-should-you-change-your-air-filter-the-definitive-answer.md": {
+	id: "how-often-should-you-change-your-air-filter-the-definitive-answer.md";
+  slug: "how-often-should-you-change-your-air-filter-the-definitive-answer";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-choose-refillable-products-for-zero-waste-families.md": {
-	id: "how-to-choose-refillable-products-for-zero-waste-families.md";
-  slug: "how-to-choose-refillable-products-for-zero-waste-families";
+"how-to-choose-an-air-filter-for-optimal-heating-and-cooling.md": {
+	id: "how-to-choose-an-air-filter-for-optimal-heating-and-cooling.md";
+  slug: "how-to-choose-an-air-filter-for-optimal-heating-and-cooling";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-identify-truly-plastic-free-refillable-product-packaging.md": {
-	id: "how-to-identify-truly-plastic-free-refillable-product-packaging.md";
-  slug: "how-to-identify-truly-plastic-free-refillable-product-packaging";
+"how-to-choose-the-right-air-filter-brand-a-comparison.md": {
+	id: "how-to-choose-the-right-air-filter-brand-a-comparison.md";
+  slug: "how-to-choose-the-right-air-filter-brand-a-comparison";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-make-your-own-refillable-air-freshener-at-home.md": {
-	id: "how-to-make-your-own-refillable-air-freshener-at-home.md";
-  slug: "how-to-make-your-own-refillable-air-freshener-at-home";
+"how-to-choose-the-right-air-filter-for-your-climate-zone.md": {
+	id: "how-to-choose-the-right-air-filter-for-your-climate-zone.md";
+  slug: "how-to-choose-the-right-air-filter-for-your-climate-zone";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-make-your-own-refillable-hand-soap-without-harsh-chemicals.md": {
-	id: "how-to-make-your-own-refillable-hand-soap-without-harsh-chemicals.md";
-  slug: "how-to-make-your-own-refillable-hand-soap-without-harsh-chemicals";
+"how-to-clean-your-air-purifier-filters-a-maintenance-tutorial.md": {
+	id: "how-to-clean-your-air-purifier-filters-a-maintenance-tutorial.md";
+  slug: "how-to-clean-your-air-purifier-filters-a-maintenance-tutorial";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-make-your-own-refillable-laundry-detergent-at-home.md": {
-	id: "how-to-make-your-own-refillable-laundry-detergent-at-home.md";
-  slug: "how-to-make-your-own-refillable-laundry-detergent-at-home";
+"how-to-create-a-healthy-home-environment-with-proper-air-filtration.md": {
+	id: "how-to-create-a-healthy-home-environment-with-proper-air-filtration.md";
+  slug: "how-to-create-a-healthy-home-environment-with-proper-air-filtration";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients.md": {
-	id: "how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients.md";
-  slug: "how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients";
+"how-to-detect-poor-indoor-air-quality-warning-signs-to-look-for.md": {
+	id: "how-to-detect-poor-indoor-air-quality-warning-signs-to-look-for.md";
+  slug: "how-to-detect-poor-indoor-air-quality-warning-signs-to-look-for";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-properly-clean-refillable-containers-to-avoid-mold.md": {
-	id: "how-to-properly-clean-refillable-containers-to-avoid-mold.md";
-  slug: "how-to-properly-clean-refillable-containers-to-avoid-mold";
+"how-to-diagnose-and-fix-common-air-filter-problems.md": {
+	id: "how-to-diagnose-and-fix-common-air-filter-problems.md";
+  slug: "how-to-diagnose-and-fix-common-air-filter-problems";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-extend-the-life-of-your-hvac-system-through-proper-filtration.md": {
+	id: "how-to-extend-the-life-of-your-hvac-system-through-proper-filtration.md";
+  slug: "how-to-extend-the-life-of-your-hvac-system-through-proper-filtration";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-get-the-most-out-of-your-air-filter-s-lifespan.md": {
+	id: "how-to-get-the-most-out-of-your-air-filter-s-lifespan.md";
+  slug: "how-to-get-the-most-out-of-your-air-filter-s-lifespan";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-identify-and-replace-specialty-air-filters.md": {
+	id: "how-to-identify-and-replace-specialty-air-filters.md";
+  slug: "how-to-identify-and-replace-specialty-air-filters";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-improve-indoor-air-quality-simple-steps-for-a-healthier-home.md": {
+	id: "how-to-improve-indoor-air-quality-simple-steps-for-a-healthier-home.md";
+  slug: "how-to-improve-indoor-air-quality-simple-steps-for-a-healthier-home";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-incorporate-air-filtration-into-your-home-renovation-plans.md": {
+	id: "how-to-incorporate-air-filtration-into-your-home-renovation-plans.md";
+  slug: "how-to-incorporate-air-filtration-into-your-home-renovation-plans";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-install-a-new-air-filter-a-visual-guide.md": {
+	id: "how-to-install-a-new-air-filter-a-visual-guide.md";
+  slug: "how-to-install-a-new-air-filter-a-visual-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-know-when-your-air-filter-needs-replacing-key-indicators.md": {
+	id: "how-to-know-when-your-air-filter-needs-replacing-key-indicators.md";
+  slug: "how-to-know-when-your-air-filter-needs-replacing-key-indicators";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-maximize-your-air-filter-s-performance-expert-tips.md": {
+	id: "how-to-maximize-your-air-filter-s-performance-expert-tips.md";
+  slug: "how-to-maximize-your-air-filter-s-performance-expert-tips";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-measure-your-air-filter-a-simple-guide.md": {
+	id: "how-to-measure-your-air-filter-a-simple-guide.md";
+  slug: "how-to-measure-your-air-filter-a-simple-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-protect-your-hvac-system-from-common-airborne-contaminants.md": {
+	id: "how-to-protect-your-hvac-system-from-common-airborne-contaminants.md";
+  slug: "how-to-protect-your-hvac-system-from-common-airborne-contaminants";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-read-your-air-filter-s-packaging-essential-information.md": {
+	id: "how-to-read-your-air-filter-s-packaging-essential-information.md";
+  slug: "how-to-read-your-air-filter-s-packaging-essential-information";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-reduce-dust-in-your-home-the-role-of-your-air-filter.md": {
+	id: "how-to-reduce-dust-in-your-home-the-role-of-your-air-filter.md";
+  slug: "how-to-reduce-dust-in-your-home-the-role-of-your-air-filter";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-reduce-pet-odors-with-the-right-air-filter.md": {
+	id: "how-to-reduce-pet-odors-with-the-right-air-filter.md";
+  slug: "how-to-reduce-pet-odors-with-the-right-air-filter";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"how-to-reduce-static-electricity-in-your-home-with-air-filtration.md": {
+	id: "how-to-reduce-static-electricity-in-your-home-with-air-filtration.md";
+  slug: "how-to-reduce-static-electricity-in-your-home-with-air-filtration";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -575,107 +694,44 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-household-products-while-traveling-sustainably.md": {
-	id: "how-to-refill-household-products-while-traveling-sustainably.md";
-  slug: "how-to-refill-household-products-while-traveling-sustainably";
+"how-to-save-money-on-air-filters-without-sacrificing-quality.md": {
+	id: "how-to-save-money-on-air-filters-without-sacrificing-quality.md";
+  slug: "how-to-save-money-on-air-filters-without-sacrificing-quality";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-laundry-detergent-without-spills-or-waste.md": {
-	id: "how-to-refill-laundry-detergent-without-spills-or-waste.md";
-  slug: "how-to-refill-laundry-detergent-without-spills-or-waste";
+"how-to-set-up-an-air-quality-monitoring-system-in-your-home.md": {
+	id: "how-to-set-up-an-air-quality-monitoring-system-in-your-home.md";
+  slug: "how-to-set-up-an-air-quality-monitoring-system-in-your-home";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-personal-care-products-without-cross-contamination.md": {
-	id: "how-to-refill-personal-care-products-without-cross-contamination.md";
-  slug: "how-to-refill-personal-care-products-without-cross-contamination";
+"how-to-spot-fake-or-low-quality-air-filters-a-buyer-s-beware-guide.md": {
+	id: "how-to-spot-fake-or-low-quality-air-filters-a-buyer-s-beware-guide.md";
+  slug: "how-to-spot-fake-or-low-quality-air-filters-a-buyer-s-beware-guide";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-soap-dispensers-without-creating-additional-waste.md": {
-	id: "how-to-refill-soap-dispensers-without-creating-additional-waste.md";
-  slug: "how-to-refill-soap-dispensers-without-creating-additional-waste";
+"how-to-store-your-spare-air-filters-tips-for-longevity.md": {
+	id: "how-to-store-your-spare-air-filters-tips-for-longevity.md";
+  slug: "how-to-store-your-spare-air-filters-tips-for-longevity";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-your-own-all-purpose-cleaner-safely.md": {
-	id: "how-to-refill-your-own-all-purpose-cleaner-safely.md";
-  slug: "how-to-refill-your-own-all-purpose-cleaner-safely";
+"how-to-troubleshoot-airflow-issues-caused-by-your-filter.md": {
+	id: "how-to-troubleshoot-airflow-issues-caused-by-your-filter.md";
+  slug: "how-to-troubleshoot-airflow-issues-caused-by-your-filter";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"how-to-refill-your-own-bathroom-cleaning-solutions-at-home.md": {
-	id: "how-to-refill-your-own-bathroom-cleaning-solutions-at-home.md";
-  slug: "how-to-refill-your-own-bathroom-cleaning-solutions-at-home";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-set-up-a-refillable-cleaning-station-in-your-home.md": {
-	id: "how-to-set-up-a-refillable-cleaning-station-in-your-home.md";
-  slug: "how-to-set-up-a-refillable-cleaning-station-in-your-home";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-start-a-refillable-product-routine-on-a-budget.md": {
-	id: "how-to-start-a-refillable-product-routine-on-a-budget.md";
-  slug: "how-to-start-a-refillable-product-routine-on-a-budget";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-store-and-use-refillable-products-in-small-apartments.md": {
-	id: "how-to-store-and-use-refillable-products-in-small-apartments.md";
-  slug: "how-to-store-and-use-refillable-products-in-small-apartments";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-store-refillable-products-to-maximize-shelf-life.md": {
-	id: "how-to-store-refillable-products-to-maximize-shelf-life.md";
-  slug: "how-to-store-refillable-products-to-maximize-shelf-life";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-transition-to-refillable-personal-care-products-gradually.md": {
-	id: "how-to-transition-to-refillable-personal-care-products-gradually.md";
-  slug: "how-to-transition-to-refillable-personal-care-products-gradually";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"how-to-transition-to-zero-waste-personal-care-routines-easily.md": {
-	id: "how-to-transition-to-zero-waste-personal-care-routines-easily.md";
-  slug: "how-to-transition-to-zero-waste-personal-care-routines-easily";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"ink-cartridge-rip-off.md": {
-	id: "ink-cartridge-rip-off.md";
-  slug: "ink-cartridge-rip-off";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"ink-cartridge-scam-how-to-avoid-overpaying.md": {
-	id: "ink-cartridge-scam-how-to-avoid-overpaying.md";
-  slug: "ink-cartridge-scam-how-to-avoid-overpaying";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"ink-cartridge-scam-uncovered.md": {
-	id: "ink-cartridge-scam-uncovered.md";
-  slug: "ink-cartridge-scam-uncovered";
+"hvac-filter-maintenance-checklist-keep-your-system-running-smoothly.md": {
+	id: "hvac-filter-maintenance-checklist-keep-your-system-running-smoothly.md";
+  slug: "hvac-filter-maintenance-checklist-keep-your-system-running-smoothly";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -687,37 +743,30 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"personal-care-brand-showdown-refillable-packaging-vs-conventional.md": {
-	id: "personal-care-brand-showdown-refillable-packaging-vs-conventional.md";
-  slug: "personal-care-brand-showdown-refillable-packaging-vs-conventional";
+"merv-11-vs-merv-13-which-is-right-for-your-home.md": {
+	id: "merv-11-vs-merv-13-which-is-right-for-your-home.md";
+  slug: "merv-11-vs-merv-13-which-is-right-for-your-home";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"personal-care-refill-options.md": {
-	id: "personal-care-refill-options.md";
-  slug: "personal-care-refill-options";
+"merv-14-and-above-when-do-you-need-industrial-grade-filtration.md": {
+	id: "merv-14-and-above-when-do-you-need-industrial-grade-filtration.md";
+  slug: "merv-14-and-above-when-do-you-need-industrial-grade-filtration";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"personal-care-refills-eco-friendly-options-for-every-skin-type.md": {
-	id: "personal-care-refills-eco-friendly-options-for-every-skin-type.md";
-  slug: "personal-care-refills-eco-friendly-options-for-every-skin-type";
+"merv-8-vs-merv-10-which-offers-better-filtration.md": {
+	id: "merv-8-vs-merv-10-which-offers-better-filtration.md";
+  slug: "merv-8-vs-merv-10-which-offers-better-filtration";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"personal-care-refills-which-brands-offer-the-best-value.md": {
-	id: "personal-care-refills-which-brands-offer-the-best-value.md";
-  slug: "personal-care-refills-which-brands-offer-the-best-value";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"pet-food-inflation-alternatives.md": {
-	id: "pet-food-inflation-alternatives.md";
-  slug: "pet-food-inflation-alternatives";
+"merv-ratings-and-you-a-personalized-recommendation-guide.md": {
+	id: "merv-ratings-and-you-a-personalized-recommendation-guide.md";
+  slug: "merv-ratings-and-you-a-personalized-recommendation-guide";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -729,13 +778,6 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"pet-food-inflation-tracking.md": {
-	id: "pet-food-inflation-tracking.md";
-  slug: "pet-food-inflation-tracking";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
 "pet-food-inflation-watch.md": {
 	id: "pet-food-inflation-watch.md";
   slug: "pet-food-inflation-watch";
@@ -743,275 +785,9 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"pet-food-price-hikes-and-cheaper-alternatives.md": {
-	id: "pet-food-price-hikes-and-cheaper-alternatives.md";
-  slug: "pet-food-price-hikes-and-cheaper-alternatives";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
 "pet-food-price-watch.md": {
 	id: "pet-food-price-watch.md";
   slug: "pet-food-price-watch";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"plastic-free-toothpaste-options-compared-tubes-vs-refill-packs.md": {
-	id: "plastic-free-toothpaste-options-compared-tubes-vs-refill-packs.md";
-  slug: "plastic-free-toothpaste-options-compared-tubes-vs-refill-packs";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"plastic-reduction-strategies-using-concentrated-cleaning-formulas.md": {
-	id: "plastic-reduction-strategies-using-concentrated-cleaning-formulas.md";
-  slug: "plastic-reduction-strategies-using-concentrated-cleaning-formulas";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"plastic-reduction-wins-refills-that-transform-your-personal-care-routine.md": {
-	id: "plastic-reduction-wins-refills-that-transform-your-personal-care-routine.md";
-  slug: "plastic-reduction-wins-refills-that-transform-your-personal-care-routine";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"printer-ink-price-gouging-exposed.md": {
-	id: "printer-ink-price-gouging-exposed.md";
-  slug: "printer-ink-price-gouging-exposed";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"printer-ink-refill-kits-worth-it.md": {
-	id: "printer-ink-refill-kits-worth-it.md";
-  slug: "printer-ink-refill-kits-worth-it";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"printer-ink-scam-exposed.md": {
-	id: "printer-ink-scam-exposed.md";
-  slug: "printer-ink-scam-exposed";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"razor-blade-subscription-alternatives.md": {
-	id: "razor-blade-subscription-alternatives.md";
-  slug: "razor-blade-subscription-alternatives";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"razor-blade-subscription-trap.md": {
-	id: "razor-blade-subscription-trap.md";
-  slug: "razor-blade-subscription-trap";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-household-cleaners-that-deliver-powerful-results.md": {
-	id: "refillable-household-cleaners-that-deliver-powerful-results.md";
-  slug: "refillable-household-cleaners-that-deliver-powerful-results";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-household-products-that-reduce-carbon-footprint-significantly.md": {
-	id: "refillable-household-products-that-reduce-carbon-footprint-significantly.md";
-  slug: "refillable-household-products-that-reduce-carbon-footprint-significantly";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-shampoo-brands-that-actually-reduce-plastic-use.md": {
-	id: "refillable-shampoo-brands-that-actually-reduce-plastic-use.md";
-  slug: "refillable-shampoo-brands-that-actually-reduce-plastic-use";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-shaving-cream-options-for-zero-waste-grooming.md": {
-	id: "refillable-shaving-cream-options-for-zero-waste-grooming.md";
-  slug: "refillable-shaving-cream-options-for-zero-waste-grooming";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic.md": {
-	id: "refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic.md";
-  slug: "refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-compostable-packaging-which-is-more-eco-friendly.md": {
-	id: "refillable-vs-compostable-packaging-which-is-more-eco-friendly.md";
-  slug: "refillable-vs-compostable-packaging-which-is-more-eco-friendly";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-concentrated-cleaning-products-what-s-better.md": {
-	id: "refillable-vs-concentrated-cleaning-products-what-s-better.md";
-  slug: "refillable-vs-concentrated-cleaning-products-what-s-better";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-concentrated-vs-powdered-cleaning-products-explained.md": {
-	id: "refillable-vs-concentrated-vs-powdered-cleaning-products-explained.md";
-  slug: "refillable-vs-concentrated-vs-powdered-cleaning-products-explained";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-disposable-cotton-rounds-which-is-more-sustainable.md": {
-	id: "refillable-vs-disposable-cotton-rounds-which-is-more-sustainable.md";
-  slug: "refillable-vs-disposable-cotton-rounds-which-is-more-sustainable";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-disposable-sponges-which-is-more-sustainable.md": {
-	id: "refillable-vs-disposable-sponges-which-is-more-sustainable.md";
-  slug: "refillable-vs-disposable-sponges-which-is-more-sustainable";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-recyclable-packaging-what-consumers-should-know.md": {
-	id: "refillable-vs-recyclable-packaging-what-consumers-should-know.md";
-  slug: "refillable-vs-recyclable-packaging-what-consumers-should-know";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillable-vs-traditional-cleaning-products-cost-and-environmental-impact.md": {
-	id: "refillable-vs-traditional-cleaning-products-cost-and-environmental-impact.md";
-  slug: "refillable-vs-traditional-cleaning-products-cost-and-environmental-impact";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-01.md": {
-	id: "refillwatch-article-01.md";
-  slug: "refillwatch-article-01";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-02.md": {
-	id: "refillwatch-article-02.md";
-  slug: "refillwatch-article-02";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-03.md": {
-	id: "refillwatch-article-03.md";
-  slug: "refillwatch-article-03";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-04.md": {
-	id: "refillwatch-article-04.md";
-  slug: "refillwatch-article-04";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-05.md": {
-	id: "refillwatch-article-05.md";
-  slug: "refillwatch-article-05";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-06.md": {
-	id: "refillwatch-article-06.md";
-  slug: "refillwatch-article-06";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-07.md": {
-	id: "refillwatch-article-07.md";
-  slug: "refillwatch-article-07";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-08.md": {
-	id: "refillwatch-article-08.md";
-  slug: "refillwatch-article-08";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-09.md": {
-	id: "refillwatch-article-09.md";
-  slug: "refillwatch-article-09";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-article-10.md": {
-	id: "refillwatch-article-10.md";
-  slug: "refillwatch-article-10";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-guide-to-plastic-free-cleaning-solutions-at-home.md": {
-	id: "refillwatch-guide-to-plastic-free-cleaning-solutions-at-home.md";
-  slug: "refillwatch-guide-to-plastic-free-cleaning-solutions-at-home";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-insights-on-choosing-concentrates-for-household-cleaning.md": {
-	id: "refillwatch-insights-on-choosing-concentrates-for-household-cleaning.md";
-  slug: "refillwatch-insights-on-choosing-concentrates-for-household-cleaning";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-s-best-picks-for-sustainable-household-cleaning-products.md": {
-	id: "refillwatch-s-best-picks-for-sustainable-household-cleaning-products.md";
-  slug: "refillwatch-s-best-picks-for-sustainable-household-cleaning-products";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"refillwatch-top-refillable-household-products-for-zero-waste-living.md": {
-	id: "refillwatch-top-refillable-household-products-for-zero-waste-living.md";
-  slug: "refillwatch-top-refillable-household-products-for-zero-waste-living";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"reusable-water-bottles-best-value.md": {
-	id: "reusable-water-bottles-best-value.md";
-  slug: "reusable-water-bottles-best-value";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"reusable-water-bottles-savings.md": {
-	id: "reusable-water-bottles-savings.md";
-  slug: "reusable-water-bottles-savings";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"shampoo-bar-vs-liquid-cost-comparison.md": {
-	id: "shampoo-bar-vs-liquid-cost-comparison.md";
-  slug: "shampoo-bar-vs-liquid-cost-comparison";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1030,20 +806,6 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"streaming-service-price-doubling.md": {
-	id: "streaming-service-price-doubling.md";
-  slug: "streaming-service-price-doubling";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
-"streaming-service-price-hikes.md": {
-	id: "streaming-service-price-hikes.md";
-  slug: "streaming-service-price-hikes";
-  body: string;
-  collection: "articles";
-  data: InferEntrySchema<"articles">
-} & { render(): Render[".md"] };
 "streaming-subscription-hikes-avoid.md": {
 	id: "streaming-subscription-hikes-avoid.md";
   slug: "streaming-subscription-hikes-avoid";
@@ -1051,184 +813,380 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"subscription-service-audit-stop-the-creep.md": {
-	id: "subscription-service-audit-stop-the-creep.md";
-  slug: "subscription-service-audit-stop-the-creep";
+"the-5-best-budget-friendly-air-filters-that-don-t-compromise-quality.md": {
+	id: "the-5-best-budget-friendly-air-filters-that-don-t-compromise-quality.md";
+  slug: "the-5-best-budget-friendly-air-filters-that-don-t-compromise-quality";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"top-eco-friendly-refillable-shampoo-brands-reviewed.md": {
-	id: "top-eco-friendly-refillable-shampoo-brands-reviewed.md";
-  slug: "top-eco-friendly-refillable-shampoo-brands-reviewed";
+"the-5-best-quiet-air-purifiers-for-peaceful-breathing.md": {
+	id: "the-5-best-quiet-air-purifiers-for-peaceful-breathing.md";
+  slug: "the-5-best-quiet-air-purifiers-for-peaceful-breathing";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"top-refillable-deodorants-that-are-aluminum-and-plastic-free.md": {
-	id: "top-refillable-deodorants-that-are-aluminum-and-plastic-free.md";
-  slug: "top-refillable-deodorants-that-are-aluminum-and-plastic-free";
+"the-7-best-air-filters-for-pet-owners-breathe-easy-with-your-furry-friends.md": {
+	id: "the-7-best-air-filters-for-pet-owners-breathe-easy-with-your-furry-friends.md";
+  slug: "the-7-best-air-filters-for-pet-owners-breathe-easy-with-your-furry-friends";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"top-refillable-hand-sanitizers-that-reduce-single-use-plastic.md": {
-	id: "top-refillable-hand-sanitizers-that-reduce-single-use-plastic.md";
-  slug: "top-refillable-hand-sanitizers-that-reduce-single-use-plastic";
+"the-8-best-smart-air-purifiers-for-connected-living.md": {
+	id: "the-8-best-smart-air-purifiers-for-connected-living.md";
+  slug: "the-8-best-smart-air-purifiers-for-connected-living";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"top-refillable-household-products-that-slash-single-use-plastic-waste.md": {
-	id: "top-refillable-household-products-that-slash-single-use-plastic-waste.md";
-  slug: "top-refillable-household-products-that-slash-single-use-plastic-waste";
+"the-9-best-air-purifiers-for-voc-removal-say-goodbye-to-indoor-pollutants.md": {
+	id: "the-9-best-air-purifiers-for-voc-removal-say-goodbye-to-indoor-pollutants.md";
+  slug: "the-9-best-air-purifiers-for-voc-removal-say-goodbye-to-indoor-pollutants";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"top-refillable-mouthwash-brands-that-reduce-plastic-use.md": {
-	id: "top-refillable-mouthwash-brands-that-reduce-plastic-use.md";
-  slug: "top-refillable-mouthwash-brands-that-reduce-plastic-use";
+"the-best-air-filters-for-energy-efficiency-save-money-breathe-better.md": {
+	id: "the-best-air-filters-for-energy-efficiency-save-money-breathe-better.md";
+  slug: "the-best-air-filters-for-energy-efficiency-save-money-breathe-better";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"using-refillable-concentrates-to-maximize-plastic-waste-reduction.md": {
-	id: "using-refillable-concentrates-to-maximize-plastic-waste-reduction.md";
-  slug: "using-refillable-concentrates-to-maximize-plastic-waste-reduction";
+"the-best-air-filters-for-energy-star-certified-homes.md": {
+	id: "the-best-air-filters-for-energy-star-certified-homes.md";
+  slug: "the-best-air-filters-for-energy-star-certified-homes";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"walmart-water-price-hike-2024.md": {
-	id: "walmart-water-price-hike-2024.md";
-  slug: "walmart-water-price-hike-2024";
+"the-best-air-filters-for-homes-in-arid-climates.md": {
+	id: "the-best-air-filters-for-homes-in-arid-climates.md";
+  slug: "the-best-air-filters-for-homes-in-arid-climates";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"walmart-water-price-increase-2024.md": {
-	id: "walmart-water-price-increase-2024.md";
-  slug: "walmart-water-price-increase-2024";
+"the-best-air-filters-for-homes-in-urban-environments.md": {
+	id: "the-best-air-filters-for-homes-in-urban-environments.md";
+  slug: "the-best-air-filters-for-homes-in-urban-environments";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"walmart-water-price-surge.md": {
-	id: "walmart-water-price-surge.md";
-  slug: "walmart-water-price-surge";
+"the-best-air-filters-for-homes-with-art-collections-and-antiques.md": {
+	id: "the-best-air-filters-for-homes-with-art-collections-and-antiques.md";
+  slug: "the-best-air-filters-for-homes-with-art-collections-and-antiques";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-cleaning-products-are-safer-for-children-and-pets.md": {
-	id: "why-refillable-cleaning-products-are-safer-for-children-and-pets.md";
-  slug: "why-refillable-cleaning-products-are-safer-for-children-and-pets";
+"the-best-air-filters-for-homes-with-basement-humidity-issues.md": {
+	id: "the-best-air-filters-for-homes-with-basement-humidity-issues.md";
+  slug: "the-best-air-filters-for-homes-with-basement-humidity-issues";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-cleaning-products-reduce-household-plastic-waste.md": {
-	id: "why-refillable-cleaning-products-reduce-household-plastic-waste.md";
-  slug: "why-refillable-cleaning-products-reduce-household-plastic-waste";
+"the-best-air-filters-for-homes-with-basement-living-spaces.md": {
+	id: "the-best-air-filters-for-homes-with-basement-living-spaces.md";
+  slug: "the-best-air-filters-for-homes-with-basement-living-spaces";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-household-products-are-ideal-for-tiny-homes.md": {
-	id: "why-refillable-household-products-are-ideal-for-tiny-homes.md";
-  slug: "why-refillable-household-products-are-ideal-for-tiny-homes";
+"the-best-air-filters-for-homes-with-central-vacuum-systems.md": {
+	id: "the-best-air-filters-for-homes-with-central-vacuum-systems.md";
+  slug: "the-best-air-filters-for-homes-with-central-vacuum-systems";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-household-products-matter-for-ocean-plastic-pollution.md": {
-	id: "why-refillable-household-products-matter-for-ocean-plastic-pollution.md";
-  slug: "why-refillable-household-products-matter-for-ocean-plastic-pollution";
+"the-best-air-filters-for-homes-with-construction-dust.md": {
+	id: "the-best-air-filters-for-homes-with-construction-dust.md";
+  slug: "the-best-air-filters-for-homes-with-construction-dust";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-products-are-better-for-reducing-carbon-footprint.md": {
-	id: "why-refillable-products-are-better-for-reducing-carbon-footprint.md";
-  slug: "why-refillable-products-are-better-for-reducing-carbon-footprint";
+"the-best-air-filters-for-homes-with-elderly-residents-respiratory-protectio.md": {
+	id: "the-best-air-filters-for-homes-with-elderly-residents-respiratory-protectio.md";
+  slug: "the-best-air-filters-for-homes-with-elderly-residents-respiratory-protectio";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-products-are-essential-for-plastic-free-households.md": {
-	id: "why-refillable-products-are-essential-for-plastic-free-households.md";
-  slug: "why-refillable-products-are-essential-for-plastic-free-households";
+"the-best-air-filters-for-homes-with-indoor-plants.md": {
+	id: "the-best-air-filters-for-homes-with-indoor-plants.md";
+  slug: "the-best-air-filters-for-homes-with-indoor-plants";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-products-are-key-to-plastic-free-new-parents.md": {
-	id: "why-refillable-products-are-key-to-plastic-free-new-parents.md";
-  slug: "why-refillable-products-are-key-to-plastic-free-new-parents";
+"the-best-air-filters-for-homes-with-infants-protecting-delicate-lungs.md": {
+	id: "the-best-air-filters-for-homes-with-infants-protecting-delicate-lungs.md";
+  slug: "the-best-air-filters-for-homes-with-infants-protecting-delicate-lungs";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refillable-products-help-reduce-microplastic-pollution.md": {
-	id: "why-refillable-products-help-reduce-microplastic-pollution.md";
-  slug: "why-refillable-products-help-reduce-microplastic-pollution";
+"the-best-air-filters-for-homes-with-multiple-occupants.md": {
+	id: "the-best-air-filters-for-homes-with-multiple-occupants.md";
+  slug: "the-best-air-filters-for-homes-with-multiple-occupants";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-refilling-your-own-products-supports-local-zero-waste-shops.md": {
-	id: "why-refilling-your-own-products-supports-local-zero-waste-shops.md";
-  slug: "why-refilling-your-own-products-supports-local-zero-waste-shops";
+"the-best-air-filters-for-homes-with-radiant-heating-systems.md": {
+	id: "the-best-air-filters-for-homes-with-radiant-heating-systems.md";
+  slug: "the-best-air-filters-for-homes-with-radiant-heating-systems";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-switching-to-refillable-makeup-removers-matters-for-plastic-waste.md": {
-	id: "why-switching-to-refillable-makeup-removers-matters-for-plastic-waste.md";
-  slug: "why-switching-to-refillable-makeup-removers-matters-for-plastic-waste";
+"the-best-air-filters-for-homes-with-sensitive-electronics.md": {
+	id: "the-best-air-filters-for-homes-with-sensitive-electronics.md";
+  slug: "the-best-air-filters-for-homes-with-sensitive-electronics";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"why-using-refillable-hand-soap-can-save-money-and-plastic.md": {
-	id: "why-using-refillable-hand-soap-can-save-money-and-plastic.md";
-  slug: "why-using-refillable-hand-soap-can-save-money-and-plastic";
+"the-best-air-filters-for-homes-with-smokers.md": {
+	id: "the-best-air-filters-for-homes-with-smokers.md";
+  slug: "the-best-air-filters-for-homes-with-smokers";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"zero-waste-bathroom-essential-refillable-personal-care-products.md": {
-	id: "zero-waste-bathroom-essential-refillable-personal-care-products.md";
-  slug: "zero-waste-bathroom-essential-refillable-personal-care-products";
+"the-best-air-filters-for-homes-with-solar-panels-optimizing-efficiency.md": {
+	id: "the-best-air-filters-for-homes-with-solar-panels-optimizing-efficiency.md";
+  slug: "the-best-air-filters-for-homes-with-solar-panels-optimizing-efficiency";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"zero-waste-bathroom-swaps-refillable-vs-single-use-products.md": {
-	id: "zero-waste-bathroom-swaps-refillable-vs-single-use-products.md";
-  slug: "zero-waste-bathroom-swaps-refillable-vs-single-use-products";
+"the-best-air-filters-for-pet-hair-and-dander-control.md": {
+	id: "the-best-air-filters-for-pet-hair-and-dander-control.md";
+  slug: "the-best-air-filters-for-pet-hair-and-dander-control";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"zero-waste-cleaning-hacks-using-refillable-household-essentials.md": {
-	id: "zero-waste-cleaning-hacks-using-refillable-household-essentials.md";
-  slug: "zero-waste-cleaning-hacks-using-refillable-household-essentials";
+"the-best-air-filters-for-preventing-coil-buildup-in-your-hvac.md": {
+	id: "the-best-air-filters-for-preventing-coil-buildup-in-your-hvac.md";
+  slug: "the-best-air-filters-for-preventing-coil-buildup-in-your-hvac";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"zero-waste-cleaning-with-refillable-products-what-you-need-to-know.md": {
-	id: "zero-waste-cleaning-with-refillable-products-what-you-need-to-know.md";
-  slug: "zero-waste-cleaning-with-refillable-products-what-you-need-to-know";
+"the-best-air-filters-for-preventing-dust-buildup-on-furniture.md": {
+	id: "the-best-air-filters-for-preventing-dust-buildup-on-furniture.md";
+  slug: "the-best-air-filters-for-preventing-dust-buildup-on-furniture";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
-"zero-waste-living-refillable-personal-care-products-beginners-guide.md": {
-	id: "zero-waste-living-refillable-personal-care-products-beginners-guide.md";
-  slug: "zero-waste-living-refillable-personal-care-products-beginners-guide";
+"the-best-air-filters-for-preventing-hvac-system-breakdowns.md": {
+	id: "the-best-air-filters-for-preventing-hvac-system-breakdowns.md";
+  slug: "the-best-air-filters-for-preventing-hvac-system-breakdowns";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-best-air-filters-for-southern-climates-humidity-and-pollen-solutions.md": {
+	id: "the-best-air-filters-for-southern-climates-humidity-and-pollen-solutions.md";
+  slug: "the-best-air-filters-for-southern-climates-humidity-and-pollen-solutions";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-best-reusable-air-filters-eco-friendly-and-effective-options.md": {
+	id: "the-best-reusable-air-filters-eco-friendly-and-effective-options.md";
+  slug: "the-best-reusable-air-filters-eco-friendly-and-effective-options";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-environmental-impact-of-air-filters-sustainable-choices.md": {
+	id: "the-environmental-impact-of-air-filters-sustainable-choices.md";
+  slug: "the-environmental-impact-of-air-filters-sustainable-choices";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-future-of-air-filtration-innovations-on-the-horizon.md": {
+	id: "the-future-of-air-filtration-innovations-on-the-horizon.md";
+  slug: "the-future-of-air-filtration-innovations-on-the-horizon";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-hidden-costs-of-not-changing-your-air-filter-don-t-make-these-mistakes.md": {
+	id: "the-hidden-costs-of-not-changing-your-air-filter-don-t-make-these-mistakes.md";
+  slug: "the-hidden-costs-of-not-changing-your-air-filter-don-t-make-these-mistakes";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-history-of-air-filtration-from-simple-screens-to-advanced-tech.md": {
+	id: "the-history-of-air-filtration-from-simple-screens-to-advanced-tech.md";
+  slug: "the-history-of-air-filtration-from-simple-screens-to-advanced-tech";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-impact-of-hvac-air-filters-on-overall-home-health.md": {
+	id: "the-impact-of-hvac-air-filters-on-overall-home-health.md";
+  slug: "the-impact-of-hvac-air-filters-on-overall-home-health";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-importance-of-air-filtration-for-respiratory-health.md": {
+	id: "the-importance-of-air-filtration-for-respiratory-health.md";
+  slug: "the-importance-of-air-filtration-for-respiratory-health";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-psychology-of-clean-air-how-filters-impact-well-being.md": {
+	id: "the-psychology-of-clean-air-how-filters-impact-well-being.md";
+  slug: "the-psychology-of-clean-air-how-filters-impact-well-being";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-science-of-airflow-how-filters-impact-your-hvac-system.md": {
+	id: "the-science-of-airflow-how-filters-impact-your-hvac-system.md";
+  slug: "the-science-of-airflow-how-filters-impact-your-hvac-system";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-ultimate-guide-to-furnace-filter-sizes-find-the-perfect-fit.md": {
+	id: "the-ultimate-guide-to-furnace-filter-sizes-find-the-perfect-fit.md";
+  slug: "the-ultimate-guide-to-furnace-filter-sizes-find-the-perfect-fit";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"the-ultimate-home-air-quality-checklist-from-filters-to-ventilation.md": {
+	id: "the-ultimate-home-air-quality-checklist-from-filters-to-ventilation.md";
+  slug: "the-ultimate-home-air-quality-checklist-from-filters-to-ventilation";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"top-10-hvac-air-filters-for-allergies-your-ultimate-relief-guide.md": {
+	id: "top-10-hvac-air-filters-for-allergies-your-ultimate-relief-guide.md";
+  slug: "top-10-hvac-air-filters-for-allergies-your-ultimate-relief-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-air-filter-density-and-its-impact-on-filtration.md": {
+	id: "understanding-air-filter-density-and-its-impact-on-filtration.md";
+  slug: "understanding-air-filter-density-and-its-impact-on-filtration";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-air-filter-sizing-common-mistakes-and-how-to-avoid-them.md": {
+	id: "understanding-air-filter-sizing-common-mistakes-and-how-to-avoid-them.md";
+  slug: "understanding-air-filter-sizing-common-mistakes-and-how-to-avoid-them";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-cadr-ratings-what-they-mean-for-air-purifier-performance.md": {
+	id: "understanding-cadr-ratings-what-they-mean-for-air-purifier-performance.md";
+  slug: "understanding-cadr-ratings-what-they-mean-for-air-purifier-performance";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-merv-ratings-what-do-the-numbers-really-mean.md": {
+	id: "understanding-merv-ratings-what-do-the-numbers-really-mean.md";
+  slug: "understanding-merv-ratings-what-do-the-numbers-really-mean";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-pressure-drop-why-it-matters-for-your-air-filter.md": {
+	id: "understanding-pressure-drop-why-it-matters-for-your-air-filter.md";
+  slug: "understanding-pressure-drop-why-it-matters-for-your-air-filter";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-the-difference-between-hvac-filters-and-air-purifiers.md": {
+	id: "understanding-the-difference-between-hvac-filters-and-air-purifiers.md";
+  slug: "understanding-the-difference-between-hvac-filters-and-air-purifiers";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-the-lifespan-of-different-air-filter-types.md": {
+	id: "understanding-the-lifespan-of-different-air-filter-types.md";
+  slug: "understanding-the-lifespan-of-different-air-filter-types";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-the-link-between-air-filters-and-energy-bills.md": {
+	id: "understanding-the-link-between-air-filters-and-energy-bills.md";
+  slug: "understanding-the-link-between-air-filters-and-energy-bills";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-the-relationship-between-humidity-and-air-filter-performance.md": {
+	id: "understanding-the-relationship-between-humidity-and-air-filter-performance.md";
+  slug: "understanding-the-relationship-between-humidity-and-air-filter-performance";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"understanding-the-role-of-air-filters-in-smart-home-ecosystems.md": {
+	id: "understanding-the-role-of-air-filters-in-smart-home-ecosystems.md";
+  slug: "understanding-the-role-of-air-filters-in-smart-home-ecosystems";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"when-to-call-a-professional-air-filter-issues-you-can-t-ignore.md": {
+	id: "when-to-call-a-professional-air-filter-issues-you-can-t-ignore.md";
+  slug: "when-to-call-a-professional-air-filter-issues-you-can-t-ignore";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"when-to-upgrade-your-air-filter-signs-it-s-time-for-a-change.md": {
+	id: "when-to-upgrade-your-air-filter-signs-it-s-time-for-a-change.md";
+  slug: "when-to-upgrade-your-air-filter-signs-it-s-time-for-a-change";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"why-high-merv-ratings-aren-t-always-better-a-balanced-perspective.md": {
+	id: "why-high-merv-ratings-aren-t-always-better-a-balanced-perspective.md";
+  slug: "why-high-merv-ratings-aren-t-always-better-a-balanced-perspective";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"why-merv-matters-protecting-your-family-from-airborne-pollutants.md": {
+	id: "why-merv-matters-protecting-your-family-from-airborne-pollutants.md";
+  slug: "why-merv-matters-protecting-your-family-from-airborne-pollutants";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"your-guide-to-air-filter-materials-from-fiberglass-to-synthetic.md": {
+	id: "your-guide-to-air-filter-materials-from-fiberglass-to-synthetic.md";
+  slug: "your-guide-to-air-filter-materials-from-fiberglass-to-synthetic";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1869,20 +1827,6 @@ declare module 'astro:content' {
   collection: "products";
   data: InferEntrySchema<"products">
 } & { render(): Render[".md"] };
-"b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab.md": {
-	id: "b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab.md";
-  slug: "b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab";
-  body: string;
-  collection: "products";
-  data: InferEntrySchema<"products">
-} & { render(): Render[".md"] };
-"b0848q34f8-paroxetine-7-5-mg-cap.md": {
-	id: "b0848q34f8-paroxetine-7-5-mg-cap.md";
-  slug: "b0848q34f8-paroxetine-7-5-mg-cap";
-  body: string;
-  collection: "products";
-  data: InferEntrySchema<"products">
-} & { render(): Render[".md"] };
 "b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh.md": {
 	id: "b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh.md";
   slug: "b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh";
@@ -1974,13 +1918,6 @@ declare module 'astro:content' {
   collection: "products";
   data: InferEntrySchema<"products">
 } & { render(): Render[".md"] };
-"b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch.md": {
-	id: "b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch.md";
-  slug: "b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch";
-  body: string;
-  collection: "products";
-  data: InferEntrySchema<"products">
-} & { render(): Render[".md"] };
 "b09dv14zzl-b09dv14zzl.md": {
 	id: "b09dv14zzl-b09dv14zzl.md";
   slug: "b09dv14zzl-b09dv14zzl";
@@ -2047,13 +1984,6 @@ declare module 'astro:content' {
 "b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit.md": {
 	id: "b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit.md";
   slug: "b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-";
-  body: string;
-  collection: "products";
-  data: InferEntrySchema<"products">
-} & { render(): Render[".md"] };
-"b0c7ztv376-veozah-45-mg-tab.md": {
-	id: "b0c7ztv376-veozah-45-mg-tab.md";
-  slug: "b0c7ztv376-veozah-45-mg-tab";
   body: string;
   collection: "products";
   data: InferEntrySchema<"products">

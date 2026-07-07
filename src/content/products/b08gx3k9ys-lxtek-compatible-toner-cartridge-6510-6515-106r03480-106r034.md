@@ -15,7 +15,7 @@ rating: 4.6
 bsr: 1598
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41gNXmpaM+L.jpg
+imageUrl: /images/products/B08GX3K9YS.jpg
 affiliateUrl: https://www.amazon.com/dp/B08GX3K9YS?tag=filtercycle-20
 isPrime: false
 status: draft
@@ -26,7 +26,6 @@ cardTitle: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03
   106R034
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

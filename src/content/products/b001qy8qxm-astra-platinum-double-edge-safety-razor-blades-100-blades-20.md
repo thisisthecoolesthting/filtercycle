@@ -10,7 +10,7 @@ rating: 4.6
 bsr: 9
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41KPdOFKPeL.jpg
+imageUrl: /images/products/b001qy8qxm.jpg
 affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=filtercycle-20
 isPrime: false
 status: published
@@ -20,7 +20,6 @@ slug: b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20
 cardTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

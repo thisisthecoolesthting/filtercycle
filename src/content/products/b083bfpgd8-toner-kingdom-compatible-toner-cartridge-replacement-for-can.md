@@ -15,7 +15,7 @@ rating: 3.8
 bsr: 1262
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/51PK92UVnXL.jpg
+imageUrl: /images/products/B083BFPGD8.jpg
 affiliateUrl: https://www.amazon.com/dp/B083BFPGD8?tag=filtercycle-20
 isPrime: false
 status: published
@@ -26,7 +26,6 @@ cardTitle: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 0
   High Yie
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

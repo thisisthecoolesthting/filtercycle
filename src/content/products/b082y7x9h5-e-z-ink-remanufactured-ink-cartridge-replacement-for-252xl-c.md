@@ -15,7 +15,7 @@ rating: 4.2
 bsr: 1434
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg
+imageUrl: /images/products/B082Y7X9H5.jpg
 affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=filtercycle-20
 isPrime: false
 status: draft
@@ -26,7 +26,6 @@ cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack
   Epson
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

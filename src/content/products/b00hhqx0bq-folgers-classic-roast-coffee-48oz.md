@@ -14,7 +14,7 @@ reviewCount: 67890
 bsr: 5
 commissionPerSale: 0.0
 score: 89.0
-imageUrl: https://m.media-amazon.com/images/I/41mFT3E-X6S.jpg
+imageUrl: /images/products/B00HHQX0BQ.jpg
 affiliateUrl: https://www.amazon.com/dp/B00HHQX0BQ?tag=filtercycle-20&linkCode=ll1&language=en_US
 isPrime: true
 status: published
@@ -24,7 +24,6 @@ tags:
 - coffee
 - grocery
 - bulk-buying
-imageFlagged: true
 ---
 
 # Folgers Classic Roast 48oz — Per-Cup Cost Analysis

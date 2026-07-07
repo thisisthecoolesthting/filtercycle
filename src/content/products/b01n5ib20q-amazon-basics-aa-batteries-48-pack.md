@@ -14,7 +14,7 @@ reviewCount: 287432
 bsr: 1
 commissionPerSale: 0.0
 score: 94.0
-imageUrl: https://m.media-amazon.com/images/I/41VtUi6pMDL.jpg
+imageUrl: /images/products/B01N5IB20Q.jpg
 affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=filtercycle-20&linkCode=ll1&language=en_US
 isPrime: true
 status: published
@@ -24,7 +24,6 @@ tags:
 - batteries
 - household
 - bulk-buying
-imageFlagged: true
 ---
 
 # Amazon Basics AA Batteries (48-pack) — Price & Value Analysis

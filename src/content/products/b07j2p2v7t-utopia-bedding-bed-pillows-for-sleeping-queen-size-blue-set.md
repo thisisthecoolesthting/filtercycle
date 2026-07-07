@@ -13,7 +13,7 @@ rating: 4.5
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41623NIH2sL.jpg
+imageUrl: /images/products/b07j2p2v7t.jpg
 affiliateUrl: https://www.amazon.com/dp/B07J2P2V7T?tag=filtercycle-20
 isPrime: false
 status: published
@@ -24,7 +24,6 @@ cardTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, 
   Hot
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

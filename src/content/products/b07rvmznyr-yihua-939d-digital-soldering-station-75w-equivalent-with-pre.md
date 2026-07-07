@@ -15,7 +15,7 @@ rating: 4.6
 bsr: 9
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41l0ECVpfIL.jpg
+imageUrl: /images/products/B07RVMZNYR.jpg
 affiliateUrl: https://www.amazon.com/dp/B07RVMZNYR?tag=filtercycle-20
 isPrime: false
 status: draft
@@ -26,7 +26,6 @@ cardTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision 
   Contro
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

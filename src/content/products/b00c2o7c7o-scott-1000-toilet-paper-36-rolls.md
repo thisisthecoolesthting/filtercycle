@@ -14,7 +14,7 @@ reviewCount: 41280
 bsr: 4
 commissionPerSale: 0.0
 score: 85.0
-imageUrl: https://m.media-amazon.com/images/I/515nKDNSU5L.jpg
+imageUrl: /images/products/B00C2O7C7O.jpg
 affiliateUrl: https://www.amazon.com/dp/B00C2O7C7O?tag=filtercycle-20&linkCode=ll1&language=en_US
 isPrime: true
 status: published
@@ -24,7 +24,6 @@ tags:
 - toilet-paper
 - paper-products
 - household
-imageFlagged: true
 ---
 
 # Scott 1000 (36 Rolls) — The Cost-Per-Sheet Benchmark
