@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="250" viewBox="0 0 300 250" role="img" aria-label="Printify print-on-demand">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#39B54A"/><stop offset="100%" stop-color="#2d8a3a"/></linearGradient></defs>
+  <rect width="300" height="250" rx="14" fill="#111827"/>
+  <rect x="12" y="12" width="276" height="226" rx="10" fill="url(#g)" opacity="0.15"/>
+  <text x="24" y="52" fill="#39B54A" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PRINT-ON-DEMAND</text>
+  <text x="24" y="92" fill="#fff" font-family="system-ui,sans-serif" font-size="26" font-weight="800">Sell custom merch</text>
+  <text x="24" y="122" fill="#d1d5db" font-family="system-ui,sans-serif" font-size="14">No inventory · we print &amp; ship</text>
+  <text x="24" y="168" fill="#fff" font-family="system-ui,sans-serif" font-size="13" font-weight="600">900+ products · free to start</text>
+  <rect x="24" y="188" width="140" height="36" rx="8" fill="#39B54A"/>
+  <text x="94" y="211" fill="#fff" font-family="system-ui,sans-serif" font-size="13" font-weight="700" text-anchor="middle">Try Printify →</text>
+</svg>
