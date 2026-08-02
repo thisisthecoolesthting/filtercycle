@@ -4,7 +4,7 @@ metaDescription: "Humidity plays a significant role in how well your air filter 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Humidity plays a significant role in how well your air filter performs. High moisture levels in the air can cause filters to become clogged more quick"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

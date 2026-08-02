@@ -4,7 +4,7 @@ metaDescription: "Retail stores are bustling environments with high foot traffic
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Retail stores are bustling environments with high foot traffic, which can lead to poor indoor air quality. Shoppers and employees are often exposed to"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

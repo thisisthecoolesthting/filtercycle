@@ -4,7 +4,7 @@ metaDescription: "Your HVAC system is one of the most expensive investments in y
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your HVAC system is one of the most expensive investments in your home, and protecting it from damage is essential. Air filters play a critical role i"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

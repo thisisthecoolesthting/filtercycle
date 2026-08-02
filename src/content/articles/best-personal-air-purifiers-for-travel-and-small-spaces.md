@@ -4,7 +4,7 @@ metaDescription: "When it comes to maintaining clean air in compact spaces or wh
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to maintaining clean air in compact spaces or while on the go, personal air purifiers are an excellent solution. These devices are desig"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Your HVAC system is a critical component of your home, ensurin
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your HVAC system is a critical component of your home, ensuring comfort year-round. However, without proper filtration, dust, debris, and contaminants"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

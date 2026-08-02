@@ -4,7 +4,7 @@ metaDescription: "The air inside your home can contain a variety of pollutants, 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "The air inside your home can contain a variety of pollutants, from microscopic dust particles to allergens like pet dander and pollen. These contamina"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

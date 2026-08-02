@@ -4,7 +4,7 @@ metaDescription: "Electrostatic air filters use an electric charge to capture ai
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Electrostatic air filters use an electric charge to capture airborne particles as air passes through them. Unlike traditional pleated or fiberglass fi"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Clean air isn’t just about physical health—it also plays a
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Clean air isn’t just about physical health—it also plays a significant role in mental well-being. Studies have shown that poor indoor air quality can"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

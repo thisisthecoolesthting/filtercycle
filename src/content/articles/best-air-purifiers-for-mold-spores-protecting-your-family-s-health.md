@@ -4,7 +4,7 @@ metaDescription: "Mold spores are a common indoor air pollutant that can trigger
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Mold spores are a common indoor air pollutant that can trigger allergies, asthma, and other respiratory issues. While HVAC filters and furnace filters"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

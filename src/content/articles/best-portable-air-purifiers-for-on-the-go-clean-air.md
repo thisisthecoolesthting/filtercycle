@@ -4,7 +4,7 @@ metaDescription: "Whether you're traveling, commuting, or working in a shared sp
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Whether you're traveling, commuting, or working in a shared space, clean air is essential for health and comfort. Portable air purifiers offer a conve"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

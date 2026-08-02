@@ -4,7 +4,7 @@ metaDescription: "Seasonal allergies affect millions of people each year, with s
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Seasonal allergies affect millions of people each year, with symptoms like sneezing, congestion, itchy eyes, and respiratory discomfort. These reactio"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

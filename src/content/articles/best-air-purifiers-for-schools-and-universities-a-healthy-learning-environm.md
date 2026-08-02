@@ -4,7 +4,7 @@ metaDescription: "Creating a healthy learning environment is critical for studen
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Creating a healthy learning environment is critical for students and staff, especially in shared spaces like classrooms, libraries, and dormitories. A"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

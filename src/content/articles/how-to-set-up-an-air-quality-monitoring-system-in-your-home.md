@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality (IAQ) can significantly impact health, comf
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality (IAQ) can significantly impact health, comfort, and even HVAC efficiency. Pollutants like dust, pollen, mold spores, volatile organ"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

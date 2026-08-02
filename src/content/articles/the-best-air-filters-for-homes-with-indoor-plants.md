@@ -4,7 +4,7 @@ metaDescription: "Indoor plants bring life and beauty to your home, but they can
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor plants bring life and beauty to your home, but they can also introduce dust, mold spores, and other airborne particles into your living space."
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

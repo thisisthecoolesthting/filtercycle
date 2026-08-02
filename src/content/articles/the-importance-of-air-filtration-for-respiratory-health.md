@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality plays a critical role in maintaining respir
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality plays a critical role in maintaining respiratory health, especially as many people spend the majority of their time indoors. Poor a"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

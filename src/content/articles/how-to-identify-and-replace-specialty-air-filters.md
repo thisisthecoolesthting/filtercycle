@@ -4,7 +4,7 @@ metaDescription: "Specialty air filters play a crucial role in maintaining indoo
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Specialty air filters play a crucial role in maintaining indoor air quality, especially for homes with unique HVAC needs. Whether you're dealing with"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

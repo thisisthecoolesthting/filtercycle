@@ -4,7 +4,7 @@ metaDescription: "Asthma is a chronic respiratory condition that can be triggere
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Asthma is a chronic respiratory condition that can be triggered or worsened by airborne irritants such as dust, pollen, pet dander, mold spores, and s"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

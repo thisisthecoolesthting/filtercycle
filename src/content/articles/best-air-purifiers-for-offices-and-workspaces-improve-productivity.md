@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality (IAQ) plays a crucial role in employee heal
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality (IAQ) plays a crucial role in employee health, comfort, and productivity. Poor air quality, often caused by dust, allergens, volati"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

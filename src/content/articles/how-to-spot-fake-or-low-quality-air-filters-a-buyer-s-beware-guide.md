@@ -4,7 +4,7 @@ metaDescription: "When it comes to maintaining indoor air quality, your HVAC or 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to maintaining indoor air quality, your HVAC or furnace filter plays a critical role. A high-quality air filter traps dust, pollen, pet"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

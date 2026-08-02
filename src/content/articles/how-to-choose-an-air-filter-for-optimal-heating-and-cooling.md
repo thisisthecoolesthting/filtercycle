@@ -4,7 +4,7 @@ metaDescription: "Air filters play a critical role in maintaining indoor air qua
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Air filters play a critical role in maintaining indoor air quality and ensuring the efficiency of your HVAC system. A high-quality filter traps dust,"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

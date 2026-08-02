@@ -4,7 +4,7 @@ metaDescription: "Your home's air filter might seem like a small, forgettable co
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your home's air filter might seem like a small, forgettable component, but neglecting it can lead to costly consequences. Whether you use a basic fibe"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

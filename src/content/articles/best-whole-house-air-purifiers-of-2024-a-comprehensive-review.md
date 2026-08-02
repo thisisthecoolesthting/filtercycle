@@ -4,7 +4,7 @@ metaDescription: "Whole-house air purifiers offer a powerful solution for improv
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Whole-house air purifiers offer a powerful solution for improving indoor air quality by filtering contaminants throughout your entire home. Unlike por"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Regular HVAC filter maintenance is essential for maintaining i
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Regular HVAC filter maintenance is essential for maintaining indoor air quality, improving system efficiency, and extending the lifespan of your heati"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

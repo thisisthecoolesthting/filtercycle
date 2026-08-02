@@ -4,7 +4,7 @@ metaDescription: "Children spend a significant portion of their day in classroom
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Children spend a significant portion of their day in classrooms and daycares, where air quality can directly impact their health, focus, and developme"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

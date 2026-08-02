@@ -4,7 +4,7 @@ metaDescription: "Hotels and resorts prioritize guest comfort, and air quality p
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Hotels and resorts prioritize guest comfort, and air quality plays a crucial role in ensuring a pleasant stay. Poor indoor air quality—whether from al"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

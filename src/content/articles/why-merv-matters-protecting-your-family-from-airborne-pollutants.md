@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality is a critical yet often overlooked aspect o
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality is a critical yet often overlooked aspect of home health. With the average person spending about 90% of their time indoors, the air"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

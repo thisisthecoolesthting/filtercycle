@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality (IAQ) directly impacts health, comfort, and
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality (IAQ) directly impacts health, comfort, and overall well-being. Poor air quality can lead to allergies, respiratory issues, and lon"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

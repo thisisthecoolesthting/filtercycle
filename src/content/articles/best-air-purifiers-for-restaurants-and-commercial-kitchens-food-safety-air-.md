@@ -4,7 +4,7 @@ metaDescription: "Maintaining clean air in restaurants and commercial kitchens i
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Maintaining clean air in restaurants and commercial kitchens is essential for both food safety and customer satisfaction. Cooking processes release gr"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

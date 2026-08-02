@@ -4,7 +4,7 @@ metaDescription: "Poor indoor air quality can lead to allergies, respiratory iss
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Poor indoor air quality can lead to allergies, respiratory issues, and general discomfort. Fortunately, improving air quality doesn’t require a comple"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

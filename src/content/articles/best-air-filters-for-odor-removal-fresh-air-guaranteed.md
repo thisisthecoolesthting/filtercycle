@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, odor removal is
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, odor removal is one of the most common challenges homeowners face. Whether it’s cooking smells, pet odo"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

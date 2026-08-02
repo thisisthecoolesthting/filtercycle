@@ -4,7 +4,7 @@ metaDescription: "Basements are notorious for high humidity levels due to their 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Basements are notorious for high humidity levels due to their below-ground location, poor ventilation, and potential for water intrusion. This excess"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

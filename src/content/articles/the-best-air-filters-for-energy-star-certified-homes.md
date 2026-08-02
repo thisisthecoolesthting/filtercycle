@@ -4,7 +4,7 @@ metaDescription: "Energy Star certified homes are designed to be energy-efficien
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Energy Star certified homes are designed to be energy-efficient, reducing utility costs while maintaining a comfortable indoor environment. However, t"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, True HEPA filte
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, True HEPA filters are the gold standard. These filters capture 99.97% of airborne particles as small as"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

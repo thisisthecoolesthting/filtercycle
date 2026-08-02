@@ -4,7 +4,7 @@ metaDescription: "Workshops and garages are hotspots for airborne contaminantsâ€
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Workshops and garages are hotspots for airborne contaminantsâ€”dust, fumes, paint particles, sawdust, and even volatile organic compounds (VOCs) from ch"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

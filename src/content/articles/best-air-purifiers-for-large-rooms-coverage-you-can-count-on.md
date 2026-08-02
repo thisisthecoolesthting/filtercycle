@@ -4,7 +4,7 @@ metaDescription: "Large rooms, such as living rooms, open-concept kitchens, and 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Large rooms, such as living rooms, open-concept kitchens, and home offices, require air purifiers with robust performance capabilities. Unlike smaller"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

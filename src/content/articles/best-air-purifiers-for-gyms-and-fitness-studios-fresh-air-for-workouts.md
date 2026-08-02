@@ -4,7 +4,7 @@ metaDescription: "Gyms and fitness studios are high-traffic spaces where air qua
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Gyms and fitness studios are high-traffic spaces where air quality can quickly deteriorate due to sweat, body odors, dust, and airborne pathogens. Pro"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

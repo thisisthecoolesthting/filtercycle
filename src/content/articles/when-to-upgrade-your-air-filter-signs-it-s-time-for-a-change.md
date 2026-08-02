@@ -4,7 +4,7 @@ metaDescription: "Your HVAC system’s air filter plays a critical role in maint
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your HVAC system’s air filter plays a critical role in maintaining indoor air quality and system efficiency. Over time, filters become clogged with du"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

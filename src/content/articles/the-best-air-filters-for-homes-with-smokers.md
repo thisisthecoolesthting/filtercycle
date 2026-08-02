@@ -4,7 +4,7 @@ metaDescription: "Living with a smoker can significantly impact indoor air quali
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Living with a smoker can significantly impact indoor air quality, introducing harmful pollutants like tobacco smoke, tar, and volatile organic compoun"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

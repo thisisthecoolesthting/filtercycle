@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, not all air fil
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, not all air filters are created equal. While standard MERV 8–13 filters work well for most homes, there"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

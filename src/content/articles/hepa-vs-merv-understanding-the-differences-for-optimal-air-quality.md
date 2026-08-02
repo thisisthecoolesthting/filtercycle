@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, choosing the ri
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, choosing the right air filter is critical. Two common terms you’ll encounter are HEPA and MERV, which r"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Sensitive electronics, such as computers, servers, and audiovi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Sensitive electronics, such as computers, servers, and audiovisual equipment, require clean air to function efficiently and avoid damage. Dust, pollen"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

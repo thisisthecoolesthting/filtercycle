@@ -4,7 +4,7 @@ metaDescription: "Southern climates present unique challenges for indoor air qua
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Southern climates present unique challenges for indoor air quality. High humidity levels encourage mold and mildew growth, while pollen counts can be"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

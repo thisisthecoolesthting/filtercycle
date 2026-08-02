@@ -4,7 +4,7 @@ metaDescription: "Urban environments present unique air quality challenges, from
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Urban environments present unique air quality challenges, from vehicle emissions and industrial pollutants to pollen and construction dust. Choosing t"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

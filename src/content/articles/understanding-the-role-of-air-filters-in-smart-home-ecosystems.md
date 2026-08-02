@@ -4,7 +4,7 @@ metaDescription: "Smart home technology has revolutionized how we manage indoor 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Smart home technology has revolutionized how we manage indoor air quality, making it easier than ever to monitor and improve the air we breathe. At th"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

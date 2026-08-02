@@ -4,7 +4,7 @@ metaDescription: "Selecting the right air filter for your home goes beyond just 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Selecting the right air filter for your home goes beyond just trapping dust—it’s about optimizing air quality for your specific climate. Whether you l"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

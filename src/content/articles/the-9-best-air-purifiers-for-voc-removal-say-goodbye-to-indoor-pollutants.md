@@ -4,7 +4,7 @@ metaDescription: "Volatile Organic Compounds (VOCs) are harmful gases emitted fr
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Volatile Organic Compounds (VOCs) are harmful gases emitted from everyday household items like paints, cleaning supplies, furniture, and even air fres"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

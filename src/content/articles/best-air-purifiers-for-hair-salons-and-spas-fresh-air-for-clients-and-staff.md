@@ -4,7 +4,7 @@ metaDescription: "Hair salons and spas are bustling environments where chemicals
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Hair salons and spas are bustling environments where chemicals, hair particles, and odors constantly circulate. From aerosol sprays and hair dyes to n"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

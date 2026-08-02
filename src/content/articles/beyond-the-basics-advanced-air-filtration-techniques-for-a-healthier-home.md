@@ -4,7 +4,7 @@ metaDescription: "Improving indoor air quality goes beyond simply replacing your
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Improving indoor air quality goes beyond simply replacing your furnace filter every few months. Advanced filtration techniques can significantly reduc"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "As we age, our respiratory systems become more vulnerable to a
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "As we age, our respiratory systems become more vulnerable to airborne pollutants, allergens, and pathogens. For elderly residents, maintaining clean i"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

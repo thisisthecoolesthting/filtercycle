@@ -4,7 +4,7 @@ metaDescription: "Airflow is the lifeblood of your HVAC system. It ensures that 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Airflow is the lifeblood of your HVAC system. It ensures that heated or cooled air is distributed evenly throughout your home, maintaining comfort and"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

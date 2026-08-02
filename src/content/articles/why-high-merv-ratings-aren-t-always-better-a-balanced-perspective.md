@@ -4,7 +4,7 @@ metaDescription: "MERV (Minimum Efficiency Reporting Value) ratings measure how 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "MERV (Minimum Efficiency Reporting Value) ratings measure how effectively an air filter captures particles of different sizes. Ranging from 1 to 16 (a"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

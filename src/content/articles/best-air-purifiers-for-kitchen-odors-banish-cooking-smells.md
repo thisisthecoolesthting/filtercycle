@@ -4,7 +4,7 @@ metaDescription: "Cooking is a daily activity that fills your home with deliciou
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Cooking is a daily activity that fills your home with delicious aromas, but lingering odors from fried foods, spices, or burnt dishes can be unpleasan"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

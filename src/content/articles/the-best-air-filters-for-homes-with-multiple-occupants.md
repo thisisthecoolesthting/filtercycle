@@ -4,7 +4,7 @@ metaDescription: "When multiple people share a living space, maintaining high in
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When multiple people share a living space, maintaining high indoor air quality becomes even more critical. More occupants mean more dust, dander, pet"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

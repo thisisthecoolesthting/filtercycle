@@ -4,7 +4,7 @@ metaDescription: "Arid climates, characterized by low humidity and dry air, pres
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Arid climates, characterized by low humidity and dry air, present unique challenges for indoor air quality. Dust, sand, and other particulate matter a"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

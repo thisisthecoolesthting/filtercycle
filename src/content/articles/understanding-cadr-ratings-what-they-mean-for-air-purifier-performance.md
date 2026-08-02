@@ -4,7 +4,7 @@ metaDescription: "When shopping for an air purifier, you’ll often encounter th
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When shopping for an air purifier, you’ll often encounter the term CADR (Clean Air Delivery Rate). This metric is crucial for evaluating how effective"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

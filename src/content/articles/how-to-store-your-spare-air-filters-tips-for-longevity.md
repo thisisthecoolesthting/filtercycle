@@ -4,7 +4,7 @@ metaDescription: "Properly storing spare air filters ensures they remain effecti
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Properly storing spare air filters ensures they remain effective and ready for use when needed. Whether you use fiberglass, pleated, HEPA, or electros"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Dust mites are microscopic organisms that thrive in warm, humi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Dust mites are microscopic organisms that thrive in warm, humid environments and feed on dead skin cells. While they don’t bite or spread diseases, th"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

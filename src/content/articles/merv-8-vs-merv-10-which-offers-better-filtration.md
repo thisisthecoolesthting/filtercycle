@@ -4,7 +4,7 @@ metaDescription: "MERV (Minimum Efficiency Reporting Value) ratings are a standa
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "MERV (Minimum Efficiency Reporting Value) ratings are a standard used to measure the effectiveness of air filters in trapping airborne particles. The"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

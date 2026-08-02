@@ -4,7 +4,7 @@ metaDescription: "Replacing your HVAC or furnace air filter is one of the simple
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Replacing your HVAC or furnace air filter is one of the simplest yet most important maintenance tasks for improving indoor air quality. A clean filter"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

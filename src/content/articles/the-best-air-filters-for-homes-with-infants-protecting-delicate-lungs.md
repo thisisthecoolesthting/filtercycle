@@ -4,7 +4,7 @@ metaDescription: "Infants have delicate respiratory systems, making clean indoor
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Infants have delicate respiratory systems, making clean indoor air essential for their health. Dust, pet dander, mold spores, and volatile organic com"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

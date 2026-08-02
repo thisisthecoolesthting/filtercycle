@@ -4,7 +4,7 @@ metaDescription: "Dust accumulation on furniture is a common frustration for hom
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Dust accumulation on furniture is a common frustration for homeowners. While regular cleaning helps, the real solution lies in improving indoor air qu"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Keeping your air purifier in top condition ensures it effectiv
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Keeping your air purifier in top condition ensures it effectively removes pollutants like dust, pollen, pet dander, and smoke from your home. Regular"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

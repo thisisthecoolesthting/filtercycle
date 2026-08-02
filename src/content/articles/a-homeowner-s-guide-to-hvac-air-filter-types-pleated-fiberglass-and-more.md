@@ -4,7 +4,7 @@ metaDescription: "Choosing the right air filter for your HVAC system is crucial 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Choosing the right air filter for your HVAC system is crucial for maintaining indoor air quality, system efficiency, and longevity. With various filte"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

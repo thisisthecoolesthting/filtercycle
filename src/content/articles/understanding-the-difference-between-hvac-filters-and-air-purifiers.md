@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, HVAC filters an
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, HVAC filters and air purifiers are two common solutions. While both aim to remove contaminants from the"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "When it comes to maximizing your air filter's performance, the
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to maximizing your air filter's performance, the first step is understanding the different types available. The most common filters are"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

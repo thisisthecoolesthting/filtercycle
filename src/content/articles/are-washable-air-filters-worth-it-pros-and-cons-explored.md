@@ -4,7 +4,7 @@ metaDescription: "Washable air filters are reusable HVAC or furnace filters desi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Washable air filters are reusable HVAC or furnace filters designed to be cleaned and reinstalled rather than replaced. Typically made from electrostat"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

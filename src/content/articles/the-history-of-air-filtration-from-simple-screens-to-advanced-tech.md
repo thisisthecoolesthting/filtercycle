@@ -4,7 +4,7 @@ metaDescription: "The concept of air filtration dates back centuries, with early
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "The concept of air filtration dates back centuries, with early civilizations using rudimentary methods to improve air quality. Ancient Egyptians emplo"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

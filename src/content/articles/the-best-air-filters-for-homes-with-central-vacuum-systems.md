@@ -4,7 +4,7 @@ metaDescription: "Central vacuum systems are a popular choice for homeowners see
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Central vacuum systems are a popular choice for homeowners seeking efficient and convenient cleaning solutions. However, these systems can stir up dus"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

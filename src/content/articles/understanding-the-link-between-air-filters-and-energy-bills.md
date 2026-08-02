@@ -4,7 +4,7 @@ metaDescription: "When it comes to home comfort and energy efficiency, your HVAC
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to home comfort and energy efficiency, your HVAC system plays a crucial role—and the air filter you choose can significantly impact both"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

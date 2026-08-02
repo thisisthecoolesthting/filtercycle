@@ -4,7 +4,7 @@ metaDescription: "Choosing the right air filter for your HVAC system or furnace 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Choosing the right air filter for your HVAC system or furnace is critical for maintaining indoor air quality and system efficiency. However, many home"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

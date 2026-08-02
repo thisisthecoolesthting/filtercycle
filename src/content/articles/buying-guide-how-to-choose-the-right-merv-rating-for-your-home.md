@@ -4,7 +4,7 @@ metaDescription: "When choosing an air filter for your home, understanding MERV 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When choosing an air filter for your home, understanding MERV (Minimum Efficiency Reporting Value) ratings is crucial. MERV ratings range from 1 to 20"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "MERV stands for Minimum Efficiency Reporting Value, a standard
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "MERV stands for Minimum Efficiency Reporting Value, a standardized scale used to rate the effectiveness of air filters in capturing airborne particles"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

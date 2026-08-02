@@ -4,7 +4,7 @@ metaDescription: "Indoor farming and grow rooms require precise environmental co
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor farming and grow rooms require precise environmental control to ensure healthy plant growth. Air quality plays a critical role in preventing mo"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

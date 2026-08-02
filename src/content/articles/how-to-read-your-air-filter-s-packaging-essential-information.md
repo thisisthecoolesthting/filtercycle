@@ -4,7 +4,7 @@ metaDescription: "Air filters are essential for maintaining indoor air quality a
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Air filters are essential for maintaining indoor air quality and protecting your HVAC system. However, deciphering the information on filter packaging"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

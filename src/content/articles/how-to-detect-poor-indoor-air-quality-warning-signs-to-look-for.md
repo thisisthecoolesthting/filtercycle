@@ -4,7 +4,7 @@ metaDescription: "Poor indoor air quality (IAQ) can negatively impact your healt
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Poor indoor air quality (IAQ) can negatively impact your health, comfort, and even your home’s HVAC efficiency. Recognizing the warning signs early ca"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

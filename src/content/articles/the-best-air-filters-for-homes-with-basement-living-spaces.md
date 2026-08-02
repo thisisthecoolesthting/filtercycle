@@ -4,7 +4,7 @@ metaDescription: "Basements are notorious for poor air quality due to high humid
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Basements are notorious for poor air quality due to high humidity, limited ventilation, and potential mold or mildew growth. If your home includes a b"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "UV-C air purifiers are a specialized type of air purification 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "UV-C air purifiers are a specialized type of air purification system that uses ultraviolet (UV) light in the C spectrum to neutralize airborne pathoge"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

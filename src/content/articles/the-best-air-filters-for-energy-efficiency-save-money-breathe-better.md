@@ -4,7 +4,7 @@ metaDescription: "When it comes to maintaining indoor air quality, air filters p
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to maintaining indoor air quality, air filters play a crucial role. However, not all filters are created equal, especially when it comes"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

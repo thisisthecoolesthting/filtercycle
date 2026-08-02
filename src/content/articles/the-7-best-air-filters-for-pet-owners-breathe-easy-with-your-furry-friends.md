@@ -4,7 +4,7 @@ metaDescription: "Pets bring joy, companionship, and—let’s be honest—a fai
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Pets bring joy, companionship, and—let’s be honest—a fair amount of fur, dander, and odors into our homes. For pet owners, maintaining clean indoor ai"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

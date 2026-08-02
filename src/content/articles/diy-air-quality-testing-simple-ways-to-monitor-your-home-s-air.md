@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality (IAQ) can significantly impact your health,
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality (IAQ) can significantly impact your health, comfort, and even your home’s HVAC efficiency. Poor air quality may lead to allergies,"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Replacing your furnace filter is one of the simplest yet most 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Replacing your furnace filter is one of the simplest yet most important maintenance tasks for your HVAC system. A clean filter improves air quality, e"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

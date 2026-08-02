@@ -4,7 +4,7 @@ metaDescription: "Smoke—whether from wildfires, cigarettes, or cooking—can l
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Smoke—whether from wildfires, cigarettes, or cooking—can linger in your home, reducing air quality and posing health risks. A high-quality air purifie"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

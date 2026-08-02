@@ -4,7 +4,7 @@ metaDescription: "Choosing the right furnace filter size is critical for maintai
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Choosing the right furnace filter size is critical for maintaining indoor air quality and HVAC efficiency. A poorly fitting filter can allow dust, all"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

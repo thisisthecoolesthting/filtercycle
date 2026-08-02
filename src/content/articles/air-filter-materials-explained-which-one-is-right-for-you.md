@@ -4,7 +4,7 @@ metaDescription: "Choosing the right air filter for your home can significantly 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Choosing the right air filter for your home can significantly impact indoor air quality, HVAC efficiency, and even your energy bills. With so many mat"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

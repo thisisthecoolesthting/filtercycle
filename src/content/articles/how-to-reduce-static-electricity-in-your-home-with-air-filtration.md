@@ -4,7 +4,7 @@ metaDescription: "Static electricity is a common annoyance, especially during dr
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Static electricity is a common annoyance, especially during dry winter months. It can cause uncomfortable shocks, clingy clothes, and even damage elec"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

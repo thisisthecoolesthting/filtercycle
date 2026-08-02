@@ -4,7 +4,7 @@ metaDescription: "Pet odors are a common challenge for pet owners, especially in
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Pet odors are a common challenge for pet owners, especially in homes with limited ventilation. These odors come from dander, urine, saliva, and fur, w"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

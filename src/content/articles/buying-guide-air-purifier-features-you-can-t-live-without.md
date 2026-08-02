@@ -4,7 +4,7 @@ metaDescription: "Air purifiers are essential devices for maintaining indoor air
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Air purifiers are essential devices for maintaining indoor air quality, especially in homes with allergy sufferers, pet owners, or residents in pollut"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

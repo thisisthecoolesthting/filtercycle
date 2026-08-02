@@ -4,7 +4,7 @@ metaDescription: "Homes with fireplaces and wood stoves often face unique air qu
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Homes with fireplaces and wood stoves often face unique air quality challenges. Smoke, soot, and fine particulate matter (PM2.5) can linger in the air"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

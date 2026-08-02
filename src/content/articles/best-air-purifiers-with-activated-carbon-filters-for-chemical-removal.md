@@ -4,7 +4,7 @@ metaDescription: "Indoor air pollution isn’t just about dust and allergens—c
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air pollution isn’t just about dust and allergens—chemicals like volatile organic compounds (VOCs), smoke, and odors can also degrade air quali"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

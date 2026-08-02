@@ -4,7 +4,7 @@ metaDescription: "Babies and young children are more vulnerable to indoor air po
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Babies and young children are more vulnerable to indoor air pollutants due to their developing respiratory and immune systems. Dust, pet dander, mold"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

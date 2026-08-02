@@ -4,7 +4,7 @@ metaDescription: "Maintaining pristine air quality is essential for homes with v
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Maintaining pristine air quality is essential for homes with valuable art collections and antiques. These items are often sensitive to environmental f"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

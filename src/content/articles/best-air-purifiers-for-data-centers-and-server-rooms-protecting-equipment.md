@@ -4,7 +4,7 @@ metaDescription: "Data centers and server rooms are critical environments where 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Data centers and server rooms are critical environments where maintaining optimal air quality is essential. These spaces house sensitive electronic eq"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

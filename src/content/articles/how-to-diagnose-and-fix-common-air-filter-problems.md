@@ -4,7 +4,7 @@ metaDescription: "A well-functioning air filter is essential for maintaining goo
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "A well-functioning air filter is essential for maintaining good indoor air quality and ensuring your HVAC system runs efficiently. Dirty, clogged, or"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

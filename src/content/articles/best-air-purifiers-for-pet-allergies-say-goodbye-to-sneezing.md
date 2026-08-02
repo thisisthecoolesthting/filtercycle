@@ -4,7 +4,7 @@ metaDescription: "Pet allergies are a common issue for millions of people worldw
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Pet allergies are a common issue for millions of people worldwide. Symptoms like sneezing, itchy eyes, and respiratory discomfort are often triggered"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

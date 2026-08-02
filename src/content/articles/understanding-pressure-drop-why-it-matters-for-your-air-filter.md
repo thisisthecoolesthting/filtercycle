@@ -4,7 +4,7 @@ metaDescription: "When selecting an air filter for your HVAC system or furnace, 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When selecting an air filter for your HVAC system or furnace, most homeowners focus on factors like MERV ratings, filtration efficiency, and cost. How"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

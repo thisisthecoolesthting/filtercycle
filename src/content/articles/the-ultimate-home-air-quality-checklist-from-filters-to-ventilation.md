@@ -4,7 +4,7 @@ metaDescription: "Indoor air quality is a critical aspect of maintaining a healt
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Indoor air quality is a critical aspect of maintaining a healthy living environment. Poor air quality can lead to respiratory issues, allergies, and o"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

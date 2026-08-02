@@ -4,7 +4,7 @@ metaDescription: "Homes with solar panels are increasingly common as homeowners 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Homes with solar panels are increasingly common as homeowners seek to reduce energy costs and environmental impact. However, optimizing the efficiency"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

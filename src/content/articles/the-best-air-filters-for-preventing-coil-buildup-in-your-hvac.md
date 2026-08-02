@@ -4,7 +4,7 @@ metaDescription: "Dirty HVAC coils can lead to reduced efficiency, higher energy
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Dirty HVAC coils can lead to reduced efficiency, higher energy bills, and even system failure. One of the best ways to prevent coil buildup is by usin"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

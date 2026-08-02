@@ -4,7 +4,7 @@ metaDescription: "When it comes to improving indoor air quality, air filters pla
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to improving indoor air quality, air filters play a crucial role in trapping dust, allergens, and pollutants. However, high-quality filt"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

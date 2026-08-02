@@ -4,7 +4,7 @@ metaDescription: "Pet owners know the struggle of keeping indoor air clean when 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Pet owners know the struggle of keeping indoor air clean when furry friends shed hair and dander. These particles can clog HVAC systems, reduce air qu"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

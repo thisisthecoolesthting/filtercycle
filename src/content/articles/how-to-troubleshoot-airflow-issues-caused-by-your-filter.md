@@ -4,7 +4,7 @@ metaDescription: "Poor airflow in your HVAC system can lead to uneven heating or
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Poor airflow in your HVAC system can lead to uneven heating or cooling, higher energy bills, and even premature wear on your furnace or air conditione"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

@@ -4,7 +4,7 @@ metaDescription: "Reusable air filters are an excellent choice for homeowners lo
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Reusable air filters are an excellent choice for homeowners looking to improve indoor air quality while reducing waste. Unlike disposable filters, whi"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

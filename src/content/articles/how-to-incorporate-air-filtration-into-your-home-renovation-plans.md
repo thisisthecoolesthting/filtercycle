@@ -4,7 +4,7 @@ metaDescription: "When planning a home renovation, air filtration is often overl
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When planning a home renovation, air filtration is often overlooked—yet it’s one of the most impactful upgrades for indoor air quality. Whether you’re"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

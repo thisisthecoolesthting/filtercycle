@@ -4,7 +4,7 @@ metaDescription: "Radiant heating systems provide consistent, comfortable warmth
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Radiant heating systems provide consistent, comfortable warmth by circulating heat through floors, walls, or ceilings. While these systems don’t rely"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

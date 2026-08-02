@@ -4,7 +4,7 @@ metaDescription: "Smart air purifiers are revolutionizing the way we manage indo
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Smart air purifiers are revolutionizing the way we manage indoor air quality. With features like app control, real-time air quality monitoring, and vo"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

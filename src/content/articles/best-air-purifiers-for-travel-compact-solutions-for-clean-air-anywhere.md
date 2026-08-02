@@ -4,7 +4,7 @@ metaDescription: "Traveling exposes you to varying air quality conditions—whet
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Traveling exposes you to varying air quality conditions—whether it’s airplane cabin air, hotel rooms with lingering odors, or pollution in urban desti"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

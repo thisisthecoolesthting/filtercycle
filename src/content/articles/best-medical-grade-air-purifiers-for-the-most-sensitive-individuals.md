@@ -4,7 +4,7 @@ metaDescription: "For individuals with severe allergies, asthma, or compromised 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "For individuals with severe allergies, asthma, or compromised immune systems, standard air purifiers may not provide adequate protection. Medical-grad"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

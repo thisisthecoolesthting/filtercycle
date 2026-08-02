@@ -4,7 +4,7 @@ metaDescription: "Improving indoor air quality is essential for health, but itâ€
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Improving indoor air quality is essential for health, but itâ€™s also important to consider the environmental impact of the air filters we use. From dis"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

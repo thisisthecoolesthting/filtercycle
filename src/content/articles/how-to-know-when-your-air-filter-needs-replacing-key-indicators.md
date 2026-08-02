@@ -4,7 +4,7 @@ metaDescription: "Maintaining clean air filters is essential for both HVAC effic
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Maintaining clean air filters is essential for both HVAC efficiency and indoor air quality. Whether you use furnace filters, HVAC filters, or air puri"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

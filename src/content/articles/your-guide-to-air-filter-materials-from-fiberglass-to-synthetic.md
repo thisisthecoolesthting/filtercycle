@@ -4,7 +4,7 @@ metaDescription: "The air filter in your HVAC system or air purifier plays a cru
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "The air filter in your HVAC system or air purifier plays a crucial role in maintaining indoor air quality. Different filter materials trap varying lev"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

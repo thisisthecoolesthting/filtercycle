@@ -4,7 +4,7 @@ metaDescription: "Dust is an unavoidable part of home life, but excessive dust c
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Dust is an unavoidable part of home life, but excessive dust can aggravate allergies, reduce indoor air quality, and even strain your HVAC system. One"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published

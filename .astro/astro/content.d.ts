@@ -169,6 +169,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"air-filter-types.md": {
+	id: "air-filter-types.md";
+  slug: "air-filter-types";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "are-all-air-filters-created-equal-a-deep-dive-into-quality.md": {
 	id: "are-all-air-filters-created-equal-a-deep-dive-into-quality.md";
   slug: "are-all-air-filters-created-equal-a-deep-dive-into-quality";
@@ -200,6 +207,13 @@ declare module 'astro:content' {
 "best-air-filters-for-preventing-hvac-system-damage.md": {
 	id: "best-air-filters-for-preventing-hvac-system-damage.md";
   slug: "best-air-filters-for-preventing-hvac-system-damage";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"best-air-purifier-filters.md": {
+	id: "best-air-purifier-filters.md";
+  slug: "best-air-purifier-filters";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -358,6 +372,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"best-furnace-filters.md": {
+	id: "best-furnace-filters.md";
+  slug: "best-furnace-filters";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "best-medical-grade-air-purifiers-for-the-most-sensitive-individuals.md": {
 	id: "best-medical-grade-air-purifiers-for-the-most-sensitive-individuals.md";
   slug: "best-medical-grade-air-purifiers-for-the-most-sensitive-individuals";
@@ -494,6 +515,13 @@ declare module 'astro:content' {
 "electrostatic-air-filters-do-they-really-work.md": {
 	id: "electrostatic-air-filters-do-they-really-work.md";
   slug: "electrostatic-air-filters-do-they-really-work";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"filter-sizes.md": {
+	id: "filter-sizes.md";
+  slug: "filter-sizes";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -788,6 +816,13 @@ declare module 'astro:content' {
 "pet-food-price-watch.md": {
 	id: "pet-food-price-watch.md";
   slug: "pet-food-price-watch";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"replace-air-filter.md": {
+	id: "replace-air-filter.md";
+  slug: "replace-air-filter";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">

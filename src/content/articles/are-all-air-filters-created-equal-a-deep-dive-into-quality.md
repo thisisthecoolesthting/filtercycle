@@ -4,7 +4,7 @@ metaDescription: "When it comes to maintaining indoor air quality, air filters p
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to maintaining indoor air quality, air filters play a crucial role. They trap dust, pollen, pet dander, mold spores, and other airborne"
-author: _default
+author: dana-wolff
 tags: []
 site: filtercycle
 status: published
