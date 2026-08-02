@@ -2,23 +2,25 @@
 asin: B0014D3N0Q
 title: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count
 seoTitle: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count — review
-metaDescription: Hands-on notes on Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count.
+metaDescription: Hands-on notes on Downy Fabric Softener Dryer Sheets, April Fresh,
+  120 Count.
 category: dryer-sheets
 price: 13.67
 rating: 4.8
 bsr: 12
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0014D3N0Q?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0014D3N0Q?tag=filtercycle-20
 isPrime: false
 status: published
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count
 cardTitle: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview

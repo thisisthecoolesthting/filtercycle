@@ -1,22 +1,29 @@
 ---
 asin: B07D5DN269
-title: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green
-seoTitle: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green — review
-metaDescription: Hands-on notes on Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green.
+title: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived
+  from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for
+  Hot Sleepers, Green
+seoTitle: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived
+  from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for
+  Hot Sleepers, Green — review
+metaDescription: Hands-on notes on Niagara Sleep Solution Ultra Soft Queen Size Mattress
+  Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief
+  - Naturally Cooling for Hot Sleepers, Green.
 category: mattress-toppers
 price: 43.99
 rating: 4.4
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41GKJsjRluL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07D5DN269?tag=filtercycle-20"
+imageUrl: /images/products/b07d5dn269.jpg
+affiliateUrl: https://www.amazon.com/dp/B07D5DN269?tag=filtercycle-20
 isPrime: false
 status: published
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper
-cardTitle: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro
+cardTitle: Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived
+  fro
 cardPick: Solid pick for most readers
 tags: []
 ---

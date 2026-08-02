@@ -1,9 +1,9 @@
 node_modules/
+.next/
 dist/
-.astro/
-.env
-.env.production
+build/
+*.log
+.env.local
+.env.production.local
 .DS_Store
-npm-debug.log*
-.vscode/
-_archive_duped/
+.env

@@ -9,7 +9,7 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ''
+imageUrl: /images/products/b07f97mpyt.jpg
 affiliateUrl: https://www.amazon.com/dp/B07F97MPYT?tag=filtercycle-20
 isPrime: false
 status: published

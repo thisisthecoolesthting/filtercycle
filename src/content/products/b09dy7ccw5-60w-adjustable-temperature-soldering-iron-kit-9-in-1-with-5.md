@@ -1,24 +1,29 @@
 ---
 asin: B09DY7CCW5
-title: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire Stand for Soldering and Repair
-seoTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire Stand for Soldering and Repair — review
-metaDescription: Hands-on notes on 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire Stand for Soldering and Repair.
+title: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder
+  Wire Stand for Soldering and Repair
+seoTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder
+  Wire Stand for Soldering and Repair — review
+metaDescription: Hands-on notes on 60W Adjustable Temperature Soldering Iron Kit -
+  9-in-1 With 5 Tips, Solder Wire Stand for Soldering and Repair.
 category: irons
 price: 9.99
 rating: 4.3
 bsr: 5
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41iaFnjhgjL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B09DY7CCW5?tag=filtercycle-20"
+imageUrl: https://m.media-amazon.com/images/I/41iaFnjhgjL.jpg
+affiliateUrl: https://www.amazon.com/dp/B09DY7CCW5?tag=filtercycle-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-06-02'
 slug: b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-
-cardTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire 
+cardTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder
+  Wire
 cardPick: Solid pick for most readers
 tags: []
+imageFlagged: true
 ---
 
 ## Overview
