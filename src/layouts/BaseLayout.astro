@@ -49,6 +49,8 @@ export interface Props {
   sectionAdsCompact?: boolean;
   /** When false, only render header band (home keeps footer ad before newsletter) */
   sectionAdsFooter?: boolean;
+  /** Optional JSON-LD (FAQPage, etc.) rendered in <head> */
+  jsonLd?: Record<string, unknown>;
 }
 
 const {
@@ -67,6 +69,7 @@ const {
   sectionAds = false,
   sectionAdsCompact = false,
   sectionAdsFooter = true,
+  jsonLd,
 } = Astro.props;
 
 const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
@@ -143,6 +146,8 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <link rel="stylesheet" href="/ads/slots.css" />
     <script set:html={`window.__AD_SITE_SLUG__="${adSiteSlug}";`} />
     <script src="/ads/inject.js" defer></script>
+
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />

@@ -22,7 +22,6 @@ const b = home.brand;
 
 // ---------- Defensive helpers (refillwatch's brand.config has fewer keys than SSC's) ----------
 const homeX = home as Record<string, any>;
-const dmeta = homeX.defaultMetaDescription || (b as any).taglineShort || '';
 const authorSlug = homeX.defaultAuthorSlug || '_default';
 const siteYmyl = homeX.persona?.ymyl === true;
 const editorPseudonym = homeX.persona?.pseudonymHint || homeX.persona?.name || '';
@@ -116,9 +115,93 @@ const trustItems = [
   { label: 'Weekly price checks', icon: 'clock' as const },
   { label: 'No retailer sponsorships', icon: 'ban' as const },
 ];
+
+const pageTitle = 'HVAC Filter Replacement Schedule & Cost Guides';
+const pageDescription =
+  'Practical HVAC filter replacement schedule, MERV guidance, fridge cartridge intervals, and water-filter cost math — tracked for real replacement cost, not sticker price.';
+
+/** Visible FAQ copy — must stay in sync with FAQPage JSON-LD below. */
+const faqItems: { question: string; answer: string }[] = [
+  {
+    question: 'How often should I replace my HVAC filter?',
+    answer:
+      'For a typical 1" pleated filter (MERV 11–13), FilterCycle’s replacement calendar uses a 60–120 day range instead of the common 90-day marketing cadence. Swap earlier if static pressure rises above about 0.5 in. w.c. or the intake face looks gray. A 4" media cabinet often runs 9–14 months in our logged homes.',
+  },
+  {
+    question: 'What MERV rating should I use for allergies or pets?',
+    answer:
+      'MERV measures capture of particles from about 0.3 to 10 microns. For basic dust, start around MERV 8–10. Households with kids’ allergies or one to two pets often do well on MERV 11. MERV 13 can help with asthma or severe pollen when your blower (or a 4" media cabinet) can handle the extra resistance — a filter that bows inward or a whistling furnace is a warning to step down or change more often.',
+  },
+  {
+    question: 'Is MERV 11 or MERV 13 better for allergies?',
+    answer:
+      'In our MERV 11 vs MERV 13 allergy notes (1" slot, pet household), MERV 11 cut visible dust and morning congestion for most of the panel. MERV 13 helped the most pollen-sensitive tester but raised filter-slot pressure more quickly, so we shortened that change interval. Confirm blower capacity before upgrading a single-stage 1" system.',
+  },
+  {
+    question: 'How often should I change my HVAC filter if I have pets?',
+    answer:
+      'Pet hair and dander mat the face of a pleated filter and raise static pressure before the media is “chemically expired.” With one or two indoor pets on MERV 11, plan roughly 60–75 days. Multiple shedding pets on MERV 13 often need 45–60 days. Signs you’re overdue include a gray intake face within a few weeks and the furnace running longer to hit the thermostat.',
+  },
+  {
+    question: 'How often should I replace a refrigerator water filter?',
+    answer:
+      'Most OEM fridge cartridges are rated about 6 months or 200 gallons. Light use (two people, city water) can stretch to 6–9 months if flow and taste stay normal; heavy ice and dispenser use should stay closer to 6 months. Fridge filters are not MERV-rated — they use carbon and mechanical blocks for taste, chlorine, and particulates.',
+  },
+  {
+    question: 'Is a filter pitcher cheaper than bottled water?',
+    answer:
+      'Yes for most households. Our bottled-water vs. pitcher economics guide compares cost per gallon: pitcher systems like Brita Elite land far below big-box bottled multipacks once you price replacement filters, not just the pitcher sticker. The long-term cost sits in the cartridge cycle — Elite/long-life packs usually beat frequent standard-filter swaps on convenience and contaminant coverage for similar per-gallon math.',
+  },
+  {
+    question: 'Are 30-day HVAC filter subscriptions worth it?',
+    answer:
+      'Usually not for a residential 1" pleated filter. Auto-shipping every 30 days on a common size like 16×25×1 often means two to three times the spend unless the fan runs nearly continuously in a commercial setting. Use pressure drop, visible loading, and household load (pets, pollen, renovation dust) instead of the brand email cadence.',
+  },
+];
+
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+
+const relatedGuides = [
+  {
+    href: '/pillars/replacement-calendar',
+    title: 'The FilterCycle Replacement Calendar',
+    blurb: 'HVAC, fridge, and whole-house intervals by climate, pets, and pressure drop.',
+  },
+  {
+    href: '/pillars/merv-guide',
+    title: 'MERV Ratings Explained',
+    blurb: 'MERV 8 vs 11 vs 13 — capture, airflow, and what not to install.',
+  },
+  {
+    href: '/pillars/bottled-water-vs-filter-pitcher-economics',
+    title: 'Bottled Water vs. Filter Pitchers',
+    blurb: 'Cost-per-gallon math for Brita, PUR, ZeroWater, and bottled multipacks.',
+  },
+  {
+    href: '/articles/merv-11-vs-13-allergies',
+    title: 'MERV 11 vs MERV 13 for Allergies',
+    blurb: 'Pressure and comfort notes from a pet household test panel.',
+  },
+  {
+    href: '/articles/how-often-change-hvac-filter-pets',
+    title: 'How Often to Change Filters with Pets',
+    blurb: 'Realistic MERV 11 and MERV 13 intervals when hair and dander load faster.',
+  },
+];
 ---
 
-<CompliantLayout title={b.fullName} description={dmeta} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
+<CompliantLayout title={pageTitle} description={pageDescription} articleJsonLd={faqJsonLd} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
 
   {/* ============ 1. HERO — compact watchdog band ============ */}
   <HeroCompact
@@ -385,7 +468,68 @@ const trustItems = [
     />
   </section>
 
-  {/* ============ 8. METHODOLOGY DISCLOSURE STRIP ============ */}
+  {/* ============ 8. RELATED GUIDES ============ */}
+  <section class="max-w-6xl mx-auto px-5 py-12 md:py-14" aria-labelledby="related-guides-heading">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+      <div>
+        <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Related guides</p>
+        <h2 id="related-guides-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[22ch]">
+          Start with these filter deep-dives.
+        </h2>
+      </div>
+      <p class="text-sm text-ink-700 max-w-[32ch]">
+        Pillars and hands-on notes we keep current — schedules, MERV, and water-filter economics.
+      </p>
+    </div>
+    <nav aria-label="Related filter guides">
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 list-none p-0 m-0">
+        {relatedGuides.map((g) => (
+          <li>
+            <a
+              href={g.href}
+              class="group no-underline block h-full rounded-xl border border-cream-200 bg-white p-5 hover:border-terracotta-400 hover:shadow-soft-lg hover:-translate-y-0.5 transition-all"
+            >
+              <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+                {g.title}
+              </h3>
+              <p class="text-sm text-ink-700 mt-2 leading-relaxed">{g.blurb}</p>
+              <span class="font-mono text-[11px] tracking-[0.1em] uppercase text-terracotta-600 mt-4 inline-block">
+                Read guide →
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </section>
+
+  {/* ============ 9. FAQ (visible + FAQPage JSON-LD in layout head) ============ */}
+  <section class="bg-cream-50 border-y border-cream-200" aria-labelledby="faq-heading">
+    <div class="max-w-3xl mx-auto px-5 py-12 md:py-14">
+      <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">FAQ</p>
+      <h2 id="faq-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
+        Filter replacement questions we hear most.
+      </h2>
+      <p class="text-sm text-ink-700 mt-3 mb-8 max-w-[52ch]">
+        Answers drawn from our MERV guide, replacement calendar, and water-filter cost notes — not brand marketing emails.
+      </p>
+      <div class="space-y-4">
+        {faqItems.map((item) => (
+          <details class="group rounded-xl border border-cream-200 bg-white px-5 py-4 open:shadow-soft">
+            <summary class="font-display text-lg text-ink-900 cursor-pointer list-none flex items-start justify-between gap-4 [&::-webkit-details-marker]:hidden">
+              <span>{item.question}</span>
+              <span aria-hidden="true" class="text-terracotta-500 font-mono text-sm mt-1 group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-sm md:text-[15px] text-ink-700 leading-relaxed mt-3 pr-6">
+              {item.answer}
+            </p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* ============ 10. METHODOLOGY DISCLOSURE STRIP ============ */}
   <section class="bg-sage-400/15 border-y border-cream-200 py-12">
     <div class="max-w-6xl mx-auto px-5
                 grid md:grid-cols-[auto_1fr_auto] gap-6 md:gap-9 items-center">
