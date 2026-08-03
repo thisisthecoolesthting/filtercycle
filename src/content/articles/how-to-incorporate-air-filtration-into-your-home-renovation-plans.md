@@ -1,9 +1,9 @@
 ---
-title: "How to Incorporate Air Filtration into Your Home Renovation Plans"
-metaDescription: "When planning a home renovation, air filtration is often overlooked—yet it’s one of the most impactful upgrades for indoor air quality. Whether you’re"
+title: How to Incorporate Air Filtration into Your Home Renovation Plans
+metaDescription: When planning a home renovation, air filtration is often overlooked—yet it’s one of the most impactful upgrades for indoor air quality. Whether you’re
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "When planning a home renovation, air filtration is often overlooked—yet it’s one of the most impactful upgrades for indoor air quality. Whether you’re"
+excerpt: When planning a home renovation, air filtration is often overlooked—yet it’s one of the most impactful upgrades for indoor air quality. Whether you’re
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -85,3 +85,8 @@ When selecting filters or purifiers, prioritize:
 - **Plan for Maintenance:** Factor in filter replacement costs and schedules.  
 
 By integrating air filtration into your renovation, you’ll create a healthier, more comfortable living space for years to come.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

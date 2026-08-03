@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Basement Living Spaces"
-metaDescription: "Basements are notorious for poor air quality due to high humidity, limited ventilation, and potential mold or mildew growth. If your home includes a b"
+title: The Best Air Filters for Homes with Basement Living Spaces
+metaDescription: Basements are notorious for poor air quality due to high humidity, limited ventilation, and potential mold or mildew growth. If your home includes a b
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Basements are notorious for poor air quality due to high humidity, limited ventilation, and potential mold or mildew growth. If your home includes a b"
+excerpt: Basements are notorious for poor air quality due to high humidity, limited ventilation, and potential mold or mildew growth. If your home includes a b
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -81,3 +81,9 @@ When selecting an air filter for your basement, prioritize:
 For **central HVAC systems**, a **MERV 13 pleated filter** offers the best balance of filtration and airflow. For **standalone filtration**, a **HEPA air purifier with activated carbon** (like the Coway Airmega or Blueair Classic) is ideal. If moisture is a concern, pair a **dehumidifier with a built-in filter** for comprehensive protection.  
 
 By choosing the right air filter and maintaining it properly, you can transform your basement into a healthier, more comfortable living space.
+
+## Our picks worth a closer look
+
+- **[Filtrete Healthy Living Ultra Allergen 16x25x1, MERV 13](/products/b0002ynf8k-filtrete-merv-13-allergen/)** — see current price and specs.
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

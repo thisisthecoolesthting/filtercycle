@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Smokers"
-metaDescription: "Living with a smoker can significantly impact indoor air quality, introducing harmful pollutants like tobacco smoke, tar, and volatile organic compoun"
+title: The Best Air Filters for Homes with Smokers
+metaDescription: Living with a smoker can significantly impact indoor air quality, introducing harmful pollutants like tobacco smoke, tar, and volatile organic compoun
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Living with a smoker can significantly impact indoor air quality, introducing harmful pollutants like tobacco smoke, tar, and volatile organic compoun"
+excerpt: Living with a smoker can significantly impact indoor air quality, introducing harmful pollutants like tobacco smoke, tar, and volatile organic compoun
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -64,3 +64,8 @@ Regular maintenance is crucial to keep your air filters functioning effectively 
 ### Conclusion
 
 Improving air quality in a home with smokers requires specialized air filters designed to capture fine particles and neutralize odors. HEPA filters, activated carbon filters, and high-MERV-rated filters are among the best options for tackling smoke-related pollutants. Combining these filters with proper maintenance and ventilation can significantly enhance indoor air quality, making your home a healthier environment for everyone. When selecting a filter, prioritize high-efficiency filtration, odor neutralization, and compatibility with your HVAC system or air purifier. By taking these steps, you can breathe easier and reduce the impact of smoking on your home’s air quality.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

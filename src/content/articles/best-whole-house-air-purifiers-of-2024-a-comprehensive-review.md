@@ -1,9 +1,9 @@
 ---
-title: "Best Whole-House Air Purifiers of 2024: A Comprehensive Review"
-metaDescription: "Whole-house air purifiers offer a powerful solution for improving indoor air quality by filtering contaminants throughout your entire home. Unlike por"
+title: 'Best Whole-House Air Purifiers of 2024: A Comprehensive Review'
+metaDescription: Whole-house air purifiers offer a powerful solution for improving indoor air quality by filtering contaminants throughout your entire home. Unlike por
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Whole-house air purifiers offer a powerful solution for improving indoor air quality by filtering contaminants throughout your entire home. Unlike por"
+excerpt: Whole-house air purifiers offer a powerful solution for improving indoor air quality by filtering contaminants throughout your entire home. Unlike por
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -75,3 +75,8 @@ Before purchasing, consider these factors:
 Investing in a whole-house air purifier can significantly improve indoor air quality, especially for large households or those with respiratory concerns. Whether you prioritize allergen removal, germ elimination, or odor control, there’s a system to fit your needs. Always consult an HVAC professional to ensure compatibility and proper installation.  
 
 By choosing the right system, you’ll enjoy cleaner air in every room—without the hassle of multiple portable units.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

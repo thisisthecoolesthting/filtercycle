@@ -1,16 +1,10 @@
 ---
 asin: B083BFPGD8
-title: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High
-  Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer
-  - 4Pack(1B 1C 1M 1Y)
-seoTitle: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054
-  High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C
-  Printer - 4Pack(1B 1C 1M 1Y) — review
-metaDescription: Hands-on notes on Toner Kingdom Compatible Toner-Cartridge Replacement
-  for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw
-  MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y).
+title: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y)
+seoTitle: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y) — review
+metaDescription: Hands-on notes on Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y).
 category: toner-cartridges
-price: 63.26
+price: 67.81
 rating: 3.8
 bsr: 1262
 commissionPerSale: 0
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B083BFPGD8?tag=filtercycle-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can
-cardTitle: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054
-  High Yie
+cardTitle: Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie
 cardPick: Solid pick for most readers
 tags: []
 ---

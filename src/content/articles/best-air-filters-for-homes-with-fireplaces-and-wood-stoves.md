@@ -1,9 +1,9 @@
 ---
-title: "Best Air Filters for Homes with Fireplaces and Wood Stoves"
-metaDescription: "Homes with fireplaces and wood stoves often face unique air quality challenges. Smoke, soot, and fine particulate matter (PM2.5) can linger in the air"
+title: Best Air Filters for Homes with Fireplaces and Wood Stoves
+metaDescription: Homes with fireplaces and wood stoves often face unique air quality challenges. Smoke, soot, and fine particulate matter (PM2.5) can linger in the air
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Homes with fireplaces and wood stoves often face unique air quality challenges. Smoke, soot, and fine particulate matter (PM2.5) can linger in the air"
+excerpt: Homes with fireplaces and wood stoves often face unique air quality challenges. Smoke, soot, and fine particulate matter (PM2.5) can linger in the air
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -78,3 +78,8 @@ When selecting an air filter for a home with a fireplace or wood stove, consider
 For **HVAC systems**, a **MERV 11-13 pleated filter** balances filtration and airflow. For **room-specific purification**, a **HEPA + carbon air purifier** near the fireplace provides added protection. Always prioritize proper ventilation alongside filtration to minimize indoor pollution from wood-burning appliances.  
 
 By selecting the right air filter and maintaining it properly, homeowners can enjoy the warmth of a fireplace or wood stove without compromising air quality.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

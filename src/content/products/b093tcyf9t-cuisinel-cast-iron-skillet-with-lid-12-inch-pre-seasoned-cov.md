@@ -1,14 +1,8 @@
 ---
 asin: B093TCYF9T
-title: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying
-  Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner - Indoor/Outdoor, Oven,
-  Stovetop, Camping Fire, Grill Safe Cookware
-seoTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying
-  Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner - Indoor/Outdoor, Oven,
-  Stovetop, Camping Fire, Grill Safe Cookware — review
-metaDescription: Hands-on notes on Cuisinel Cast Iron Skillet with Lid - 12"-inch
-  Pre-Seasoned Covered Frying Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner
-  - Indoor/Outdoor, Oven, Stovetop, Camping Fire, Grill Safe Cookware.
+title: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner - Indoor/Outdoor, Oven, Stovetop, Camping Fire, Grill Safe Cookware
+seoTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner - Indoor/Outdoor, Oven, Stovetop, Camping Fire, Grill Safe Cookware — review
+metaDescription: Hands-on notes on Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying Pan Set + Silicone Handle & Lid Holders + Scraper/Cleaner - Indoor/Outdoor, Oven, Stovetop, Camping Fire, Grill Safe Cookware.
 category: skillets
 price: 59.95
 rating: 4.7
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B093TCYF9T?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov
-cardTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying
-  Pan S
+cardTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying Pan S
 cardPick: Solid pick for most readers
 tags: []
 imageFlagged: true

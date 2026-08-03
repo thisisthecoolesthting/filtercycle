@@ -1,12 +1,8 @@
 ---
 asin: B08PZBPXLZ
-title: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperature
-  Soldering Gun Thermostatic Soldering Kit for Electronic
-seoTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable
-  Temperature Soldering Gun Thermostatic Soldering Kit for Electronic — review
-metaDescription: Hands-on notes on Soldering Iron Kit, 80W 110V Fast Heat up in 10s
-  LCD Digital Adjustable Temperature Soldering Gun Thermostatic Soldering Kit for
-  Electronic.
+title: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperature Soldering Gun Thermostatic Soldering Kit for Electronic
+seoTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperature Soldering Gun Thermostatic Soldering Kit for Electronic — review
+metaDescription: Hands-on notes on Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperature Soldering Gun Thermostatic Soldering Kit for Electronic.
 category: irons
 price: 9.98
 rating: 4.6
@@ -18,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B08PZBPXLZ?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-
-cardTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable
-  Temperat
+cardTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat
 cardPick: Solid pick for most readers
 tags: []
 ---

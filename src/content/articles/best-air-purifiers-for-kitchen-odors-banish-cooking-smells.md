@@ -1,9 +1,9 @@
 ---
-title: "Best Air Purifiers for Kitchen Odors: Banish Cooking Smells"
-metaDescription: "Cooking is a daily activity that fills your home with delicious aromas, but lingering odors from fried foods, spices, or burnt dishes can be unpleasan"
+title: 'Best Air Purifiers for Kitchen Odors: Banish Cooking Smells'
+metaDescription: Cooking is a daily activity that fills your home with delicious aromas, but lingering odors from fried foods, spices, or burnt dishes can be unpleasan
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Cooking is a daily activity that fills your home with delicious aromas, but lingering odors from fried foods, spices, or burnt dishes can be unpleasan"
+excerpt: Cooking is a daily activity that fills your home with delicious aromas, but lingering odors from fried foods, spices, or burnt dishes can be unpleasan
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -79,3 +79,8 @@ When shopping for an air purifier to banish kitchen smells, prioritize models wi
 5. Quiet operation and adjustable fan speeds.  
 
 By choosing the right air purifier and maintaining it properly, you can enjoy a fresh-smelling kitchen and improved indoor air quality, even after the most aromatic cooking sessions.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

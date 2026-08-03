@@ -3,8 +3,7 @@ asin: B00C2O7C7O
 slug: b00c2o7c7o-scott-1000-toilet-paper-36-rolls
 title: Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls
 seoTitle: Scott 1000 Toilet Paper 36-Roll Bulk Price | RefillWatch
-metaDescription: Scott 1000 bulk toilet paper price tracking. At 1000 sheets per roll,
-  is it actually cheaper than 2-ply alternatives per use?
+metaDescription: Scott 1000 bulk toilet paper price tracking. At 1000 sheets per roll, is it actually cheaper than 2-ply alternatives per use?
 cardTitle: Scott 1000 (36 rolls)
 cardPick: Lowest cost-per-sheet of any bulk TP option
 category: paper-products
@@ -19,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B00C2O7C7O?tag=filtercycle-20&linkCode=l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-05-08T00:00:00+00:00'
+lastSeen: '2026-08-03T15:09:21+00:00'
 tags:
 - toilet-paper
 - paper-products

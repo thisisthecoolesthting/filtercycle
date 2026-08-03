@@ -1,14 +1,8 @@
 ---
 asin: B07F97MPYT
-title: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel
-  Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle
-  Free and Comfy - Extra Deep Pockets - Grey
-seoTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel
-  Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle
-  Free and Comfy - Extra Deep Pockets - Grey — review
-metaDescription: Hands-on notes on Extra Deep Queen Sheet Set - 6 Piece Breathable
-  and Cooling Sheets - Hotel Luxury Bedding for Women, Men, Kids & Teens - Easy &
-  Secure Fit - Soft, Wrinkle Free and Comfy - Extra Deep Pockets - Grey.
+title: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle Free and Comfy - Extra Deep Pockets - Grey
+seoTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle Free and Comfy - Extra Deep Pockets - Grey — review
+metaDescription: Hands-on notes on Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle Free and Comfy - Extra Deep Pockets - Grey.
 category: fitted-sheets
 price: 39.99
 rating: 4.4
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B07F97MPYT?tag=filtercycle-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh
-cardTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel
-  Luxur
+cardTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur
 cardPick: Solid pick for most readers
 tags: []
 ---

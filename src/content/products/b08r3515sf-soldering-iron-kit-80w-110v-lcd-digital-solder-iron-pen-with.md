@@ -1,14 +1,8 @@
 ---
 asin: B08R3515SF
-title: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater,
-  Portable Welding Tools with 5pcs Tips, Stand, Solders Wire, Sponge, Paste, for Metal,Electric
-  Repairs, DIY
-seoTitle: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater,
-  Portable Welding Tools with 5pcs Tips, Stand, Solders Wire, Sponge, Paste, for Metal,Electric
-  Repairs, DIY — review
-metaDescription: Hands-on notes on Soldering Iron Kit, 80W 110V LCD Digital Solder
-  Iron Pen with Ceramic Heater, Portable Welding Tools with 5pcs Tips, Stand, Solders
-  Wire, Sponge, Paste, for Metal,Electric Repairs, DIY.
+title: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Portable Welding Tools with 5pcs Tips, Stand, Solders Wire, Sponge, Paste, for Metal,Electric Repairs, DIY
+seoTitle: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Portable Welding Tools with 5pcs Tips, Stand, Solders Wire, Sponge, Paste, for Metal,Electric Repairs, DIY — review
+metaDescription: Hands-on notes on Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Portable Welding Tools with 5pcs Tips, Stand, Solders Wire, Sponge, Paste, for Metal,Electric Repairs, DIY.
 category: irons
 price: 9.99
 rating: 4.5
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B08R3515SF?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with
-cardTitle: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater,
-  Po
+cardTitle: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po
 cardPick: Solid pick for most readers
 tags: []
 imageFlagged: true

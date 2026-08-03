@@ -1,13 +1,8 @@
 ---
 asin: B0BVYBVHK5
-title: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges
-  High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow
-seoTitle: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink
-  Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6
-  Pack PGBK/PB/Black/Cyan/Magenta/Yellow — review
-metaDescription: Hands-on notes on 280XXL 281XXL Ink for Canon Ink 280 281 Replacement
-  for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520
-  TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow.
+title: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow
+seoTitle: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow — review
+metaDescription: Hands-on notes on 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow.
 category: inkjet-ink-cartridges
 price: 23.99
 rating: 4.7
@@ -19,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B0BVYBVHK5?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano
-cardTitle: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink
-  Cartrid
+cardTitle: 280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid
 cardPick: Solid pick for most readers
 tags: []
 imageFlagged: true

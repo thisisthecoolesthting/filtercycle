@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Basement Humidity Issues"
-metaDescription: "Basements are notorious for high humidity levels due to their below-ground location, poor ventilation, and potential for water intrusion. This excess"
+title: The Best Air Filters for Homes with Basement Humidity Issues
+metaDescription: Basements are notorious for high humidity levels due to their below-ground location, poor ventilation, and potential for water intrusion. This excess
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Basements are notorious for high humidity levels due to their below-ground location, poor ventilation, and potential for water intrusion. This excess"
+excerpt: Basements are notorious for high humidity levels due to their below-ground location, poor ventilation, and potential for water intrusion. This excess
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -83,3 +83,8 @@ With a HEPA filter and activated carbon layer, this purifier captures mold spore
 ## Conclusion
 
 Basement humidity can significantly impact indoor air quality, but the right air filters and purifiers can make a world of difference. Whether you choose a high-MERV HVAC filter, a HEPA purifier, or a dehumidifier with built-in filtration, addressing moisture and air quality together is key. By selecting products with features like activated carbon, UV-C technology, or dehumidification, you can create a healthier, more comfortable living environment. Always consider factors like MERV ratings, compatibility, and maintenance when making your choice, and you’ll be well on your way to improving your basement’s air quality.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

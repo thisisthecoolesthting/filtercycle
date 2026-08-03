@@ -2,9 +2,7 @@
 asin: B00DKFLP4G
 title: Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11
 seoTitle: Filtrete 16x25x1 MERV 11 Review | FilterCycle
-metaDescription: >-
-  MPR 1000 / MERV 11 pleated filter for standard 1-inch slots — our default pick for
-  pet homes with single-stage furnaces.
+metaDescription: MPR 1000 / MERV 11 pleated filter for standard 1-inch slots — our default pick for pet homes with single-stage furnaces.
 cardTitle: Filtrete 16x25x1 MERV 11
 cardPick: Best balance of capture and airflow for most 1" systems
 category: hvac-furnace
@@ -18,11 +16,11 @@ affiliateUrl: https://www.amazon.com/dp/B00DKFLP4G?tag=filtercycle-20
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'
-lastSeen: '2026-06-01T00:00:00+00:00'
+lastSeen: '2026-08-03T15:09:21+00:00'
 tags:
-  - filtrete
-  - merv-11
-  - 16x25x1
+- filtrete
+- merv-11
+- 16x25x1
 author: jordan-reed-filtercycle
 ---
 

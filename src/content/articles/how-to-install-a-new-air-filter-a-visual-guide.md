@@ -1,9 +1,9 @@
 ---
-title: "How to Install a New Air Filter: A Visual Guide"
-metaDescription: "Replacing your HVAC or furnace air filter is one of the simplest yet most important maintenance tasks for improving indoor air quality. A clean filter"
+title: 'How to Install a New Air Filter: A Visual Guide'
+metaDescription: Replacing your HVAC or furnace air filter is one of the simplest yet most important maintenance tasks for improving indoor air quality. A clean filter
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Replacing your HVAC or furnace air filter is one of the simplest yet most important maintenance tasks for improving indoor air quality. A clean filter"
+excerpt: Replacing your HVAC or furnace air filter is one of the simplest yet most important maintenance tasks for improving indoor air quality. A clean filter
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -121,3 +121,9 @@ When shopping for a replacement, consider:
 - Keep a spare on hand for emergencies.  
 
 By following these steps, you’ll maintain better air quality, extend your HVAC system’s life, and keep energy costs down. Always refer to your system’s manual for model-specific guidance.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+

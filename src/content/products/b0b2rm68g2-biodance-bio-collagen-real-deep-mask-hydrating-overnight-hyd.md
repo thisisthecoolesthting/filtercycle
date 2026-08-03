@@ -1,14 +1,8 @@
 ---
 asin: B0B2RM68G2
-title: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask,
-  Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women,
-  Korean Skin Care | 1.19oz(34g) x 4ea
-seoTitle: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face
-  Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts
-  for Women, Korean Skin Care | 1.19oz(34g) x 4ea — review
-metaDescription: Hands-on notes on BIODANCE Bio-Collagen Real Deep Mask, Hydrating
-  Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials
-  & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea.
+title: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea
+seoTitle: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea — review
+metaDescription: Hands-on notes on BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea.
 category: masks
 price: 19.0
 rating: 4.5
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B0B2RM68G2?tag=filtercycle-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd
-cardTitle: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face
-  Mask, Po
+cardTitle: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po
 cardPick: Solid pick for most readers
 tags: []
 imageFlagged: true

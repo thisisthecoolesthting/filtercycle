@@ -2,9 +2,7 @@
 asin: B0002YNF8K
 title: Filtrete Healthy Living Ultra Allergen 16x25x1, MERV 13
 seoTitle: Filtrete MERV 13 16x25x1 Review | FilterCycle
-metaDescription: >-
-  MERV 13 pleated filter for pollen-heavy homes — only if your blower can handle the
-  pressure and you shorten the change interval.
+metaDescription: MERV 13 pleated filter for pollen-heavy homes — only if your blower can handle the pressure and you shorten the change interval.
 cardTitle: Filtrete MERV 13 Allergen
 cardPick: Upgrade for pollen asthma — replace at 45–60 days with pets
 category: hvac-furnace
@@ -18,11 +16,11 @@ affiliateUrl: https://www.amazon.com/dp/B0002YNF8K?tag=filtercycle-20
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'
-lastSeen: '2026-06-01T00:00:00+00:00'
+lastSeen: '2026-08-03T15:09:21+00:00'
 tags:
-  - filtrete
-  - merv-13
-  - allergies
+- filtrete
+- merv-13
+- allergies
 author: jordan-reed-filtercycle
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "How to Detect Poor Indoor Air Quality: Warning Signs to Look For"
-metaDescription: "Poor indoor air quality (IAQ) can negatively impact your health, comfort, and even your home’s HVAC efficiency. Recognizing the warning signs early ca"
+title: 'How to Detect Poor Indoor Air Quality: Warning Signs to Look For'
+metaDescription: Poor indoor air quality (IAQ) can negatively impact your health, comfort, and even your home’s HVAC efficiency. Recognizing the warning signs early ca
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Poor indoor air quality (IAQ) can negatively impact your health, comfort, and even your home’s HVAC efficiency. Recognizing the warning signs early ca"
+excerpt: Poor indoor air quality (IAQ) can negatively impact your health, comfort, and even your home’s HVAC efficiency. Recognizing the warning signs early ca
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -79,3 +79,9 @@ Once you identify issues, take action:
 ## Final Thoughts  
 
 Detecting poor indoor air quality early helps protect your health and HVAC system. By watching for symptoms, odors, and HVAC inefficiencies—and taking proactive steps like filter upgrades or air purification—you can breathe easier in a cleaner, healthier home.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+

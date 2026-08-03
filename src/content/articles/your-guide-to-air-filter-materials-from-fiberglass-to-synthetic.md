@@ -1,9 +1,9 @@
 ---
-title: "Your Guide to Air Filter Materials: From Fiberglass to Synthetic"
-metaDescription: "The air filter in your HVAC system or air purifier plays a crucial role in maintaining indoor air quality. Different filter materials trap varying lev"
+title: 'Your Guide to Air Filter Materials: From Fiberglass to Synthetic'
+metaDescription: The air filter in your HVAC system or air purifier plays a crucial role in maintaining indoor air quality. Different filter materials trap varying lev
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "The air filter in your HVAC system or air purifier plays a crucial role in maintaining indoor air quality. Different filter materials trap varying lev"
+excerpt: The air filter in your HVAC system or air purifier plays a crucial role in maintaining indoor air quality. Different filter materials trap varying lev
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -104,3 +104,9 @@ Advanced synthetic filters (like polyester blends) offer high efficiency with lo
 5. **Odor Control**: Activated carbon is essential for smoke or chemical removal.  
 
 By understanding these materials, you can choose a filter that balances air quality, system health, and budget. Always consult your HVAC manual before upgrading to a higher-MERV filter to ensure compatibility.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+

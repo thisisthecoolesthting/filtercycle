@@ -1,9 +1,9 @@
 ---
-title: "Electrostatic Air Filters: Do They Really Work?"
-metaDescription: "Electrostatic air filters use an electric charge to capture airborne particles as air passes through them. Unlike traditional pleated or fiberglass fi"
+title: 'Electrostatic Air Filters: Do They Really Work?'
+metaDescription: Electrostatic air filters use an electric charge to capture airborne particles as air passes through them. Unlike traditional pleated or fiberglass fi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Electrostatic air filters use an electric charge to capture airborne particles as air passes through them. Unlike traditional pleated or fiberglass fi"
+excerpt: Electrostatic air filters use an electric charge to capture airborne particles as air passes through them. Unlike traditional pleated or fiberglass fi
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -86,3 +86,8 @@ Electrostatic air filters can be a good middle-ground option for homeowners who 
 However, if you have severe allergies, asthma, or need to filter smoke or viruses, a **high-MERV pleated filter** or **standalone HEPA air purifier** may be a better choice.  
 
 For those prioritizing cost savings and sustainability, a **washable electrostatic filter** is a solid option—just be prepared for regular maintenance.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

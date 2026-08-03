@@ -2,9 +2,7 @@
 asin: B000W7V2YC
 title: GE MWF Refrigerator Water Filter
 seoTitle: GE MWF Fridge Filter Review | FilterCycle
-metaDescription: >-
-  OEM GE MWF cartridge — six-month rating vs nine-month light-use reality, and when
-  off-brand crosses are worth it.
+metaDescription: OEM GE MWF cartridge — six-month rating vs nine-month light-use reality, and when off-brand crosses are worth it.
 cardTitle: GE MWF OEM
 cardPick: Match part number exactly — light use can stretch to 9 months
 category: refrigerator
@@ -18,11 +16,11 @@ affiliateUrl: https://www.amazon.com/dp/B000W7V2YC?tag=filtercycle-20
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'
-lastSeen: '2026-06-01T00:00:00+00:00'
+lastSeen: '2026-08-03T15:09:21+00:00'
 tags:
-  - ge
-  - refrigerator
-  - mwf
+- ge
+- refrigerator
+- mwf
 author: jordan-reed-filtercycle
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "6 Best Air Purifiers for Smoke Removal: Clear the Air in Minutes"
-metaDescription: "Smoke—whether from wildfires, cigarettes, or cooking—can linger in your home, reducing air quality and posing health risks. A high-quality air purifie"
+title: '6 Best Air Purifiers for Smoke Removal: Clear the Air in Minutes'
+metaDescription: Smoke—whether from wildfires, cigarettes, or cooking—can linger in your home, reducing air quality and posing health risks. A high-quality air purifie
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Smoke—whether from wildfires, cigarettes, or cooking—can linger in your home, reducing air quality and posing health risks. A high-quality air purifie"
+excerpt: Smoke—whether from wildfires, cigarettes, or cooking—can linger in your home, reducing air quality and posing health risks. A high-quality air purifie
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -128,3 +128,8 @@ Choosing the right air purifier for smoke depends on room size, filtration needs
 **Pro Tip:** Pair your purifier with **high-MERV HVAC filters** (MERV 13+) to reduce smoke particles throughout your home.  
 
 By investing in the right air purifier, you can **breathe easier** and keep your indoor air clean—no matter the source of smoke.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

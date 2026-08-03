@@ -1,9 +1,9 @@
 ---
-title: "How to Measure Your Air Filter: A Simple Guide"
-metaDescription: "Replacing your air filter is essential for maintaining good indoor air quality and ensuring your HVAC system runs efficiently. However, using the wron"
+title: 'How to Measure Your Air Filter: A Simple Guide'
+metaDescription: Replacing your air filter is essential for maintaining good indoor air quality and ensuring your HVAC system runs efficiently. However, using the wron
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Replacing your air filter is essential for maintaining good indoor air quality and ensuring your HVAC system runs efficiently. However, using the wron"
+excerpt: Replacing your air filter is essential for maintaining good indoor air quality and ensuring your HVAC system runs efficiently. However, using the wron
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -93,3 +93,9 @@ If replacing a missing or damaged filter, measure the slot where the filter sits
 - Consider upgrading to a higher MERV rating if allergies or pets are a concern.  
 
 By measuring correctly and choosing the right filter, you’ll improve air quality and extend your HVAC system’s lifespan.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+

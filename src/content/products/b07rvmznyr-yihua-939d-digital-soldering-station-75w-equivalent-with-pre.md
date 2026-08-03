@@ -1,14 +1,8 @@
 ---
 asin: B07RVMZNYR
-title: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control
-  (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display
-  (Black)
-seoTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat
-  Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F
-  display (Black) — review
-metaDescription: Hands-on notes on YIHUA 939D+ Digital Soldering Station, 75W Equivalent
-  with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe,
-  Lead Free with °C/°F display (Black).
+title: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)
+seoTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black) — review
+metaDescription: Hands-on notes on YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black).
 category: soldering-stations
 price: 59.99
 rating: 4.6
@@ -20,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B07RVMZNYR?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre
-cardTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat
-  Contro
+cardTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro
 cardPick: Solid pick for most readers
 tags: []
 ---

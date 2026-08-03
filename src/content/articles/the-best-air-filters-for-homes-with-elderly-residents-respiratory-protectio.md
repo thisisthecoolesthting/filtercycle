@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Elderly Residents: Respiratory Protection"
-metaDescription: "As we age, our respiratory systems become more vulnerable to airborne pollutants, allergens, and pathogens. For elderly residents, maintaining clean i"
+title: 'The Best Air Filters for Homes with Elderly Residents: Respiratory Protection'
+metaDescription: As we age, our respiratory systems become more vulnerable to airborne pollutants, allergens, and pathogens. For elderly residents, maintaining clean i
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "As we age, our respiratory systems become more vulnerable to airborne pollutants, allergens, and pathogens. For elderly residents, maintaining clean i"
+excerpt: As we age, our respiratory systems become more vulnerable to airborne pollutants, allergens, and pathogens. For elderly residents, maintaining clean i
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -111,3 +111,8 @@ If using a stand-alone purifier, choose one with a "sleep mode" for nighttime us
 For elderly residents, investing in the right air filtration system can significantly improve respiratory health and overall well-being. Prioritize filters with a MERV 11-13 rating for balanced performance, or opt for HEPA filters if maximum particle removal is needed. Pairing mechanical filtration with activated carbon or UV-C technology can further enhance air quality.  
 
 By selecting and maintaining the right air filters, you can create a cleaner, safer living environment for your loved ones.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

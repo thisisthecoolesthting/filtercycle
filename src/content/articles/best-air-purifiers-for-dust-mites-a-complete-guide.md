@@ -1,9 +1,9 @@
 ---
-title: "Best Air Purifiers for Dust Mites: A Complete Guide"
-metaDescription: "Dust mites are microscopic organisms that thrive in warm, humid environments and feed on dead skin cells. While they don’t bite or spread diseases, th"
+title: 'Best Air Purifiers for Dust Mites: A Complete Guide'
+metaDescription: Dust mites are microscopic organisms that thrive in warm, humid environments and feed on dead skin cells. While they don’t bite or spread diseases, th
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Dust mites are microscopic organisms that thrive in warm, humid environments and feed on dead skin cells. While they don’t bite or spread diseases, th"
+excerpt: Dust mites are microscopic organisms that thrive in warm, humid environments and feed on dead skin cells. While they don’t bite or spread diseases, th
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -84,3 +84,8 @@ While an air purifier can significantly reduce dust mite allergens, it’s impor
 ## Conclusion
 
 Choosing the right air purifier for dust mites can make a significant difference in your indoor air quality and overall health. Look for a True HEPA filter, a high CADR rating, and additional features like a pre-filter and quiet operation. Pair your air purifier with other dust mite-reducing strategies for the best results. By investing in the right equipment and adopting good cleaning habits, you can create a healthier, more comfortable living environment.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

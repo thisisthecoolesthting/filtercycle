@@ -1,9 +1,9 @@
 ---
-title: "DIY Air Quality Testing: Simple Ways to Monitor Your Home's Air"
-metaDescription: "Indoor air quality (IAQ) can significantly impact your health, comfort, and even your home’s HVAC efficiency. Poor air quality may lead to allergies,"
+title: 'DIY Air Quality Testing: Simple Ways to Monitor Your Home''s Air'
+metaDescription: Indoor air quality (IAQ) can significantly impact your health, comfort, and even your home’s HVAC efficiency. Poor air quality may lead to allergies,
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Indoor air quality (IAQ) can significantly impact your health, comfort, and even your home’s HVAC efficiency. Poor air quality may lead to allergies,"
+excerpt: Indoor air quality (IAQ) can significantly impact your health, comfort, and even your home’s HVAC efficiency. Poor air quality may lead to allergies,
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -115,3 +115,9 @@ When selecting tools or upgrades for better air quality, consider:
 DIY air quality testing is an affordable way to spot issues before they affect your health. Start with simple checks, then invest in monitors or test kits if needed. Pair testing with **proper filtration (MERV-rated filters), ventilation, and air purifiers** for a comprehensive approach. If tests reveal serious problems (like radon or structural mold), consult a professional.  
 
 By staying proactive, you can breathe easier knowing your home’s air is clean and safe.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+

@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Radiant Heating Systems"
-metaDescription: "Radiant heating systems provide consistent, comfortable warmth by circulating heat through floors, walls, or ceilings. While these systems don’t rely"
+title: The Best Air Filters for Homes with Radiant Heating Systems
+metaDescription: Radiant heating systems provide consistent, comfortable warmth by circulating heat through floors, walls, or ceilings. While these systems don’t rely
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Radiant heating systems provide consistent, comfortable warmth by circulating heat through floors, walls, or ceilings. While these systems don’t rely"
+excerpt: Radiant heating systems provide consistent, comfortable warmth by circulating heat through floors, walls, or ceilings. While these systems don’t rely
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -113,3 +113,8 @@ When selecting an air filter or purifier for a home with radiant heating, consid
 While radiant heating doesn’t circulate air like forced-air systems, maintaining clean indoor air is still essential. Standalone air purifiers with HEPA filters are the best choice for ductless homes, while MERV-rated filters work well for hybrid systems. Always prioritize filtration efficiency, airflow compatibility, and ease of maintenance when selecting an air filter for your radiant-heated home.  
 
 By choosing the right air filtration solution, you can enjoy the comfort of radiant heat while breathing cleaner, healthier air.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

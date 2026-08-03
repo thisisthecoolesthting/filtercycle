@@ -1,12 +1,8 @@
 ---
 asin: B07J2P2V7T
-title: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling
-  Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers
-seoTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling
-  Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers — review
-metaDescription: Hands-on notes on Utopia Bedding Bed Pillows for Sleeping Queen Size
-  (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side
-  Sleepers.
+title: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers
+seoTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers — review
+metaDescription: Hands-on notes on Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers.
 category: bed-pillows
 price: null
 rating: 4.5
@@ -18,10 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B07J2P2V7T?tag=filtercycle-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:09:21+00:00'
 slug: b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-
-cardTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling
-  Hot
+cardTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot
 cardPick: Solid pick for most readers
 tags: []
 ---

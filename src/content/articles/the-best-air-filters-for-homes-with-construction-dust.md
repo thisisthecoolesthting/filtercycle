@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Construction Dust"
-metaDescription: "Construction dust is a persistent problem in homes undergoing renovations or new builds. Fine particles like drywall dust, sawdust, and silica can lin"
+title: The Best Air Filters for Homes with Construction Dust
+metaDescription: Construction dust is a persistent problem in homes undergoing renovations or new builds. Fine particles like drywall dust, sawdust, and silica can lin
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Construction dust is a persistent problem in homes undergoing renovations or new builds. Fine particles like drywall dust, sawdust, and silica can lin"
+excerpt: Construction dust is a persistent problem in homes undergoing renovations or new builds. Fine particles like drywall dust, sawdust, and silica can lin
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -85,3 +85,8 @@ When selecting an air filter for construction dust, consider:
 For homes with construction dust, **pleated MERV 11-13 filters** offer the best balance of filtration and airflow. If dust levels are extreme, supplement with a **HEPA air purifier** or **deep-pleated filter**. Always monitor your HVAC system’s performance and replace filters frequently to maintain clean air and system efficiency.  
 
 By choosing the right filter and taking extra precautions, you can minimize construction dust’s impact on your home’s air quality and protect your HVAC system from damage.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

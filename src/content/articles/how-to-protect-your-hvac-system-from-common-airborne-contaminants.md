@@ -1,9 +1,9 @@
 ---
-title: "How to Protect Your HVAC System from Common Airborne Contaminants"
-metaDescription: "Your HVAC system plays a crucial role in maintaining indoor air quality, but it can also become a breeding ground for contaminants if not properly mai"
+title: How to Protect Your HVAC System from Common Airborne Contaminants
+metaDescription: Your HVAC system plays a crucial role in maintaining indoor air quality, but it can also become a breeding ground for contaminants if not properly mai
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Your HVAC system plays a crucial role in maintaining indoor air quality, but it can also become a breeding ground for contaminants if not properly mai"
+excerpt: Your HVAC system plays a crucial role in maintaining indoor air quality, but it can also become a breeding ground for contaminants if not properly mai
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -98,3 +98,9 @@ When evaluating products and strategies, prioritize:
 ✔ **Additional Tools** – Consider air purifiers or dehumidifiers if needed.  
 
 By taking these steps, you’ll extend your HVAC system’s lifespan, improve air quality, and reduce energy costs. A proactive approach ensures cleaner air and a healthier home.
+
+## Our picks worth a closer look
+
+- **[Filtrete Healthy Living Ultra Allergen 16x25x1, MERV 13](/products/b0002ynf8k-filtrete-merv-13-allergen/)** — see current price and specs.
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

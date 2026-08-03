@@ -1,9 +1,9 @@
 ---
-title: "The Best Air Filters for Homes with Infants: Protecting Delicate Lungs"
-metaDescription: "Infants have delicate respiratory systems, making clean indoor air essential for their health. Dust, pet dander, mold spores, and volatile organic com"
+title: 'The Best Air Filters for Homes with Infants: Protecting Delicate Lungs'
+metaDescription: Infants have delicate respiratory systems, making clean indoor air essential for their health. Dust, pet dander, mold spores, and volatile organic com
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Infants have delicate respiratory systems, making clean indoor air essential for their health. Dust, pet dander, mold spores, and volatile organic com"
+excerpt: Infants have delicate respiratory systems, making clean indoor air essential for their health. Dust, pet dander, mold spores, and volatile organic com
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -92,3 +92,8 @@ When selecting an air filter or purifier for a home with an infant, prioritize:
 ## Final Thoughts  
 
 Protecting an infant’s respiratory health starts with clean air. A well-chosen HVAC filter or HEPA purifier can drastically reduce airborne irritants, creating a safer environment for your baby. Focus on filters with proven efficiency, low noise, and no harmful emissions—your little one’s lungs will thank you.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+

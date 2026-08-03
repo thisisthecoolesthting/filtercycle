@@ -1,9 +1,9 @@
 ---
-title: "How to Reduce Pet Odors with the Right Air Filter"
-metaDescription: "Pet odors are a common challenge for pet owners, especially in homes with limited ventilation. These odors come from dander, urine, saliva, and fur, w"
+title: How to Reduce Pet Odors with the Right Air Filter
+metaDescription: Pet odors are a common challenge for pet owners, especially in homes with limited ventilation. These odors come from dander, urine, saliva, and fur, w
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Pet odors are a common challenge for pet owners, especially in homes with limited ventilation. These odors come from dander, urine, saliva, and fur, w"
+excerpt: Pet odors are a common challenge for pet owners, especially in homes with limited ventilation. These odors come from dander, urine, saliva, and fur, w
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -91,3 +91,9 @@ When selecting an air filter to reduce pet odors, consider:
 ## Final Thoughts  
 
 The right air filter can make a noticeable difference in reducing pet odors and improving indoor air quality. For most pet owners, a pleated MERV 11-13 filter with a carbon layer offers a good balance of odor control and HVAC compatibility. If odors persist, consider adding a standalone air purifier with HEPA and activated carbon for targeted relief. Regular maintenance—like filter changes and cleaning—will ensure your home stays fresh and healthy for both you and your pets.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+

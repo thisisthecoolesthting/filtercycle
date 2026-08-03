@@ -1,9 +1,9 @@
 ---
-title: "The Ultimate Guide to Furnace Filter Sizes: Find the Perfect Fit"
-metaDescription: "Choosing the right furnace filter size is critical for maintaining indoor air quality and HVAC efficiency. A poorly fitting filter can allow dust, all"
+title: 'The Ultimate Guide to Furnace Filter Sizes: Find the Perfect Fit'
+metaDescription: Choosing the right furnace filter size is critical for maintaining indoor air quality and HVAC efficiency. A poorly fitting filter can allow dust, all
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Choosing the right furnace filter size is critical for maintaining indoor air quality and HVAC efficiency. A poorly fitting filter can allow dust, all"
+excerpt: Choosing the right furnace filter size is critical for maintaining indoor air quality and HVAC efficiency. A poorly fitting filter can allow dust, all
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -92,3 +92,11 @@ If your system uses a non-standard size, consider custom filters or a filter ret
 - **Upgrade wisely**—higher MERV isn’t always better if your system can’t handle it.  
 
 By selecting the right furnace filter size and type, you’ll improve air quality, extend HVAC life, and save on energy costs. Always double-check measurements and consult your HVAC manual if unsure.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[Filtrete Healthy Living Ultra Allergen 16x25x1, MERV 13](/products/b0002ynf8k-filtrete-merv-13-allergen/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+

@@ -1,9 +1,9 @@
 ---
-title: "Understanding Air Filter Sizing: Common Mistakes and How to Avoid Them"
-metaDescription: "Choosing the right air filter for your HVAC system or furnace is critical for maintaining indoor air quality and system efficiency. However, many home"
+title: 'Understanding Air Filter Sizing: Common Mistakes and How to Avoid Them'
+metaDescription: Choosing the right air filter for your HVAC system or furnace is critical for maintaining indoor air quality and system efficiency. However, many home
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Choosing the right air filter for your HVAC system or furnace is critical for maintaining indoor air quality and system efficiency. However, many home"
+excerpt: Choosing the right air filter for your HVAC system or furnace is critical for maintaining indoor air quality and system efficiency. However, many home
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -86,3 +86,9 @@ To ensure you select the right filter, consider these factors:
 - **Consult an HVAC professional** – If unsure about sizing or MERV compatibility, ask a technician.  
 
 By avoiding these common mistakes, you’ll ensure better air quality, lower energy costs, and a longer-lasting HVAC system. Always double-check sizing before purchasing, and don’t hesitate to seek expert advice when needed.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+

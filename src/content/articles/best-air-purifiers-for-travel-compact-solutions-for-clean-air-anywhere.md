@@ -1,9 +1,9 @@
 ---
-title: "Best Air Purifiers for Travel: Compact Solutions for Clean Air Anywhere"
-metaDescription: "Traveling exposes you to varying air quality conditions—whether it’s airplane cabin air, hotel rooms with lingering odors, or pollution in urban desti"
+title: 'Best Air Purifiers for Travel: Compact Solutions for Clean Air Anywhere'
+metaDescription: Traveling exposes you to varying air quality conditions—whether it’s airplane cabin air, hotel rooms with lingering odors, or pollution in urban desti
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Traveling exposes you to varying air quality conditions—whether it’s airplane cabin air, hotel rooms with lingering odors, or pollution in urban desti"
+excerpt: Traveling exposes you to varying air quality conditions—whether it’s airplane cabin air, hotel rooms with lingering odors, or pollution in urban desti
 author: dana-wolff
 tags: []
 site: filtercycle
@@ -112,3 +112,9 @@ Ionizers release charged particles that attach to airborne contaminants, causing
 A travel air purifier is a smart investment for frequent travelers, allergy sufferers, or anyone concerned about air quality on the go. The **Levoit Core Mini** is our top pick for its balance of portability and performance, while the **Molekule Air Mini+** offers cutting-edge tech for those willing to pay a premium.  
 
 Before buying, assess your needs—whether it’s allergen removal, odor control, or germ protection—and choose a purifier that fits your travel style. Safe travels and breathe easy!
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

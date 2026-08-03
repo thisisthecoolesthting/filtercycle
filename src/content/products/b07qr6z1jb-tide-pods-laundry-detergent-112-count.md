@@ -3,12 +3,11 @@ asin: B07QR6Z1JB
 slug: b07qr6z1jb-tide-pods-laundry-detergent-112-count
 title: Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count
 seoTitle: Tide PODS 112-Count Price Tracker | RefillWatch
-metaDescription: Tide PODS price history and best-time-to-buy data. See how the 112-count
-  compares per-load to liquid Tide and off-brand pods.
+metaDescription: Tide PODS price history and best-time-to-buy data. See how the 112-count compares per-load to liquid Tide and off-brand pods.
 cardTitle: Tide PODS (112-count)
 cardPick: Price swings 30%+ — only buy below $22
 category: laundry
-price: 27.49
+price: 119.99
 rating: 4.8
 reviewCount: 89210
 bsr: 3
@@ -19,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=filtercycle-20&linkCode=l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-05-08T00:00:00+00:00'
+lastSeen: '2026-08-03T15:09:21+00:00'
 tags:
 - laundry
 - household

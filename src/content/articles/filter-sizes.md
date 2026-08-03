@@ -1,13 +1,17 @@
 ---
-title: "Finding the Right Air Filter Size: A Complete Guide with Calculator"
-metaDescription: "Use our air filter size calculator to find compatible filters for your HVAC system. Learn how to measure and choose the best replacement air filters for cleaner indoor air."
+title: 'Finding the Right Air Filter Size: A Complete Guide with Calculator'
+metaDescription: Use our air filter size calculator to find compatible filters for your HVAC system. Learn how to measure and choose the best replacement air filters for cleaner indoor air.
 publishedAt: '2026-08-02'
 updatedAt: '2026-08-02'
-excerpt: "Struggling to find the right air filter size? Our guide and calculator help you measure correctly and discover compatible filters for your home."
+excerpt: Struggling to find the right air filter size? Our guide and calculator help you measure correctly and discover compatible filters for your home.
 status: published
-tags: ["air filter size calculator"]
+tags:
+- air filter size calculator
 author: jordan-reed-filtercycle
-relatedProducts: [b01n5ib20q-amazon-basics-aa-batteries-48-pack, b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack, b00hhqx0bq-folgers-classic-roast-coffee-48oz]
+relatedProducts:
+- b01n5ib20q-amazon-basics-aa-batteries-48-pack
+- b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack
+- b00hhqx0bq-folgers-classic-roast-coffee-48oz
 ---
 Choosing the right air filter size is crucial for maintaining your HVAC system's efficiency and indoor air quality. Many homeowners accidentally purchase the wrong size, leading to gaps that allow dust and allergens to bypass the filter entirely. Our air filter size calculator takes the guesswork out of finding compatible replacements by matching your measurements with actual products.
 
@@ -52,3 +56,11 @@ Q: How often should I change my air filter?
 A: Standard 1-2" filters typically need replacement every 90 days, while thicker filters may last 6-12 months.
 
 For the most compatible options based on your specific measurements, check out [our top-rated picks](/products/) that work with your HVAC system.
+
+## Our picks worth a closer look
+
+- **[Filtrete 16x25x1 AC Furnace Air Filter, MPR 1000 MERV 11](/products/b00dkflp4g-filtrete-16x25-merv-11/)** — see current price and specs.
+- **[GE MWF Refrigerator Water Filter](/products/b000w7v2yc-ge-mwf-fridge-filter/)** — see current price and specs.
+- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+
