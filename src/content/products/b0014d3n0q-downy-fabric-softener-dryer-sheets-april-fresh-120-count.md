@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0014D3N0Q?tag=filtercycle-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:09:21+00:00'
+lastSeen: '2026-08-03T15:10:08+00:00'
 slug: b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count
 cardTitle: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count
 cardPick: Solid pick for most readers

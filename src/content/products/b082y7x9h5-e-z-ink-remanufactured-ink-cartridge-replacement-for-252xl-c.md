@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=filtercycle-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:09:21+00:00'
+lastSeen: '2026-08-03T15:10:08+00:00'
 slug: b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c
 cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson
 cardPick: Solid pick for most readers

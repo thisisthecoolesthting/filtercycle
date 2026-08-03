@@ -16,7 +16,7 @@ affiliateUrl: https://www.amazon.com/dp/B00DKFLP4G?tag=filtercycle-20
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'
-lastSeen: '2026-08-03T15:09:21+00:00'
+lastSeen: '2026-08-03T15:10:08+00:00'
 tags:
 - filtrete
 - merv-11

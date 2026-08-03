@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=filtercycle-20&linkCode=l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:09:21+00:00'
+lastSeen: '2026-08-03T15:10:08+00:00'
 tags:
 - batteries
 - household
