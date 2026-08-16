@@ -12,7 +12,7 @@ reviewCount: 120400
 commissionPerSale: 0
 score: 81
 imageUrl: https://m.media-amazon.com/images/I/61fridge-filter.jpg
-affiliateUrl: https://www.amazon.com/dp/B000W7V2YC?tag=filtercycle-20
+affiliateUrl: https://www.amazon.com/dp/B000W7V2YC
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'

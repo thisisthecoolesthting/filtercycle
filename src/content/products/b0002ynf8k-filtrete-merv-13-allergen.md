@@ -12,7 +12,7 @@ reviewCount: 54100
 commissionPerSale: 0
 score: 84
 imageUrl: https://m.media-amazon.com/images/I/61filter-placeholder.jpg
-affiliateUrl: https://www.amazon.com/dp/B0002YNF8K?tag=filtercycle-20
+affiliateUrl: https://www.amazon.com/dp/B0002YNF8K
 isPrime: true
 status: published
 firstSeen: '2026-06-01T00:00:00+00:00'

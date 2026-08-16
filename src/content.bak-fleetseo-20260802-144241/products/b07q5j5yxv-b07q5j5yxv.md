@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07Q5J5YXV?tag=filtercycle-20"
+affiliateUrl: "https://www.amazon.com/dp/B07Q5J5YXV"
 isPrime: false
 status: published
 firstSeen: "2026-06-02"

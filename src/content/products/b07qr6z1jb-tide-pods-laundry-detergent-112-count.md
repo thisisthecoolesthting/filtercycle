@@ -14,7 +14,7 @@ bsr: 3
 commissionPerSale: 0.0
 score: 88.0
 imageUrl: /images/products/B07QR6Z1JB.jpg
-affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=filtercycle-20&linkCode=ll1&language=en_US
+affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB&language=en_US
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'

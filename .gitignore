@@ -7,3 +7,4 @@ build/
 .env.production.local
 .DS_Store
 .env
+.amz_strip_backup/

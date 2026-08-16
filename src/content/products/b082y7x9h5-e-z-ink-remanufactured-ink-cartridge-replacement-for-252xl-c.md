@@ -10,7 +10,7 @@ bsr: 1434
 commissionPerSale: 0
 score: 0
 imageUrl: /images/products/B082Y7X9H5.jpg
-affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=filtercycle-20
+affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
